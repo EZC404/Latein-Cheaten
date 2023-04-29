@@ -1,0 +1,298 @@
+{
+  "vocs": [
+    {
+      "ws": "2",
+      "stammformen": ["testo", "testi", "testa", "testere"],
+      "name": "test"
+    },
+    {
+      "ws": "WS87",
+      "stammformen": ["colloqui", "colloquor", "colloqutus"],
+      "name": "colloqui"
+    },
+    {
+      "ws": "WS87",
+      "name": "versari",
+      "stammformen": ["versari", "versor", "versatus"]
+    },
+    {
+      "ws": "WS87",
+      "name": "mirari",
+      "stammformen": ["mirari", "miror", "miratus"]
+    },
+    {
+      "ws": "WS87",
+      "name": "opinari",
+      "stammformen": ["opinor", "opinatus", "opinari"]
+    },
+    {
+      "ws": "WS87",
+      "name": "anima",
+      "stammformen": ["anima"]
+    },
+    {
+      "ws": "WS87",
+      "name": "oriri",
+      "stammformen": ["oriri", "orior", "oratus"]
+    },
+    {
+      "ws": "WS87",
+      "name": "conari",
+      "stammformen": ["conari", "conor", "conatus"]
+    },
+    {
+      "ws": "WS87",
+      "name": "ratio",
+      "stammformen": ["ratio", "rationis"]
+    },
+    {
+      "ws": "WS87",
+      "name": "mori",
+      "stammformen": ["mori", "morior", "mortuus"]
+    },
+    {
+      "ws": "WS87",
+      "name": "intueri",
+      "stammformen": ["intueri", "intueor"]
+    },
+    {
+      "ws": "WS87",
+      "name": "supremus",
+      "stammformen": ["supremus", "suprema", "supremum"]
+    },
+    {
+      "ws": "WS87",
+      "name": "spiritus",
+      "stammformen": ["spiritus"]
+    },
+    {
+      "ws": "WS87",
+      "name": "egredi",
+      "stammformen": ["egredi", "egredior", "egressus"]
+    },
+    {
+      "ws": "WS87",
+      "name": "proficisci",
+      "stammformen": ["proficisci", "proficiscor", "profectus"]
+    },
+    {
+      "ws": "WS87",
+      "name": "hortari",
+      "stammformen": ["hortari", "hortor", "hortatus"]
+    }
+  ],
+  "texte": [
+    {
+      "text": "Petit Gemellus nuptias MaronillaeEt cupit et instat et precatur et donat.Adeone pulchra est? immo foedius nil est.Quid ergo in illa petitur et placet? Tussit.",
+      "name": "1,10"
+    },
+    {
+      "text": "Sunt bona, sunt quaedam mediocria, sunt mala plura,Quae legis hic: aliter non fit, Avite, liber.",
+      "name": "1,16"
+    },
+    {
+      "text": "Si memini, fuerant tibi quattuor, Aelia, dentes:Expulit una duos tussis et una duos.Iam secura potes totis tussire diebus:Nil istic quod agat tertia tussis habet.",
+      "name": "1,19"
+    },
+    {
+      "text": "Aspicis incomptis illum, Deciane, capillis,Cuius et ipse times triste supercilium,Qui loquitur Curios adsertoresque Camillos?Nolito fronti credere: nupsit heri.",
+      "name": "1,24"
+    },
+    {
+      "text": "Hesterno fetere mero qui credit Acerram,Fallitur: in lucem semper Acerra bibit.",
+      "name": "1,28"
+    },
+    {
+      "text": "Fama refert nostros te, Fidentine, libellosNon aliter populo quam recitare tuos.Si mea vis dici, gratis tibi carmina mittam:Si dici tua vis, hoc eme, ne mea sint.",
+      "name": "1,29"
+    },
+    {
+      "text": "Amissum non flet cum sola est Gellia patrem,Si quis adest, iussae prosiliunt lacrimae.Non luget quisquis laudari, Gellia, quaerit,Ille dolet vere, qui sine teste dolet.",
+      "name": "1,33"
+    },
+    {
+      "text": "Quem recitas meus est, o Fidentine, libellus:Sed male cum recitas, incipit esse tuus.",
+      "name": "1,38"
+    },
+    {
+      "text": "Nuper erat medicus, nunc est vispillo Diaulus:Quod vispillo facit, fecerat et medicus.",
+      "name": "1,47"
+    },
+    {
+      "text": "Qualem, Flacce, velim quaeris nolimve puellam?Nolo nimis facilem difficilemque nimis.Illud quod medium est atque inter utrumque probamus:Nec volo quod cruciat, nec volo quod satiat.",
+      "name": "1,57"
+    },
+    {
+      "text": "Ut recitem tibi nostra rogas epigrammata. Nolo.Non audire, Celer, sed recitare cupis.",
+      "name": "1,63"
+    },
+    {
+      "text": "Quidquid agit Rufus, nihil est nisi Naevia Rufo.Si gaudet, si flet, si tacet, hanc loquitur.Cenat, propinat, poscit, negat, innuit: una estNaevia; si non sit Naevia, mutus erit.Scriberet hesterna patri cum luce salutem,'Naevia lux' inquit 'Naevia lumen, have.'Haec legit et ridet demisso Naevia voltu.Naevia non una est: quid, vir inepte, furis?",
+      "name": "1,68"
+    },
+    {
+      "text": "Dimidium donare Lino quam credere totumQui mavolt, mavolt perdere dimidium.",
+      "name": "1,75"
+    },
+    {
+      "text": "Semper agis causas et res agis, Attale, semper:Est, non est, quod agas, Attale, semper agis.Si res et causae desunt, agis, Attale, mulas.Attale, ne, quod agas, desit, agas animam.",
+      "name": "1,79"
+    },
+    {
+      "text": "Cum tua non edas, carpis mea carmina, Laeli.Carpere vel noli nostra vel ede tua.",
+      "name": "1,91"
+    },
+    {
+      "text": "Quod clamas semper, quod agentibus obstrepis, Aeli,Non facis hoc gratis: accipis, ut taceas.",
+      "name": "1,95"
+    },
+    {
+      "text": "Scribere me quereris, Velox, epigrammata longa.Ipse nihil scribis: tu breviora facis.",
+      "name": "1,110"
+    },
+    {
+      "text": "Cui legisse satis non est epigrammata centum,Nil illi satis est, Caediciane, mali.",
+      "name": "1,118"
+    },
+    {
+      "text": "Sexte, nihil debes, nil debes, Sexte, fatemur.Debet enim, si quis solvere, Sexte, potest.",
+      "name": "2,3"
+    },
+    {
+      "text": "Declamas belle, causas agis, Attice, belle,Historias bellas, carmina bella facis,Componis belle mimos, epigrammata belle,Bellus grammaticus, bellus es astrologus,Et belle cantas et saltas, Attice, belle,Bellus es arte lyrae, bellus es arte pilae.Nil bene cum facias, facias tamen omnia belle,Vis dicam, quid sis? magnus es ardalio.",
+      "name": "2,7"
+    },
+    {
+      "text": "Basia dimidio quod das mihi, Postume, labro,Laudo: licet demas hinc quoque dimidium.Vis dare maius adhuc et inenarrabile munus?Hoc tibi habe totum, Postume, dimidium.",
+      "name": "2,10"
+    },
+    {
+      "text": "Esse quid hoc dicam, quod olent tua basia murramQuodque tibi est numquam non alienus odor?Hoc mihi suspectum est, quod oles bene, Postume, semper:Postume, non bene olet qui bene semper olet.",
+      "name": "2,12"
+    },
+    {
+      "text": "Et iudex petit et petit patronus.Solvas censeo, Sexte, creditori.",
+      "name": "2,13"
+    },
+    {
+      "text": "Carmina Paulus emit, recitat sua carmina Paulus.Nam quod emas, possis iure vocare tuum.",
+      "name": "2,20"
+    },
+    {
+      "text": "Basia das aliis, aliis das, Postume, dextram.Dicis 'Utrum mavis? elige.' Malo manum",
+      "name": "2,21"
+    },
+    {
+      "text": "Das numquam, semper promittis, Galla, roganti.Si semper fallis, iam rogo, Galla, nega.",
+      "name": "2,25"
+    },
+    {
+      "text": "Cum sint crura tibi similent quae cornua lunae,In rhytio poteras, Phoebe, lavare pedes.",
+      "name": "2,35"
+    },
+    {
+      "text": "Quid mihi reddat ager quaeris, Line, Nomentanus?Hoc mihi reddit ager: te, Line, non video.",
+      "name": "2,38"
+    },
+    {
+      "text": "Gentibus in Libycis uxor tua, Galle, male auditImmodicae foedo crimine avaritiae.Sed mera narrantur mendacia: non solet illaAccipere omnino. Quid solet ergo? Dare.",
+      "name": "2,56"
+    },
+    {
+      "text": "Pexatus pulchre rides mea, Zoile, trita.Sunt haec trita quidem, Zoile, sed mea sunt.",
+      "name": "2,58"
+    },
+    {
+      "text": "Unus de toto peccaverat orbe comarumAnulus, incerta non bene fixus acu.Hoc facinus Lalage speculo, quo viderat, ulta est,Et cecidit saevis icta Plecusa comis.Desine iam, Lalage, tristes ornare capillos,Tangat et insanum nulla puella caput.Hoc salamandra notet vel saeva novacula nudet,Ut digna speculo fiat imago tua.",
+      "name": "2,66"
+    },
+    {
+      "text": "Occurris quocumque loco mihi, Postume, clamasProtinus et prima est haec tua vox 'Quid agis?'Hoc, si me decies una conveneris hora,Dicis: habes puto tu, Postume, nil quod agas.",
+      "name": "2,67"
+    },
+    {
+      "text": "Aestivo serves ubi piscem tempore, quaeris?In thermis serva, Caeciliane, tuis.",
+      "name": "2,78"
+    },
+    {
+      "text": "Hostem cum fugeret, se Fannius ipse peremit.Hic, rogo, non furor est, ne moriare, mori?",
+      "name": "2,80"
+    },
+    {
+      "text": "Dicis amore tui bellas ardere puellas,Qui faciem sub aqua, Sexte, natantis habes.XCIII\n Das letzte Epigramm des I(I). Buches'Primus ubi est' inquis 'cum sit liber iste secundus?'Quid faciam, si plus ille pudoris habet?Tu tamen hunc fieri si mavis, Regule, primum,Unum de titulo tollere iota potes.",
+      "name": "2,87"
+    },
+    {
+      "text": "'Thaida Quintus amat.' Quam Thaida? 'Thaida luscam.'Unum oculum Thais non habet, ille duos.",
+      "name": "3,8"
+    },
+    {
+      "text": "Versiculos in me narratur scribere Cinna.Non scribit, cuius carmina nemo legit.",
+      "name": "3,9"
+    },
+    {
+      "text": "Si tua nec Thais nec lusca est, Quinte, puella,Cur in te factum distichon esse putas?Sed similest aliquid? pro Laide Thaida dixi?Dic mihi, quid simile est Thais et Hermione?Tu tamen es Quintus: mutemus nomen amantis:Si non vult Quintus, Thaida Sextus amet.",
+      "name": "3,11"
+    },
+    {
+      "text": "Unguentum, fateor, bonum dedistiConvivis here, sed nihil scidisti.Res salsa est bene olere et esurire.Qui non cenat et unguitur, Fabulle,Hic vere mihi mortuus videtur.",
+      "name": "3,12"
+    },
+    {
+      "text": "Circumlata diu mensis scribilita secundisUrebat nimio saeva calore manus;Sed magis ardebat Sabidi gula: protinus ergoSufflavit buccis terque quaterque suis.Illa quidem tepuit digitosque admittere visa est,Sed nemo potuit tangere: merda fuit.",
+      "name": "3,17"
+    },
+    {
+      "text": "Quae te causa trahit vel quae fiducia Romam,Sexte? quid aut speras aut petis inde? refer.'Causas' inquis 'agam Cicerone disertior ipsoAtque erit in triplici par mihi nemo foro.'Egit Atestinus causas et Civis - utrumqueNoras - ; sed neutri pensio tota fuit.'Si nihil hinc veniet, pangentur carmina nobis:Audieris, dices esse Maronis opus.'Insanis: omnes gelidis quicumque lacernisSunt ibi, Nasones Vergiliosque vides.'Atria magna colam.' Vix tres aut quattuor istaRes aluit, pallet cetera turba fame.'Quid faciam? suade: nam certum est vivere Romae.'Si bonus es, casu vivere, Sexte, potes.",
+      "name": "3,38"
+    },
+    {
+      "text": "Mentiris iuvenem tinctis, Laetine, capillis,Tam subito corvus, qui modo cycnus eras.Non omnes fallis; scit te Proserpina canum:Personam capiti detrahet illa tuo.",
+      "name": "3,43"
+    },
+    {
+      "text": "Sit cisterna mihi, quam vinea, malo Ravennae,Cum possim multo vendere pluris aquam.",
+      "name": "3,56"
+    },
+    {
+      "text": "Esse nihil dicis quidquid petis, inprobe Cinna:Si nil, Cinna, petis, nil tibi, Cinna, nego.",
+      "name": "3,61"
+    },
+    {
+      "text": "Cotile, bellus homo es: dicunt hoc, Cotile, multi.Audio: sed quid sit, dic mihi, bellus homo.''Bellus homo est, flexos qui digerit ordine crines,Balsama qui semper, cinnama semper olet;Cantica qui Nili, qui Gaditana susurrat,Qui movet in varios bracchia volsa modos;Inter femineas tota qui luce cathedrasDesidet atque aliqua semper in aure sonat,Qui legit hinc illinc missas scribitque tabellas;Pallia vicini qui refugit cubiti;Qui scit, quam quis amet, qui per convivia currit,Hirpini veteres qui bene novit avos.'Quid narras? hoc est, hoc est homo, Cotile, bellus?Res pertricosa est, Cotile, bellus homo.",
+      "name": "3,63"
+    },
+    {
+      "text": "Nulli, Thai, negas, sed si te non pudet istud,Hoc saltem pudeat, Thai, negare nihil.",
+      "name": "4,12"
+    },
+    {
+      "text": "Nullos esse deos, inane caelumAdfirmat Segius: probatque, quod seFactum, dum negat haec, videt beatum.",
+      "name": "4,21"
+    },
+    {
+      "text": "Omnes quas habuit, Fabiane, Lycoris amicasExtulit: uxori fiat amica meae.",
+      "name": "4,24"
+    },
+    {
+      "text": "Cana est barba tibi, nigra est coma: tinguere barbamNon potes - haec causa est - et potes, Ole, comam.",
+      "name": "4,36"
+    },
+    {
+      "text": "Quid recitaturus circumdas vellera collo?Conveniunt nostris auribus ista magis.",
+      "name": "4,41"
+    },
+    {
+      "text": "Munera quod senibus viduisque ingentia mittis,Vis te munificum, Gargiliane, vocem?Sordidius nihil est, nihil est te spurcius uno,Qui potes insidias dona vocare tuas:Sic avidis fallax indulget piscibus hamus,callida sic stultas decipit esca feras.Quid sit largiri, quid sit donare, docebo,Si nescis: dona, Gargiliane, mihi.",
+      "name": "4,56"
+    },
+    {
+      "text": "Exigis, ut donem nostros tibi, Quinte, libellos.Non habeo, sed habet bibliopola Tryphon.'Aes dabo pro nugis et emam tua carmina sanus?Non' inquis 'faciam tam fatue.' Nec ego.",
+      "name": "4,72"
+    },
+    {
+      "text": "Nos bibimus vitro, tu murra, Pontice. Quare?Prodat perspicuus ne duo vina calix.LXXXIX\n Abschlussgedicht des 4. BuchesOhe, iam satis est, ohe, libelle,Iam pervenimus usque ad umbilicos.Tu procedere adhuc et ire quaeris,Nec summa potes in schida teneri,Sic tamquam tibi res peracta non sit,Quae prima quoque pagina peracta est.Iam lector queriturque deficitque,Iam librarius hoc et ipse dicit'Ohe, iam satis est, ohe, libelle.'",
+      "name": "4,85"
+    }
+  ]
+}

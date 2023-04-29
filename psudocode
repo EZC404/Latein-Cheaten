@@ -1,0 +1,18 @@
+jsonVocabeln = "list.json"
+
+for jsonVoc 
+database.add jsonVoc
+end
+
+aktuelleVoc
+
+for word in aktuell latein text
+curVoc database.findWord word
+
+curVoc.count++
+
+aktuelleVoc += word
+
+end
+
+aktueller latein text count / aktuelleVoc
