@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Object Array to JSON</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        flex-direction: column;
+        background-color: #f7f7f7;
+      }
+
+      .container {
+        margin-top: 50px;
+        width: 400px;
+        padding: 20px;
+        background-color: white;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+      }
+
+      h1 {
+        text-align: center;
+        margin-top: 0;
+      }
+
+      form {
+        margin-bottom: 20px;
+      }
+
+      label {
+        font-weight: bold;
+      }
+
+      input[type="text"] {
+        width: calc(100% - 12px);
+        padding: 5px;
+        margin-bottom: 10px;
+      }
+
+      button {
+        width: 100%;
+        padding: 8px 16px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+
+      button:hover {
+        background-color: #45a049;
+      }
+
+      #output {
+        font-size: 14px;
+        padding: 10px;
+        background-color: #f0f0f0;
+        white-space: pre-wrap;
+        word-break: break-all;
+      }
+
+      #json-container {
+        text-align: center;
+        width: 70%;
+      }
+    </style>
+    <script>
+      // Array to store the objects
+      var objectArray = [];
+
+      function readDb() {
+        let data = prompt("Enter old json data");
+        data = JSON.parse(data);
+        data.forEach((element) => {
+          objectArray.push(element);
+        });
+        // Format the array as JSON
+        var jsonString = JSON.stringify(objectArray, null, null);
+
+        // Display the formatted JSON
+        document.getElementById("output").innerHTML = jsonString;
+      }
+
+      function addObject() {
+        // Get input values
+        var ws = document.getElementById("ws").value;
+        var stammformen = document
+          .getElementById("stammformen")
+          .value.split(",");
+        var name = document.getElementById("name").value;
+
+        // Create the object
+        var obj = {
+          ws: ws,
+          stammformen: stammformen,
+          name: name,
+        };
+
+        // Add the object to the array
+        objectArray.push(obj);
+
+        // Format the array as JSON
+        var jsonString = JSON.stringify(objectArray, null, null);
+
+        // Display the formatted JSON
+        document.getElementById("output").innerHTML = jsonString;
+
+        // Clear input fields
+        document.getElementById("stammformen").value = "";
+        document.getElementById("name").value = "";
+      }
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Load old db File</h1>
+      <form>
+        <button type="button" onclick="readDb()">Load old db</button>
+      </form>
+    </div>
+
+    <div class="container">
+      <h1>Object Array to JSON</h1>
+      <form>
+        <label for="ws">WS:</label>
+        <input type="text" id="ws" required />
+
+        <label for="stammformen">Stammformen (comma-separated):</label>
+        <input type="text" id="stammformen" required />
+
+        <label for="name">Name:</label>
+        <input type="text" id="name" required />
+
+        <button type="button" onclick="addObject()">Add Object</button>
+      </form>
+    </div>
+
+    <div id="json-container">
+      <h2>Formatted JSON:</h2>
+      <pre id="output"></pre>
+    </div>
+  </body>
+</html>
