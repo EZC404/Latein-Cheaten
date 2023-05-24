@@ -112,6 +112,12 @@
         document.getElementById("stammformen").value = "";
         document.getElementById("name").value = "";
       }
+
+      function handleKeyPress(event) {
+        if (event.keyCode === 13) {
+          addObject();
+        }
+      }
     </script>
   </head>
   <body>
@@ -126,13 +132,31 @@
       <h1>Object Array to JSON</h1>
       <form>
         <label for="ws">WS:</label>
-        <input type="text" id="ws" required />
+        <input
+          type="text"
+          id="ws"
+          onkeydown="handleKeyPress(event)"
+          required
+          tabindex="1"
+        />
 
         <label for="stammformen">Stammformen (comma-separated):</label>
-        <input type="text" id="stammformen" required />
+        <input
+          type="text"
+          id="stammformen"
+          onkeydown="handleKeyPress(event)"
+          required
+          tabindex="2"
+        />
 
         <label for="name">Name:</label>
-        <input type="text" id="name" required />
+        <input
+          type="text"
+          id="name"
+          onkeydown="handleKeyPress(event)"
+          required
+          tabindex="3"
+        />
 
         <button type="button" onclick="addObject()">Add Object</button>
       </form>
