@@ -118,6 +118,31 @@
           addObject();
         }
       }
+
+      function focusNextInput(event) {
+        var inputs = document.querySelectorAll('input[type="text"]');
+        var currentInput = event.target;
+
+        var currentIndex = Array.prototype.indexOf.call(inputs, currentInput);
+        var nextIndex = (currentIndex + 1) % inputs.length;
+
+        if (nextIndex < inputs.length) {
+          inputs[nextIndex].focus();
+          event.preventDefault();
+        }
+      }
+
+      document.addEventListener("DOMContentLoaded", function () {
+        var inputs = document.querySelectorAll('input[type="text"]');
+
+        for (var i = 0; i < inputs.length; i++) {
+          inputs[i].addEventListener("keydown", function (event) {
+            if (event.keyCode === 9 && !event.shiftKey) {
+              focusNextInput(event);
+            }
+          });
+        }
+      });
     </script>
   </head>
   <body>
