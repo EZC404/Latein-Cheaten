@@ -1,11 +1,6 @@
 {
   "vocs": [
     {
-      "ws": "2",
-      "stammformen": ["testo", "testi", "testa", "testere"],
-      "name": "test"
-    },
-    {
       "ws": "WS87",
       "stammformen": ["colloqui", "colloquor", "colloqutus"],
       "name": "colloqui"
@@ -79,219 +74,1444 @@
       "ws": "WS87",
       "name": "hortari",
       "stammformen": ["hortari", "hortor", "hortatus"]
+    },
+    {
+      "ws": "71",
+      "stammformen": ["doctus", "docta", "doctum"],
+      "name": "docus"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["aliquis", "aliquid"],
+      "name": "aliquis"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["imprimis"],
+      "name": "imprimis"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["cupidus", "cupida", "cupidum"],
+      "name": "cupidus"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["constare", "consto", "constiti"],
+      "name": "constare"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["aliqui", "aliqua", "aliquod"],
+      "name": "aliqui"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["nec", "neque"],
+      "name": "nec"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["casus"],
+      "name": "casus"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["opinio", "opinionis"],
+      "name": "opinio"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["motus"],
+      "name": "motus"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["quondam"],
+      "name": "quondam"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["sidus", "sideris"],
+      "name": "sidus"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["sapere", "sapio", "sapivi"],
+      "name": "sapere"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["miscere", "misceo", "miscui", "mixtum"],
+      "name": "miscere"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["meridies", "meridiei"],
+      "name": "meridies"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["cernere", "cerno"],
+      "name": "cernere"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["cursus"],
+      "name": "cursus"
+    },
+    {
+      "ws": "71",
+      "stammformen": ["nocturnus", "nocturna", "nocturnum"],
+      "name": "nocturnus"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["audere", "audeo", "ausus"],
+      "name": "audere"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["solere", "soleo", "solitus"],
+      "name": "solere"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["confidere", "confido", "confisus"],
+      "name": "confidere"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["creber", "crebra", "crebrum"],
+      "name": "creber"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["reverti", "revertor", "reverti", "reversum"],
+      "name": "reverti"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["perspicere", "perspicio", "perspexi", "perspectum"],
+      "name": "persipcere"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["perpetuus", "perpetua", "perpetuu"],
+      "name": "perpetuus"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["stella"],
+      "name": "stella"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["celeritas"],
+      "name": "celeritas"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["vulgo"],
+      "name": "vulgo"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["quomodo"],
+      "name": "quomodo"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["gaudere", "gaudeo", "gavisus"],
+      "name": "gaudere"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["reperire", "reperio", "repperi", "repertum"],
+      "name": "reperire"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["fingere", "fingo", "finxi", "fictum"],
+      "name": "fingere"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["currus"],
+      "name": "currus"
+    },
+    {
+      "ws": "97",
+      "stammformen": ["nauta"],
+      "name": "nauta"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["bibiliotheca"],
+      "name": "bibiliotheca"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["incolumnis", "incolumne"],
+      "name": "incolumnis"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["philisophia"],
+      "name": "philisophia"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["permovere", "permove", "permovi", "permotum"],
+      "name": "permovere"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["proximus", "proxima", "proximum"],
+      "name": "proximus"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["optimus", "quisque"],
+      "name": "optimus"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["quisque", "quaeque", "quodque"],
+      "name": "quisque"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["pudor", "pudoris"],
+      "name": "pudor"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["ultimus", "ultima", "ultimum", "ultim"],
+      "name": "ultimus"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["furtum"],
+      "name": "furtum"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["auferre", "aufer", "abstul", "ablatum"],
+      "name": "auferre"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["praeter"],
+      "name": "praeter"
+    },
+    {
+      "ws": "84",
+      "stammformen": ["discedere", "discd", "diescessi", "discessum"],
+      "name": "discedere"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["sum", "est", "esse"],
+      "name": "esse"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["amica"],
+      "name": "amica"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["ridere", "rede", "risi"],
+      "name": "ridere"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["non"],
+      "name": "non"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["cur"],
+      "name": "cur"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["parere", "par", "parit", "paru"],
+      "name": "parere"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["monere", "mone", "moni"],
+      "name": "monere"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["debere", "debiti", "debe", "debui"],
+      "name": "debere"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["quid"],
+      "name": "quid"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["timere", "time", "timu"],
+      "name": "timere"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["oculus"],
+      "name": "oculus"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["dolere", "dol"],
+      "name": "dolere"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["nunc"],
+      "name": "nunc"
+    },
+    {
+      "ws": "2",
+      "stammformen": ["tacere"],
+      "name": "tacere"
+    },
+    {
+      "ws": "10",
+      "stammformen": ["patere", "pateo"],
+      "name": "patere"
+    },
+    {
+      "ws": "10",
+      "stammformen": ["exspectare", "exspecto"],
+      "name": "exspectare"
+    },
+    {
+      "ws": "10",
+      "stammformen": ["venire", "veni"],
+      "name": "venire"
+    },
+    {
+      "ws": "10",
+      "stammformen": ["audire", "audi"],
+      "name": "audire"
+    },
+    {
+      "ws": "10",
+      "stammformen": ["nihil"],
+      "name": "nihil"
+    },
+    {
+      "ws": "10",
+      "stammformen": ["ludus"],
+      "name": "ludus"
+    },
+    {
+      "ws": "10",
+      "stammformen": ["scire", "sci"],
+      "name": "scire"
+    },
+    {
+      "ws": "10",
+      "stammformen": ["unde"],
+      "name": "unde"
+    },
+    {
+      "ws": "10",
+      "stammformen": ["desiderare", "desider"],
+      "name": "desiderare"
+    },
+    {
+      "ws": "10",
+      "stammformen": ["nescire", "nesci"],
+      "name": "nescire"
+    },
+    {
+      "ws": "10",
+      "stammformen": ["ut"],
+      "name": "ut"
+    },
+    {
+      "ws": "10",
+      "stammformen": ["habitare", "habit"],
+      "name": "habitare"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["ego"],
+      "name": "ego"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["tu"],
+      "name": "tu"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["ne"],
+      "name": "ne"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["vos"],
+      "name": "vos"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["mihi"],
+      "name": "mihi"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["me"],
+      "name": "me"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["tecum"],
+      "name": "tecum"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["nos"],
+      "name": "nos"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["vobiscum"],
+      "name": "vobiscum"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["tibi"],
+      "name": "tibi"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["nos"],
+      "name": "nos"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["nobis"],
+      "name": "nobis"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["vobis"],
+      "name": "vobis"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["ita"],
+      "name": "ita"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["vos"],
+      "name": "vos"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["clamare", "clam"],
+      "name": "clamare"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["errare", "err"],
+      "name": "errare"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["invenire", "inveni"],
+      "name": "invenire"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["te"],
+      "name": "te"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["sine"],
+      "name": "sine"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["me"],
+      "name": "me"
+    },
+    {
+      "ws": "13",
+      "stammformen": ["liberare", "liber"],
+      "name": "liberare"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["duo", "duae", "duo"],
+      "name": "duo"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["carrus"],
+      "name": "carrus"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["stare", "sto"],
+      "name": "stare"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["bibere", "bib"],
+      "name": "bibere"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["discere", "disc"],
+      "name": "discere"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["nuntius"],
+      "name": "nuntius"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["mittere", "mitt"],
+      "name": "mittere"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["scribere", "scrib"],
+      "name": "scribere"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["relinquere", "relinqu"],
+      "name": "relinquere"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["ducere", "duc"],
+      "name": "ducere"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["oppidum"],
+      "name": "oppidum"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["trahere", "trah"],
+      "name": "trahere"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["ostendere", "ostend"],
+      "name": "ostendere"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["per"],
+      "name": "per"
+    },
+    {
+      "ws": "16",
+      "stammformen": ["vinea"],
+      "name": "vinea"
+    },
+    {
+      "ws": "17",
+      "stammformen": ["consistere", "consisto"],
+      "name": "consistere"
+    },
+    {
+      "ws": "17",
+      "stammformen": ["facere", "facio"],
+      "name": "facere"
+    },
+    {
+      "ws": "17",
+      "stammformen": ["sacrum"],
+      "name": "sacrum"
+    },
+    {
+      "ws": "17",
+      "stammformen": ["descendere", "descend"],
+      "name": "descendere"
+    },
+    {
+      "ws": "17",
+      "stammformen": ["nonne"],
+      "name": "nonne"
+    },
+    {
+      "ws": "17",
+      "stammformen": ["magis"],
+      "name": "magis"
+    },
+    {
+      "ws": "17",
+      "stammformen": ["quam"],
+      "name": "quam"
+    },
+    {
+      "ws": "17",
+      "stammformen": ["quin"],
+      "name": "quin"
+    },
+    {
+      "ws": "17",
+      "stammformen": ["aspicere", "aspici"],
+      "name": "aspicere"
+    },
+    {
+      "ws": "17",
+      "stammformen": ["posse", "possu"],
+      "name": "posse"
+    },
+    {
+      "ws": "17",
+      "stammformen": ["pius", "pia", "pium"],
+      "name": "pius"
+    },
+    {
+      "ws": "17",
+      "stammformen": ["capere", "capi"],
+      "name": "capere"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["quod"],
+      "name": "quod"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["thermae", "theramaru"],
+      "name": "thermae"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["velle", "vol"],
+      "name": "velle"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["amor"],
+      "name": "amor"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["quia"],
+      "name": "quia"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["se"],
+      "name": "se"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["soror", "sorori"],
+      "name": "soror"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["nolle", "nol"],
+      "name": "nolle"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["malle", "mal"],
+      "name": "malle"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["animus"],
+      "name": "animus"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["mulier", "mulieris"],
+      "name": "mulier"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["quamquam"],
+      "name": "quamquam"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["si"],
+      "name": "si"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["plenus", "plena", "plenum"],
+      "name": "plenus"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["pecunia"],
+      "name": ""
+    },
+    {
+      "ws": "19",
+      "stammformen": ["viginti"],
+      "name": "viginti"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["fur"],
+      "name": "fur"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["clamor", "clamoris"],
+      "name": "clamor"
+    },
+    {
+      "ws": "19",
+      "stammformen": ["dum"],
+      "name": "dum"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["paulo"],
+      "name": "paulo"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["ante"],
+      "name": "ante"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["hic"],
+      "name": "hic"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["hic", "haec", "hoc"],
+      "name": "hic"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["nuper"],
+      "name": "nuper"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["legatus"],
+      "name": "legatus"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["ille", "illa", "illud"],
+      "name": "ille"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["ignoscere", "ignosc", "ignovi"],
+      "name": "ignoscere"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["iuventus", "iuventutis"],
+      "name": "iuventus"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["pons", "pontis"],
+      "name": "pons"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["pax", "pacis"],
+      "name": "pax"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["malum"],
+      "name": "malum"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["fallere", "fall", "fefelli"],
+      "name": "fallere"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["promittere", "promitt", "promisi"],
+      "name": "promittere"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["totus", "tota", "totum", "totius", "toti"],
+      "name": "totus"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["censere", "cense", "censui"],
+      "name": "censere"
+    },
+    {
+      "ws": "40",
+      "stammformen": ["barbarus", "barbara", "barbarum"],
+      "name": "barbarus"
+    },
+    {
+      "ws": "45",
+      "stammformen": ["postremo"],
+      "name": "postremo"
+    },
+    {
+      "ws": "45",
+      "stammformen": ["singulus", "singula", "singulum"],
+      "name": "singulus"
+    },
+    {
+      "ws": "45",
+      "stammformen": ["orare", "oro"],
+      "name": "orare"
+    },
+    {
+      "ws": "45",
+      "stammformen": ["negare", "nego"],
+      "name": "negare"
+    },
+    {
+      "ws": "45",
+      "stammformen": ["postulare", "postulo"],
+      "name": "postulare"
+    },
+    {
+      "ws": "45",
+      "stammformen": ["ignotus", "ignota", "ignotum"],
+      "name": "ignotus"
+    },
+    {
+      "ws": "45",
+      "stammformen": ["praeda"],
+      "name": "praeda"
+    },
+    {
+      "ws": "45",
+      "stammformen": ["ingens", "ingentis"],
+      "name": "ingens"
+    },
+    {
+      "ws": "45",
+      "stammformen": ["argentum"],
+      "name": "argentum"
+    },
+    {
+      "ws": "45",
+      "stammformen": ["victoria"],
+      "name": "victoria"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["navis"],
+      "name": "navis"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["animal", "animalis"],
+      "name": "animal"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["mare", "maris"],
+      "name": "mare"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["ducenti", "ducentae", "ducenta"],
+      "name": "ducenti"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["cohorsmcohortis"],
+      "name": "cohors"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["legio", "legionis"],
+      "name": "legio"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["triginta"],
+      "name": "triginta"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["quindecim"],
+      "name": "quindecim"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["numerus"],
+      "name": "numerus"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["caput", "capitis"],
+      "name": "caput"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["turris"],
+      "name": "turris"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["moenia", "moenium"],
+      "name": "moenia"
+    },
+    {
+      "ws": "51",
+      "stammformen": ["fugere", "fugi"],
+      "name": "fugere"
     }
   ],
   "texte": [
     {
-      "text": "Petit Gemellus nuptias MaronillaeEt cupit et instat et precatur et donat.Adeone pulchra est? immo foedius nil est.Quid ergo in illa petitur et placet? Tussit.",
+      "text": " Nubere Paula cupit nobis, ego ducere Paulam Nolo: anus est. Vellem, si magis esset anus.",
+      "name": "10,8"
+    },
+    {
+      "text": " Undenis pedibusque syllabisque Et multo sale nec tamen protervo Notus gentibus ille Martialis Et notus populis - quid invidetis? - Non sum Andraemone notior caballo.",
+      "name": "10,9"
+    },
+    {
+      "text": " Saturnalicio Macrum fraudare tributo Frustra, Musa, cupis: non licet: ipse petit; Sollemnesque iocos nec tristia carmina poscit, Et queritur nugas obticuisse meas. Mensorum longis sed nunc vacat ille libellis. Appia, quid facies, si legit ista Macer?",
+      "name": "10,18"
+    },
+    {
+      "text": " Addixti servum nummis here mille ducentis, Ut bene cenares, Calliodore, semel. Nec bene cenasti: mullus tibi quattuor emptus Librarum cenae pompa caputque fuit. Exclamare libet: 'Non est hic, inprobe, non est Piscis: homo est; hominem, Calliodore, comes.'",
+      "name": "10,31"
+    },
+    {
+      "text": " Septima iam, Phileros, tibi conditur uxor in agro. Plus nulli, Phileros, quam tibi, reddit ager.",
+      "name": "10,43"
+    },
+    {
+      "text": " Vitam quae faciant beatiorem, Iucundissime Martialis, haec sunt: Res non parta labore, sed relicta; Non ingratus ager, focus perennis; Lis numquam, toga rara, mens quieta; Vires ingenuae, salubre corpus; Prudens simplicitas, pares amici; Convictus facilis, sine arte mensa; Nox non ebria, sed soluta curis; Non tristis torus, et tamen pudicus; Somnus, qui faciat breves tenebras: Quod sis, esse velis nihilque malis; Summum nec metuas diem nec optes.",
+      "name": "10,47"
+    },
+    {
+      "text": " Miraris, quare dormitum non eat Afer? Accumbat cum qua, Caediciane, vides.",
+      "name": "10,84"
+    },
+    {
+      "text": " Heredes, nolite brevem sepelire colonum: Nam terra est illi quantulacumque gravis.",
+      "name": "11,14"
+    },
+    {
+      "text": " Non omnis nostri nocturna est pagina libri: Invenies et, quod mane, Sabine, legas.",
+      "name": "11,17"
+    },
+    {
+      "text": " Donasti, Lupe, rus sub urbe nobis; Sed rus est mihi maius in fenestra. Rus hoc dicere, rus potes vocare? In quo ruta facit nemus Dianae, Argutae tegit ala quod cicadae, Quod formica die comedit uno, Clusae cui folium rosae corona est; In quo non magis invenitur herba, Quam Cosmi folium piperve crudum; In quo nec cucumis iacere rectus Nec serpens habitare tota possit. Urucam male pascit hortus unam, Consumpto moritur culex salicto, Et talpa est mihi fossor atque arator. Non boletus hiare, non mariscae Ridere aut violae patere possunt. Finis mus populatur et colono Tamquam sus Calydonius timetur, Et sublata volantis ungue Procnes In nido seges est hirundinino; Et cum stet sine falce mentulaque, Non est dimidio locus Priapo. Vix implet cocleam peracta messis, Et mustum nuce condimus picata. Errasti, Lupe, littera sed una: Nam quo tempore praedium dedisti, Mallem tu mihi prandium dedisses.",
+      "name": "11,18"
+    },
+    {
+      "text": " Aedes emit Aper, sed quas nec noctua vellet Esse suas: adeo nigra vetusque casa est. Vicinos illi nitidus Maro possidet hortos. Cenabit belle, non habitabit Aper.",
+      "name": "11,34"
+    },
+    {
+      "text": " Ignotos mihi cum voces trecentos, Quare non veniam vocatus ad te, Miraris quererisque litigasque. Solus ceno, Fabulle, non libenter.",
+      "name": "11,35"
+    },
+    {
+      "text": " Mulio viginti venit modo milibus, Aule. Miraris pretium tam grave? surdus erat.",
+      "name": "11,38"
+    },
+    {
+      "text": " Vivida cum poscas epigrammata, mortua ponis Lemmata. Quid fieri, Caeciliane, potest? Mella iubes Hyblaea tibi vel Hymettia nasci, Et thyma Cecropiae Corsica ponis api!",
+      "name": "11,42"
+    },
+    {
+      "text": " Senos Charinus omnibus digitis gerit, Nec nocte ponit anulos, Nec cum lavatur. Causa quae sit, quaeritis? Dactyliothecam non habet.",
+      "name": "11,59"
+    },
+    {
+      "text": " Nescio, tam multis quid scribas, Fauste, puellis: Hoc scio, quod scribit nulla puella tibi.",
+      "name": "11,64"
+    },
+    {
+      "text": " Nil mihi das vivus; dicis post fata daturum. Si non es stultus, scis, Maro, quid cupiam.",
+      "name": "11,67"
+    },
+    {
+      "text": " In omnibus Vacerra quod conclavibus Consumit horas et die toto sedet, Cenaturit Vacerra, non cacaturit.",
+      "name": "11,77"
+    },
+    {
+      "text": " Nemo habitat gratis nisi dives et orbus apud te. Nemo domum pluris, Sosibiane, locat.",
+      "name": "11,83"
+    },
+    {
+      "text": " Qui nondum Stygias descendere quaerit ad umbras, Tonsorem fugiat, si sapit, Antiochum. Alba minus saevis lacerantur bracchia cultris, Cum furit ad Phrygios enthea turba modos; Mitior inplicitas Alcon secat enterocelas Fractaque fabrili dedolat ossa manu. Tondeat hic inopes Cynicos et Stoica menta Collaque pulverea nudet equina iuba. Hic miserum Scythica sub rupe Promethea radat, Carnificem duro pectore poscet avem; Ad matrem fugiet Pentheus, ad Maenadas Orpheus, Antiochi tantum barbara tela sonent. Haec quaecumque meo numeratis stigmata mento, In vetuli pyctae qualia fronte sedent, Non iracundis fecit gravis unguibus uxor: Antiochi ferrum est et scelerata manus. Unus de cunctis animalibus hircus habet cor: Barbatus vivit, ne ferat Antiochum.",
+      "name": "11,84"
+    },
+    {
+      "text": " Mentitur qui te vitiosum, Zoile, dicit. Non vitiosus homo es, Zoile, sed vitium.",
+      "name": "11,92"
+    },
+    {
+      "text": " Pierios vatis Theodori flamma penates Abstulit. Hoc Musis et tibi, Phoebe, placet? O scelus, o magnum facinus crimenque deorum, Non arsit pariter quod domus et dominus!",
+      "name": "11,93"
+    },
+    {
+      "text": " Thaida tam tenuem potuisti, Flacce, videre? Tu, puto, quod non est, Flacce, videre potes.",
+      "name": "11,101"
+    },
+    {
+      "text": " Explicitum nobis usque ad sua cornua librum Et quasi perlectum, Septiciane, refers. Omnia legisti. Credo, scio, gaudeo, verum est. Perlegi libros sic ego quinquetuos.",
+      "name": "11,107"
+    },
+    {
+      "text": " Habet Africanus miliens, tamen captat. Fortuna multis dat nimis, satis nulli.",
+      "name": "12,10"
+    },
+    {
+      "text": " Omnia promittis, cum tota nocte bibisti; Mane nihil praestas. Pollio, mane bibe.",
+      "name": "12,12"
+    },
+    {
+      "text": " Dentibus atque comis - nec te pudet - uteris emptis. Quid facies oculo, Laelia? non emitur.",
+      "name": "12,23"
+    },
+    {
+      "text": " Cum rogo te nummos sine pignore, 'non habeo' inquis; Idem, si pro me spondet agellus, habes: Quod mihi non credis veteri, Telesine, sodali, Credis coliculis arboribusque meis. Ecce, reum Carus te detulit: adsit agellus. Exilii comitem quaeris: agellus eat.",
+      "name": "12,25"
+    },
+    {
+      "text": " Sexagena teras cum limina mane senator, Esse tibi videor desidiosus eques, Quod non a prima discurram luce per urbem Et referam lassus basia mille domum. Sed tu, purpureis ut des nova nomina fastis Aut Numidum gentes Cappadocumve petas: At mihi, quem cogis medios abrumpere somnos Et matutinum ferre patique lutum, Quid petitur? Rupta cum pes vagus exit aluta Et subitus crassae decidit imber aquae Nec venit ablatis clamatus verna lacernis, Accedit gelidam servus ad auriculam Et 'Rogat ut secum cenes Laetorius' inquit. Viginti nummis? non ego: malo famem, Quam sit cena mihi, tibi sit provincia merces, Et faciamus idem nec mereamur idem.",
+      "name": "12,29"
+    },
+    {
+      "text": " Siccus, sobrius est Aper; quid ad me? Servum sic ego laudo, non amicum.",
+      "name": "12,30"
+    },
+    {
+      "text": " Odi te, quia bellus es, Sabelle. Res est putida bellus et Sabellus. Bellum denique malo, quam Sabellum. Tabescas utinam, Sabelle belle!",
+      "name": "12,39"
+    },
+    {
+      "text": " Haedina tibi pelle contegenti Nudae tempora verticemque calvae, Festive tibi, Phoebe, dixit ille, Qui dixit caput esse calceatum.",
+      "name": "12,45"
+    },
+    {
+      "text": " Tam saepe nostrum decipi Fabullinum, Miraris, Aule? semper homo bonus tiro est.",
+      "name": "12,51"
+    },
+    {
+      "text": " Aegrotas uno decies aut saepius anno, Nec tibi, sed nobis hoc, Polycharme, nocet: Nam quotiens surgis, soteria poscis amicos. Sit pudor: aegrota iam, Polycharme, semel.",
+      "name": "12,56"
+    },
+    {
+      "text": " Heredem tibi me, Catulle, dicis. Non credam, nisi legero, Catulle.",
+      "name": "12,73"
+    },
+    {
+      "text": " Tongilianus habet nasum: scio, non nego. Sed iam Nil praeter nasum Tongilianus habet.",
+      "name": "12,88"
+    },
+    {
+      "text": " Saepe rogare soles, qualis sim, Prisce, futurus, Si fiam locuples simque repente potens. Quemquam posse putas mores narrare futuros? Dic mihi, si fias tu leo, qualis eris? CXCIV Lucanus Sunt quidam, qui me dicant non esse poetam: Sed qui me vendit bybliopola putat. CXCV Catullus Tantum magna suo debet Verona Catullo, Quantum parva suo Mantua Vergilio.",
+      "name": "12,92"
+    },
+    {
+      "text": " Sum, fateor, semperque fui, Callistrate, pauper, Sed non obscurus nec male notus eques, Sed toto legor orbe frequens et dicitur 'Hic est', Quodque cinis paucis, hoc mihi vita dedit. At tua centenis incumbunt tecta columnis Et libertinas arca flagellat opes, Magnaque Niliacae servit tibi glaeba Syenes, Tondet et innumeros Gallica Parma greges. Hoc ego tuque sumus: sed quod sum, non potes esse: Tu quod es, e populo quilibet esse potest.",
+      "name": "5,13"
+    },
+    {
+      "text": " Quintus nostrorum liber est, Auguste, iocorum, Et queritur laesus carmine nemo meo, Gaudet honorato sed multus nomine lector, Cui victura meo munere fama datur. 'Quid tamen haec prosunt quamvis venerantia multos?' Non prosint sane, me tamen ista iuvant.",
+      "name": "5,15"
+    },
+    {
+      "text": " Si tecum mihi, care Martialis, Securis liceat frui diebus, Si disponere tempus otiosum Et verae pariter vacare vitae: Nec nos atria, nec domos potentum, Nec litis tetricas forumque triste Nossemus, nec imagines superbas; Sed gestatio, fabulae, libelli, Campus, porticus, umbra, Virgo, thermae, Haec essent loca semper, hi labores. Nunc vivit necuter sibi, bonosque Soles effugere atque abire sentit, Qui nobis pereunt et inputantur. Quisquam vivere cum sciat, moratur?",
+      "name": "5,20"
+    },
+    {
+      "text": " Si quando leporem mittis mihi, Gellia, dicis: 'Formosus septem, Marce, diebus eris.' Si non derides, si verum, lux mea, narras, Edisti numquam, Gellia, tu leporem.",
+      "name": "5,29"
+    },
+    {
+      "text": " Thais habet nigros, niveos Laecania dentes. Quae ratio est? Emptos haec habet, illa suos.",
+      "name": "5,43"
+    },
+    {
+      "text": " Dicis formosam, dicis te, Bassa, puellam. Istud quae non est dicere, Bassa, solet.",
+      "name": "5,45"
+    },
+    {
+      "text": " Numquam se cenasse domi Philo iurat, et hoc est: Non cenat, quotiens nemo vocavit eum.",
+      "name": "5,47"
+    },
+    {
+      "text": " Extemporalis factus est meus rhetor: \n Calpurnium non scripsit, et salutavit.",
+      "name": "5,54"
+    },
+    {
+      "text": " Cras te victurum, cras dicis, Postume, semper. Dic mihi, cras istud, Postume, quando venit? Quam longe cras istud, ubi est? aut unde petendum? Numquid apud Parthos Armeniosque latet? Iam cras istud habet Priami vel Nestoris annos. Cras istud quanti, dic mihi, possit emi? Cras vives? hodie iam vivere, Postume, serum est: Ille sapit, quisquis, Postume, vixit heri.",
+      "name": "5,58"
+    },
+    {
+      "text": " Quod non argentum, quod non tibi mittimus aurum, Hoc facimus causa, Stella diserte, tua. Quisquis magna dedit, voluit sibi magna remitti; Fictilibus nostris exoneratus eris.",
+      "name": "5,59"
+    },
+    {
+      "text": " Non donem tibi cur meos libellos Oranti totiens et exigenti, Miraris, Theodore? Magna causa est: Dones tu mihi ne tuos libellos.",
+      "name": "5,73"
+    },
+    {
+      "text": " Semper pauper eris, si pauper es, Aemiliane. Dantur opes nullis nunc nisi divitibus.",
+      "name": "5,81"
+    },
+    {
+      "text": " Insequeris, fugio; fugis, insequor; haec mihi mens est: Velle tuum nolo, Dindyme, nolle volo.",
+      "name": "5,83"
+    },
+    {
+      "text": " Cinnam, Cinname, te iubes vocari. Non est hic, rogo, Cinna, barbarismus? Tu si Furius ante dictus esses, Fur ista ratione dicereris.",
+      "name": "6,17"
+    },
+    {
+      "text": " Basia da nobis, Diadumene, pressa. 'Quot?' inquis. Oceani fluctus me numerare iubes Et maris Aegaei sparsas per litora conchas Et quae Cecropio monte vagantur apes, Quaeque sonant pleno vocesque manusque theatro, Cum populus subiti Caesaris ora videt. Nolo quot arguto dedit exorata Catullo Lesbia: pauca cupit, qui numerare potest.",
+      "name": "6,34"
+    },
+    {
+      "text": " Quod semper casiaque cinnamoque Et nido niger alitis superbae Fragras plumbea Nicerotiana, Rides nos, Coracine, nil olentis: Malo, quam bene olere, nil olere.",
+      "name": "6,55"
+    },
+    {
+      "text": " Laudat, amat, cantat nostros mea Roma libellos, Meque sinus omnes, me manus omnis habet. Ecce rubet quidam, pallet, stupet, oscitat, odit. Hoc volo: nunc nobis carmina nostra placent. LXXIII\n Eine hölzerne Priapusstatue Non rudis indocta fecit me falce colonus: Dispensatoris nobile cernis opus. Nam Caeretani cultor ditissimus agri Hos Hilarus colles et iuga laeta tenet. Aspice, quam certo videar non ligneus ore Nec devota focis inguinis arma geram, Sed mihi perpetua numquam moritura cupresso Phidiaca rigeat mentula digna manu. Vicini, moneo, sanctum celebrate Priapum Et bis septenis parcite iugeribus.",
+      "name": "6,60"
+    },
+    {
+      "text": " Cum sis tam pauper, quam nec miserabilis Iros, Tam iuvenis, quam nec Parthenopaeus erat, Tam fortis, quam nec, cum vinceret, Artemidorus, Quid te Cappadocum sex onus esse iuvat? Rideris multoque magis traduceris, Afer, Quam nudus medio si spatiere foro. Non aliter monstratur Atlans cum compare ginno Quaeque vehit similem belua nigra Libyn. Invidiosa tibi quam sit lectica, requiris? Non debes ferri mortuus hexaphoro.",
+      "name": "6,77"
+    },
+    {
+      "text": " Quidam me modo, Rufe, diligenter Inspectum, velut emptor aut lanista, Cum vultu digitoque subnotasset, 'Tune es, tune' ait 'ille Martialis, Cuius nequitias iocosque novit, Aurem qui modo non habet Batavam?' Subrisi modice, levique nutu Me quem dixerat esse non negavi. 'Cur ergo' inquit 'habes malas lacernas?' Respondi: 'quia sum malus poeta'. Hoc ne saepius accidat poetae, Mittas, Rufe, mihi bonas lacernas.",
+      "name": "6,82"
+    },
+    {
+      "text": " Di tibi dent et tu, Caesar, quaecumque mereris: Di mihi dent et tu, quae volo, si merui.",
+      "name": "6,87"
+    },
+    {
+      "text": " Cur non mitto meos tibi, Pontiliane, libellos? Ne mihi tu mittas, Pontiliane, tuos.",
+      "name": "7,3"
+    },
+    {
+      "text": " Aera domi non sunt, superest hoc, Regule, solum, Ut tua vendamus munera: numquid emis?",
+      "name": "7,16"
+    },
+    {
+      "text": " Esquiliis domus est, domus est tibi colle Dianae, Et tua patricius culmina vicus habet; Hinc viduae Cybeles, illinc sacraria Vestae, Inde novum, veterem prospicis inde Iovem. Dic, ubi conveniam, dic, qua te parte requiram: Quisquis ubique habitat, Maxime, nusquam habitat.",
+      "name": "7,73"
+    },
+    {
+      "text": " Exigis, ut nostros donem tibi, Tucca, libellos. Non faciam: nam vis vendere, non legere.",
+      "name": "7,77"
+    },
+    {
+      "text": " 'Triginta toto mala sunt epigrammata libro.' Si totidem bona sunt, Lause, bonus liber est.",
+      "name": "7,81"
+    },
+    {
+      "text": " Uxorem quare locupletem ducere nolim, Quaeritis? Uxori nubere nolo meae. Inferior matrona suo sit, Prisce, marito: Non aliter fiunt femina virque pares.",
+      "name": "8,12"
+    },
+    {
+      "text": " Morio dictus erat: viginti milibus emi. redde mihi nummos, Gargiliane: sapit.",
+      "name": "8,13"
+    },
+    {
+      "text": " Pistor qui fueras diu, Cypere, Causas nunc agis et ducena quaeris: Sed consumis et usque mutuaris. A pistore, Cypere, non recedis: Et panem facis et facis farinam.",
+      "name": "8,16"
+    },
+    {
+      "text": " Cum facias versus nulla non luce ducenos, Vare, nihil recitas. Non sapis, atque sapis.",
+      "name": "8,20"
+    },
+    {
+      "text": " Esse tibi videor saevus nimiumque gulosus, Qui propter cenam, Rustice, caedo cocum. Si levis ista tibi flagrorum causa videtur, Ex qua vis causa vapulet ergo cocus?",
+      "name": "8,23"
+    },
+    {
+      "text": " Munera qui tibi dat locupleti, Gaure, senique, Si sapis et sentis, hoc tibi ait 'Morere.'",
+      "name": "8,27"
+    },
+    {
+      "text": " Disticha qui scribit, puto, vult brevitate placere. Quid prodest brevitas, dic mihi, si liber est?",
+      "name": "8,29"
+    },
+    {
+      "text": " Cum sitis similes paresque vita, Uxor pessima, pessimus maritus, Miror, non bene convenire vobis.",
+      "name": "8,35"
+    },
+    {
+      "text": " Oplomachus nunc es, fueras opthalmicus ante. Fecisti medicus, quod facis oplomachus.",
+      "name": "8,74"
+    },
+    {
+      "text": " Miraris veteres, Vacerra, solos, Nec laudas nisi mortuos poetas. Ignoscas, petimus, Vacerra: tanti Non est, ut placeam tibi, perire.",
+      "name": "8,69"
+    },
+    {
+      "text": " Omnes aut vetulas habes amicas Aut turpes vetulisque foediores. Has ducis comites trahisque tecum Per convivia, porticus, theatra. Sic formosa, Fabulla, sic puella es.",
+      "name": "8,79"
+    },
+    {
+      "text": " Nubere vis Prisco: non miror, Paula: sapisti. Ducere te non vult Priscus: et ille sapit.",
+      "name": "9,10"
+    },
+    {
+      "text": " Hunc, quem mensa tibi, quem cena paravit amicum, Esse putas fidae pectus amicitiae? Aprum amat et mullos et sumen et ostrea, non te. Tam bene si cenem, noster amicus erit.",
+      "name": "9,14"
+    },
+    {
+      "text": " Inscripsit tumulis septem scelerata virorum 'Se fecisse' Chloe. Quid pote simplicius?",
+      "name": "9,15"
+    },
+    {
+      "text": " Funera post septem nupsit tibi Galla virorum, Picentine: sequi vult, puto, Galla viros.",
+      "name": "9,78"
+    },
+    {
+      "text": " Cum me captares, mittebas munera nobis: Postquam cepisti, das mihi, Rufe, nihil. Ut captum teneas, capto quoque munera mitte, De cavea fugiat ne male pastus aper.",
+      "name": "9,88"
+    },
+    {
+      "text": " Rumpitur invidia quidam, carissime Iuli, Quod me Roma legit, rumpitur invidia. Rumpitur invidia, quod turba semper in omni Monstramur digito, rumpitur invidia. Rumpitur invidia, tribuit quod Caesar uterque Ius mihi natorum, rumpitur invidia. Rumpitur invidia, quod rus mihi dulce sub urbe est Parvaque in urbe domus, rumpitur invidia. Rumpitur invidia, quod sum iucundus amicis, Quod conviva frequens, rumpitur invidia. Rumpitur invidia, quod amamur quodque probamur: Rumpatur, quisquis rumpitur invidia.",
+      "name": "9,97"
+    },
+    {
+      "text": " Hic est quem legis ille, quem requiris, \n Toto notus in orbe Martialis \n Argutis epigrammaton libellis: \n Cui, lector studiose, quod dedisti \n Viventi decus atque sentienti, \n Rari post cineres habent poetae.",
+      "name": "1,1"
+    },
+    {
+      "text": " Petit Gemellus nuptias Maronillae Et cupit et instat et precatur et donat. Adeone pulchra est? immo foedius nil est. Quid ergo in illa petitur et placet? Tussit.",
       "name": "1,10"
     },
     {
-      "text": "Sunt bona, sunt quaedam mediocria, sunt mala plura,Quae legis hic: aliter non fit, Avite, liber.",
+      "text": " Sunt bona, sunt quaedam mediocria, sunt mala plura, Quae legis hic: aliter non fit, Avite, liber.",
       "name": "1,16"
     },
     {
-      "text": "Si memini, fuerant tibi quattuor, Aelia, dentes:Expulit una duos tussis et una duos.Iam secura potes totis tussire diebus:Nil istic quod agat tertia tussis habet.",
+      "text": " Si memini, fuerant tibi quattuor, Aelia, dentes: Expulit una duos tussis et una duos. Iam secura potes totis tussire diebus: Nil istic quod agat tertia tussis habet.",
       "name": "1,19"
     },
     {
-      "text": "Aspicis incomptis illum, Deciane, capillis,Cuius et ipse times triste supercilium,Qui loquitur Curios adsertoresque Camillos?Nolito fronti credere: nupsit heri.",
+      "text": " Aspicis incomptis illum, Deciane, capillis, Cuius et ipse times tristesupercilium, Qui loquitur Curios adsertoresque Camillos? Nolito fronti credere: nupsit heri.",
       "name": "1,24"
     },
     {
-      "text": "Hesterno fetere mero qui credit Acerram,Fallitur: in lucem semper Acerra bibit.",
+      "text": " Hesterno fetere mero qui credit Acerram, Fallitur: in lucem semper Acerra bibit.",
       "name": "1,28"
     },
     {
-      "text": "Fama refert nostros te, Fidentine, libellosNon aliter populo quam recitare tuos.Si mea vis dici, gratis tibi carmina mittam:Si dici tua vis, hoc eme, ne mea sint.",
+      "text": " Fama refert nostros te, Fidentine, libellos Non aliter populo quam recitare tuos. Si mea vis dici, gratis tibi carmina mittam: Si dici tua vis, hoc eme, ne mea sint.",
       "name": "1,29"
     },
     {
-      "text": "Amissum non flet cum sola est Gellia patrem,Si quis adest, iussae prosiliunt lacrimae.Non luget quisquis laudari, Gellia, quaerit,Ille dolet vere, qui sine teste dolet.",
+      "text": " Amissum non flet cum sola est Gellia patrem, Si quis adest, iussae prosiliunt lacrimae. Non luget quisquis laudari, Gellia, quaerit, Ille dolet vere, qui sine teste dolet.",
       "name": "1,33"
     },
     {
-      "text": "Quem recitas meus est, o Fidentine, libellus:Sed male cum recitas, incipit esse tuus.",
+      "text": " Quem recitas meus est, o Fidentine, libellus: Sed male cum recitas, incipit esse tuus.",
       "name": "1,38"
     },
     {
-      "text": "Nuper erat medicus, nunc est vispillo Diaulus:Quod vispillo facit, fecerat et medicus.",
+      "text": " Nuper erat medicus, nunc est vispillo Diaulus: Quod vispillo facit, fecerat et medicus.",
       "name": "1,47"
     },
     {
-      "text": "Qualem, Flacce, velim quaeris nolimve puellam?Nolo nimis facilem difficilemque nimis.Illud quod medium est atque inter utrumque probamus:Nec volo quod cruciat, nec volo quod satiat.",
+      "text": " Qualem, Flacce, velim quaeris nolimve puellam? Nolo nimis facilem difficilemque nimis. Illud quod medium est atque inter utrumque probamus: Nec volo quod cruciat, nec volo quod satiat.",
       "name": "1,57"
     },
     {
-      "text": "Ut recitem tibi nostra rogas epigrammata. Nolo.Non audire, Celer, sed recitare cupis.",
+      "text": " Ut recitem tibi nostra rogas epigrammata. Nolo. Non audire, Celer, sed recitare cupis.",
       "name": "1,63"
     },
     {
-      "text": "Quidquid agit Rufus, nihil est nisi Naevia Rufo.Si gaudet, si flet, si tacet, hanc loquitur.Cenat, propinat, poscit, negat, innuit: una estNaevia; si non sit Naevia, mutus erit.Scriberet hesterna patri cum luce salutem,'Naevia lux' inquit 'Naevia lumen, have.'Haec legit et ridet demisso Naevia voltu.Naevia non una est: quid, vir inepte, furis?",
+      "text": " Quidquid agit Rufus, nihil est nisi Naevia Rufo. Si gaudet, si flet, si tacet, hanc loquitur. Cenat, propinat, poscit, negat, innuit: una est Naevia; si non sit Naevia, mutus erit. Scriberet hesterna patri cum luce salutem, 'Naevia lux' inquit 'Naevia lumen, have.' Haec legit et ridet demisso Naevia voltu. Naevia non una est: quid, vir inepte, furis?",
       "name": "1,68"
     },
     {
-      "text": "Dimidium donare Lino quam credere totumQui mavolt, mavolt perdere dimidium.",
+      "text": " Dimidium donare Lino quam credere totum Qui mavolt, mavolt perdere dimidium.",
       "name": "1,75"
     },
     {
-      "text": "Semper agis causas et res agis, Attale, semper:Est, non est, quod agas, Attale, semper agis.Si res et causae desunt, agis, Attale, mulas.Attale, ne, quod agas, desit, agas animam.",
+      "text": " Semper agis causas et res agis, Attale, semper: Est, non est, quod agas, Attale, semper agis. Si res et causae desunt, agis, Attale, mulas. Attale, ne, quod agas, desit, agas animam.",
       "name": "1,79"
     },
     {
-      "text": "Cum tua non edas, carpis mea carmina, Laeli.Carpere vel noli nostra vel ede tua.",
+      "text": " Cum tua non edas, carpis mea carmina, Laeli. Carpere vel noli nostra vel ede tua.",
       "name": "1,91"
     },
     {
-      "text": "Quod clamas semper, quod agentibus obstrepis, Aeli,Non facis hoc gratis: accipis, ut taceas.",
+      "text": " Quod clamas semper, quod agentibus obstrepis, Aeli, Non facis hoc gratis: accipis, ut taceas.",
       "name": "1,95"
     },
     {
-      "text": "Scribere me quereris, Velox, epigrammata longa.Ipse nihil scribis: tu breviora facis.",
+      "text": " Scribere me quereris, Velox, epigrammata longa. Ipse nihil scribis: tu breviora facis.",
       "name": "1,110"
     },
     {
-      "text": "Cui legisse satis non est epigrammata centum,Nil illi satis est, Caediciane, mali.",
+      "text": " Cui legisse satis non est epigrammata centum, Nil illi satis est, Caediciane, mali.",
       "name": "1,118"
     },
     {
-      "text": "Sexte, nihil debes, nil debes, Sexte, fatemur.Debet enim, si quis solvere, Sexte, potest.",
+      "text": " Sexte, nihil debes, nil debes, Sexte, fatemur. Debet enim, si quis solvere, Sexte, potest.",
       "name": "2,3"
     },
     {
-      "text": "Declamas belle, causas agis, Attice, belle,Historias bellas, carmina bella facis,Componis belle mimos, epigrammata belle,Bellus grammaticus, bellus es astrologus,Et belle cantas et saltas, Attice, belle,Bellus es arte lyrae, bellus es arte pilae.Nil bene cum facias, facias tamen omnia belle,Vis dicam, quid sis? magnus es ardalio.",
+      "text": " Declamas belle, causas agis, Attice, belle, Historias bellas, carmina bella facis, Componis belle mimos, epigrammata belle, Bellus grammaticus, bellus es astrologus, Et belle cantas et saltas, Attice, belle, Bellus es arte lyrae, bellus es arte pilae. Nil bene cum facias, facias tamen omnia belle, Vis dicam, quid sis? magnus es ardalio.",
       "name": "2,7"
     },
     {
-      "text": "Basia dimidio quod das mihi, Postume, labro,Laudo: licet demas hinc quoque dimidium.Vis dare maius adhuc et inenarrabile munus?Hoc tibi habe totum, Postume, dimidium.",
+      "text": " Basia dimidio quod das mihi, Postume, labro, Laudo: licet demas hinc quoque dimidium. Vis dare maius adhuc et inenarrabile munus? Hoc tibi habe totum, Postume, dimidium.",
       "name": "2,10"
     },
     {
-      "text": "Esse quid hoc dicam, quod olent tua basia murramQuodque tibi est numquam non alienus odor?Hoc mihi suspectum est, quod oles bene, Postume, semper:Postume, non bene olet qui bene semper olet.",
+      "text": " Esse quid hoc dicam, quod olent tua basia murram Quodque tibi est numquam non alienus odor? Hoc mihi suspectum est, quod oles bene, Postume, semper: Postume, non bene olet qui bene semper olet.",
       "name": "2,12"
     },
     {
-      "text": "Et iudex petit et petit patronus.Solvas censeo, Sexte, creditori.",
+      "text": " Et iudex petit et petit patronus. Solvas censeo, Sexte, creditori.",
       "name": "2,13"
     },
     {
-      "text": "Carmina Paulus emit, recitat sua carmina Paulus.Nam quod emas, possis iure vocare tuum.",
+      "text": " Carmina Paulus emit, recitat sua carmina Paulus. Nam quod emas, possis iure vocare tuum.",
       "name": "2,20"
     },
     {
-      "text": "Basia das aliis, aliis das, Postume, dextram.Dicis 'Utrum mavis? elige.' Malo manum",
+      "text": " Basia das aliis, aliis das, Postume, dextram. Dicis 'Utrum mavis? elige.' Malo manum",
       "name": "2,21"
     },
     {
-      "text": "Das numquam, semper promittis, Galla, roganti.Si semper fallis, iam rogo, Galla, nega.",
+      "text": " Das numquam, semper promittis, Galla, roganti. Si semper fallis, iam rogo, Galla, nega.",
       "name": "2,25"
     },
     {
-      "text": "Cum sint crura tibi similent quae cornua lunae,In rhytio poteras, Phoebe, lavare pedes.",
+      "text": " Cum sint crura tibi similent quae cornua lunae, In rhytio poteras, Phoebe, lavare pedes.",
       "name": "2,35"
     },
     {
-      "text": "Quid mihi reddat ager quaeris, Line, Nomentanus?Hoc mihi reddit ager: te, Line, non video.",
+      "text": " Quid mihi reddat ager quaeris, Line, Nomentanus? Hoc mihi reddit ager: te, Line, non video.",
       "name": "2,38"
     },
     {
-      "text": "Gentibus in Libycis uxor tua, Galle, male auditImmodicae foedo crimine avaritiae.Sed mera narrantur mendacia: non solet illaAccipere omnino. Quid solet ergo? Dare.",
+      "text": " Gentibus in Libycis uxor tua, Galle, male audit Immodicae foedo crimine avaritiae. Sed mera narrantur mendacia: non solet illa Accipere omnino. Quid solet ergo? Dare.",
       "name": "2,56"
     },
     {
-      "text": "Pexatus pulchre rides mea, Zoile, trita.Sunt haec trita quidem, Zoile, sed mea sunt.",
+      "text": " Pexatus pulchre rides mea, Zoile, trita. Sunt haec trita quidem, Zoile, sed mea sunt.",
       "name": "2,58"
     },
     {
-      "text": "Unus de toto peccaverat orbe comarumAnulus, incerta non bene fixus acu.Hoc facinus Lalage speculo, quo viderat, ulta est,Et cecidit saevis icta Plecusa comis.Desine iam, Lalage, tristes ornare capillos,Tangat et insanum nulla puella caput.Hoc salamandra notet vel saeva novacula nudet,Ut digna speculo fiat imago tua.",
+      "text": " Unus de toto peccaverat orbe comarum Anulus, incerta non bene fixus acu. Hoc facinus Lalage speculo, quo viderat, ulta est, Et cecidit saevis icta Plecusa comis. Desine iam, Lalage, tristes ornare capillos, Tangat et insanum nulla puella caput. Hoc salamandra notet vel saeva novacula nudet, Ut digna speculo fiat imago tua.",
       "name": "2,66"
     },
     {
-      "text": "Occurris quocumque loco mihi, Postume, clamasProtinus et prima est haec tua vox 'Quid agis?'Hoc, si me decies una conveneris hora,Dicis: habes puto tu, Postume, nil quod agas.",
+      "text": " Occurris quocumque loco mihi, Postume, clamas Protinus et prima est haec tua vox 'Quid agis?' Hoc, si me decies una conveneris hora, Dicis: habes puto tu, Postume, nil quod agas.",
       "name": "2,67"
     },
     {
-      "text": "Aestivo serves ubi piscem tempore, quaeris?In thermis serva, Caeciliane, tuis.",
+      "text": " Aestivo serves ubi piscem tempore, quaeris? In thermis serva, Caeciliane, tuis.",
       "name": "2,78"
     },
     {
-      "text": "Hostem cum fugeret, se Fannius ipse peremit.Hic, rogo, non furor est, ne moriare, mori?",
+      "text": " Hostem cum fugeret, se Fannius ipse peremit. Hic, rogo, non furor est, ne moriare, mori?",
       "name": "2,80"
     },
     {
-      "text": "Dicis amore tui bellas ardere puellas,Qui faciem sub aqua, Sexte, natantis habes.XCIII\n Das letzte Epigramm des I(I). Buches'Primus ubi est' inquis 'cum sit liber iste secundus?'Quid faciam, si plus ille pudoris habet?Tu tamen hunc fieri si mavis, Regule, primum,Unum de titulo tollere iota potes.",
+      "text": " Dicis amore tui bellas ardere puellas, Qui faciem sub aqua, Sexte, natantis habes. XCIII\n Das letzte Epigramm des I(I). Buches 'Primus ubi est' inquis 'cum sit liber iste secundus?' Quid faciam, si plus ille pudoris habet? Tu tamen hunc fieri si mavis, Regule, primum, Unum de titulo tollere iota potes.",
       "name": "2,87"
     },
     {
-      "text": "'Thaida Quintus amat.' Quam Thaida? 'Thaida luscam.'Unum oculum Thais non habet, ille duos.",
+      "text": " 'Thaida Quintus amat.' Quam Thaida? 'Thaida luscam.' Unum oculum Thais non habet, ille duos.",
       "name": "3,8"
     },
     {
-      "text": "Versiculos in me narratur scribere Cinna.Non scribit, cuius carmina nemo legit.",
+      "text": " Versiculos in me narratur scribere Cinna. Non scribit, cuius carmina nemo legit.",
       "name": "3,9"
     },
     {
-      "text": "Si tua nec Thais nec lusca est, Quinte, puella,Cur in te factum distichon esse putas?Sed similest aliquid? pro Laide Thaida dixi?Dic mihi, quid simile est Thais et Hermione?Tu tamen es Quintus: mutemus nomen amantis:Si non vult Quintus, Thaida Sextus amet.",
+      "text": " Si tua nec Thais nec lusca est, Quinte, puella, Cur in te factum distichon esse putas? Sed similest aliquid? pro Laide Thaida dixi? Dic mihi, quid simile est Thais et Hermione? Tu tamen es Quintus: mutemus nomen amantis: Si non vult Quintus, Thaida Sextus amet.",
       "name": "3,11"
     },
     {
-      "text": "Unguentum, fateor, bonum dedistiConvivis here, sed nihil scidisti.Res salsa est bene olere et esurire.Qui non cenat et unguitur, Fabulle,Hic vere mihi mortuus videtur.",
+      "text": " Unguentum, fateor, bonum dedisti Convivis here, sed nihil scidisti. Res salsa est bene olere et esurire. Qui non cenat et unguitur, Fabulle, Hic vere mihi mortuus videtur.",
       "name": "3,12"
     },
     {
-      "text": "Circumlata diu mensis scribilita secundisUrebat nimio saeva calore manus;Sed magis ardebat Sabidi gula: protinus ergoSufflavit buccis terque quaterque suis.Illa quidem tepuit digitosque admittere visa est,Sed nemo potuit tangere: merda fuit.",
+      "text": " Circumlata diu mensis scribilita secundis Urebat nimio saeva calore manus; Sed magis ardebat Sabidi gula: protinus ergo Sufflavit buccis terque quaterque suis. Illa quidem tepuit digitosque admittere visa est, Sed nemo potuit tangere: merda fuit.",
       "name": "3,17"
     },
     {
-      "text": "Quae te causa trahit vel quae fiducia Romam,Sexte? quid aut speras aut petis inde? refer.'Causas' inquis 'agam Cicerone disertior ipsoAtque erit in triplici par mihi nemo foro.'Egit Atestinus causas et Civis - utrumqueNoras - ; sed neutri pensio tota fuit.'Si nihil hinc veniet, pangentur carmina nobis:Audieris, dices esse Maronis opus.'Insanis: omnes gelidis quicumque lacernisSunt ibi, Nasones Vergiliosque vides.'Atria magna colam.' Vix tres aut quattuor istaRes aluit, pallet cetera turba fame.'Quid faciam? suade: nam certum est vivere Romae.'Si bonus es, casu vivere, Sexte, potes.",
+      "text": " Quae te causa trahit vel quae fiducia Romam, Sexte? quid aut speras aut petis inde? refer. 'Causas' inquis 'agam Cicerone disertior ipso Atque erit in triplici par mihi nemo foro.' Egit Atestinus causas et Civis - utrumque Noras - ; sed neutri pensio tota fuit. 'Si nihil hinc veniet, pangentur carmina nobis: Audieris, dices esse Maronis opus.' Insanis: omnes gelidis quicumque lacernis Sunt ibi, Nasones Vergiliosque vides. 'Atria magna colam.' Vix tres aut quattuor ista Res aluit, pallet cetera turba fame. 'Quid faciam? suade: nam certum est vivere Romae.' Si bonus es, casu vivere, Sexte, potes.",
       "name": "3,38"
     },
     {
-      "text": "Mentiris iuvenem tinctis, Laetine, capillis,Tam subito corvus, qui modo cycnus eras.Non omnes fallis; scit te Proserpina canum:Personam capiti detrahet illa tuo.",
+      "text": " Mentiris iuvenem tinctis, Laetine, capillis, Tam subito corvus, qui modo cycnus eras. Non omnes fallis; scit te Proserpina canum: Personam capiti detrahet illa tuo.",
       "name": "3,43"
     },
     {
-      "text": "Sit cisterna mihi, quam vinea, malo Ravennae,Cum possim multo vendere pluris aquam.",
+      "text": " Sit cisterna mihi, quam vinea, malo Ravennae, Cum possim multo vendere pluris aquam.",
       "name": "3,56"
     },
     {
-      "text": "Esse nihil dicis quidquid petis, inprobe Cinna:Si nil, Cinna, petis, nil tibi, Cinna, nego.",
+      "text": " Esse nihil dicis quidquid petis, inprobe Cinna: Si nil, Cinna, petis, nil tibi, Cinna, nego.",
       "name": "3,61"
     },
     {
-      "text": "Cotile, bellus homo es: dicunt hoc, Cotile, multi.Audio: sed quid sit, dic mihi, bellus homo.''Bellus homo est, flexos qui digerit ordine crines,Balsama qui semper, cinnama semper olet;Cantica qui Nili, qui Gaditana susurrat,Qui movet in varios bracchia volsa modos;Inter femineas tota qui luce cathedrasDesidet atque aliqua semper in aure sonat,Qui legit hinc illinc missas scribitque tabellas;Pallia vicini qui refugit cubiti;Qui scit, quam quis amet, qui per convivia currit,Hirpini veteres qui bene novit avos.'Quid narras? hoc est, hoc est homo, Cotile, bellus?Res pertricosa est, Cotile, bellus homo.",
+      "text": " Cotile, bellus homo es: dicunt hoc, Cotile, multi. Audio: sed quid sit, dic mihi, bellus homo. ''Bellus homo est, flexos qui digerit ordine crines, Balsama qui semper, cinnama semper olet; Cantica qui Nili, qui Gaditana susurrat, Qui movet in varios bracchia volsa modos; Inter femineas tota qui luce cathedras Desidet atque aliqua semper in aure sonat, Qui legit hinc illinc missas scribitque tabellas; Pallia vicini qui refugit cubiti; Qui scit, quam quis amet, qui per convivia currit, Hirpini veteres qui bene novit avos.' Quid narras? hoc est, hoc est homo, Cotile, bellus? Res pertricosa est, Cotile, bellus homo.",
       "name": "3,63"
     },
     {
-      "text": "Nulli, Thai, negas, sed si te non pudet istud,Hoc saltem pudeat, Thai, negare nihil.",
+      "text": " Nulli, Thai, negas, sed si te non pudet istud, Hoc saltem pudeat, Thai, negare nihil.",
       "name": "4,12"
     },
     {
-      "text": "Nullos esse deos, inane caelumAdfirmat Segius: probatque, quod seFactum, dum negat haec, videt beatum.",
+      "text": " Nullos esse deos, inane caelum Adfirmat Segius: probatque, quod se Factum, dum negat haec, videt beatum.",
       "name": "4,21"
     },
     {
-      "text": "Omnes quas habuit, Fabiane, Lycoris amicasExtulit: uxori fiat amica meae.",
+      "text": " Omnes quas habuit, Fabiane, Lycoris amicas Extulit: uxori fiat amica meae.",
       "name": "4,24"
     },
     {
-      "text": "Cana est barba tibi, nigra est coma: tinguere barbamNon potes - haec causa est - et potes, Ole, comam.",
+      "text": " Cana est barba tibi, nigra est coma: tinguere barbam Non potes - haec causa est - et potes, Ole, comam.",
       "name": "4,36"
     },
     {
-      "text": "Quid recitaturus circumdas vellera collo?Conveniunt nostris auribus ista magis.",
+      "text": " Quid recitaturus circumdas vellera collo? Conveniunt nostris auribus ista magis.",
       "name": "4,41"
     },
     {
-      "text": "Munera quod senibus viduisque ingentia mittis,Vis te munificum, Gargiliane, vocem?Sordidius nihil est, nihil est te spurcius uno,Qui potes insidias dona vocare tuas:Sic avidis fallax indulget piscibus hamus,callida sic stultas decipit esca feras.Quid sit largiri, quid sit donare, docebo,Si nescis: dona, Gargiliane, mihi.",
+      "text": " Munera quod senibus viduisque ingentia mittis, Vis te munificum, Gargiliane, vocem? Sordidius nihil est, nihil est te spurcius uno, Qui potes insidias dona vocare tuas: Sic avidis fallax indulget piscibus hamus, callida sic stultas decipit esca feras. Quid sit largiri, quid sit donare, docebo, Si nescis: dona, Gargiliane, mihi.",
       "name": "4,56"
     },
     {
-      "text": "Exigis, ut donem nostros tibi, Quinte, libellos.Non habeo, sed habet bibliopola Tryphon.'Aes dabo pro nugis et emam tua carmina sanus?Non' inquis 'faciam tam fatue.' Nec ego.",
+      "text": " Exigis, ut donem nostros tibi, Quinte, libellos. Non habeo, sed habet bibliopola Tryphon. 'Aes dabo pro nugis et emam tua carmina sanus? Non' inquis 'faciam tam fatue.' Nec ego.",
       "name": "4,72"
     },
     {
-      "text": "Nos bibimus vitro, tu murra, Pontice. Quare?Prodat perspicuus ne duo vina calix.LXXXIX\n Abschlussgedicht des 4. BuchesOhe, iam satis est, ohe, libelle,Iam pervenimus usque ad umbilicos.Tu procedere adhuc et ire quaeris,Nec summa potes in schida teneri,Sic tamquam tibi res peracta non sit,Quae prima quoque pagina peracta est.Iam lector queriturque deficitque,Iam librarius hoc et ipse dicit'Ohe, iam satis est, ohe, libelle.'",
+      "text": " Nos bibimus vitro, tu murra, Pontice. Quare? Prodat perspicuus ne duo vina calix. LXXXIX\n Abschlussgedicht des 4. Buches Ohe, iam satis est, ohe, libelle, Iam pervenimus usque ad umbilicos. Tu procedere adhuc et ire quaeris, Nec summa potes in schida teneri, Sic tamquam tibi res peracta non sit, Quae prima quoque pagina peracta est. Iam lector queriturque deficitque, Iam librarius hoc et ipse dicit 'Ohe, iam satis est, ohe, libelle.'",
       "name": "4,85"
     }
   ]
