@@ -16,7 +16,7 @@ data.forEach((element) => {
     cur["text"] = "";
     cur["name"] = element.FIELD1;
   } else {
-    cur["text"] += element.FIELD2;
+    cur["text"] += " " + element.FIELD2;
   }
 });
 

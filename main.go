@@ -48,6 +48,17 @@ type jsonTexte struct {
 	Text string `json:"text"`
 }
 
+type outJsonText struct {
+	Name          string   `json:"name"`
+	Text          string   `json:"text"`
+	ErkannteWords float64  `json:"erkannteWords"`
+	Words         []string `json:"words"`
+}
+
+type outJson struct {
+	Texts []outJsonText `json:"texts"`
+}
+
 func main() {
 	db, err := sql.Open("mysql", "root:root@(127.0.0.1:3308)/TestDb?parseTime=true")
 
@@ -85,14 +96,6 @@ func main() {
 
 		query = `DROP TABLE IF EXISTS wortschatz;`
 		execSQLQuery(db, query)
-		// DONT THINK ITS NEEDED
-		// query = `
-		// 	CREATE TABLE IF NOT EXISTS wortschatz (
-		// 		id INT AUTO_INCREMENT,
-		// 		name TEXT NOT NULL,
-		// 		PRIMARY KEY (id)
-		// 	);`
-		// execSQLQuery(db, query)
 	}
 
 	var jsondb jsonDB
@@ -135,10 +138,16 @@ func main() {
 		}
 	}
 
+	var jsonFileOut outJson
+
 	for _, text := range jsondb.Texts {
 		fmt.Println("text: ", text.Name)
 
 		{ // wertet den aids aus
+			var jsonOut outJsonText
+			jsonOut.Name = text.Name
+			jsonOut.Text = text.Text
+
 			testText := text.Text
 
 			words := strings.FieldsFunc(testText, func(r rune) bool {
@@ -147,21 +156,28 @@ func main() {
 
 			totalKnow := 0
 
-			query := "SELECT COUNT(*) FROM stammform WHERE ? LIKE value"
+			query := "SELECT wordID, COUNT(*) FROM stammform WHERE ? LIKE value GROUP BY wordID"
+			queryGetWord := "SELECT name FROM wort WHERE id = ?"
 
 			for _, word := range words {
 				var count int
+				var wordID int
 
-				err = db.QueryRow(query, word).Scan(&count)
-
-				if err != nil {
-					log.Fatal(err)
-				}
+				var err = db.QueryRow(query, word).Scan(&wordID, &count)
 
 				if count > 0 {
+					var wordName string
+
 					totalKnow = totalKnow + 1
 
-					fmt.Println(word, totalKnow)
+					err = db.QueryRow(queryGetWord, wordID).Scan(&wordName)
+					if err != nil {
+						log.Fatal(err)
+					}
+
+					fmt.Println(wordName, totalKnow)
+
+					jsonOut.Words = append(jsonOut.Words, wordName)
 				}
 			}
 
@@ -171,9 +187,17 @@ func main() {
 
 			fmt.Printf("total word count: %d\n", len(words))
 			fmt.Printf("total known word percentage: %f\n", percentage)
+
+			jsonOut.ErkannteWords = percentage
+
+			jsonFileOut.Texts = append(jsonFileOut.Texts, jsonOut)
 		}
+
 	}
 
+	file, _ := json.MarshalIndent(jsonFileOut, "", " ")
+
+	_ = ioutil.WriteFile("test.json", file, 0644)
 }
 
 func execSQLQuery(db *sql.DB, query string) {

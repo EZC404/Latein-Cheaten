@@ -1,5 +1,2390 @@
 [
   {
+    "FIELD1": "10,8",
+    "FIELD2": "VIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Nubere Paula cupit nobis, ego ducere Paulam",
+    "FIELD3": "Paula begehrt mich zu frein; ich will sie nicht                    zur Gemahlin:"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Nolo: anus est. Vellem, si                      magis esset anus.",
+    "FIELD3": "Paula ist mir zu alt; wäre                      sie älter, ich wollt's."
+  },
+  {
+    "FIELD1": "10,9",
+    "FIELD2": "IX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Undenis pedibusque syllabisque",
+    "FIELD3": "Der durch Fülle von Salz, doch nimmer frechem,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Et multo sale nec tamen protervo",
+    "FIELD3": "In elf Füßen sowohl, als elf der Silben,"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Notus gentibus ille Martialis",
+    "FIELD3": "Allen Ländern und Völkern wohl bekannte"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Et notus populis - quid invidetis? -",
+    "FIELD3": "Martialis - was seid ihr neidisch? -, bin ich"
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Non sum Andraemone notior caballo.",
+    "FIELD3": "Nicht bekannter als euer Gaul Andrämon."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "10,18",
+    "FIELD2": "XVIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Saturnalicio Macrum fraudare tributo",
+    "FIELD3": "Muse, du wünschest umsonst, um die Saturnaliengabe"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Frustra, Musa, cupis: non                      licet: ipse petit;",
+    "FIELD3": "Macer zu bringen: du darfst                      nicht, er begehret sie selbst:"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Sollemnesque iocos nec tristia carmina poscit,",
+    "FIELD3": "Und die Scherze des Fests, nicht tragische Sänge, verlangt                    er,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Et queritur nugas obticuisse                      meas.",
+    "FIELD3": "Und beklagt sich, dass nicht                      hören sich lasse mein Witz."
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Mensorum longis sed nunc vacat ille libellis.",
+    "FIELD3": "Aber er widmet die Zeit jetzt langen Büchern der Messkunst."
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Appia, quid facies, si legit                      ista Macer?",
+    "FIELD3": "Appia, wie wird dir's gehen,                      wenn Macer mich liest?"
+  },
+  {
+    "FIELD1": "10,31",
+    "FIELD2": "XVIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Addixti servum nummis here mille ducentis,",
+    "FIELD3": "Für zwölfhundert Sesterz verkauftest                    du gestern den Skalven,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Ut bene cenares, Calliodore,                      semel.",
+    "FIELD3": "Calliodor, um einmal trefflich                      zu speisen dafür."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Nec bene cenasti: mullus tibi quattuor emptus",
+    "FIELD3": "Doch nicht speisest du gut: ein dafür erkaufeter Rotbart,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Librarum cenae pompa caputque                      fuit.",
+    "FIELD3": "Welcher an vier Pfund wog,                      prangte beim Mahl als das Haupt."
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Exclamare libet: 'Non est hic, inprobe, non est",
+    "FIELD3": "Hier ruft jeder mit Recht: \"Kein Fisch, Nichtswürdiger,                    ist das,"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Piscis: homo est; hominem,                      Calliodore, comes.'",
+    "FIELD3": "Sondern ein Mensch; du verzehrst                      Menschen, o Calliodor.\""
+  },
+  {
+    "FIELD1": "10,43",
+    "FIELD2": "XLIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Septima iam, Phileros, tibi conditur uxor in agro.",
+    "FIELD3": "Phileros, schon begräbt dein Feld die siebente                    Gattin."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Plus nulli, Phileros, quam                      tibi, reddit ager.",
+    "FIELD3": "Mehr kann keinem sein Feld                      tragen, Phileros, als dir."
+  },
+  {
+    "FIELD1": "10,47",
+    "FIELD2": "XLVII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Vitam quae faciant beatiorem,",
+    "FIELD3": "Was uns glücklicher machen kann das Leben,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Iucundissime Martialis, haec sunt:",
+    "FIELD3": "Ist, mein teuerster Martialis, dieses:"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Res non parta labore, sed relicta;",
+    "FIELD3": "Nicht erworbenes, sondern Erbvermögen;"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Non ingratus ager, focus perennis;",
+    "FIELD3": "Ein stets flammender Herd, ein Acker, fruchtbar;"
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Lis numquam, toga rara, mens quieta;",
+    "FIELD3": "Nie Streit, selten die Toga, Seelenruhe;"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Vires ingenuae, salubre corpus;",
+    "FIELD3": "Eine kräft'ge Natur, gesunder Körper;"
+  },
+  {
+    "FIELD1": "7",
+    "FIELD2": "Prudens simplicitas, pares amici;",
+    "FIELD3": "Klugheit ehrlicher Art, uns gleiche Freunde;"
+  },
+  {
+    "FIELD1": "8",
+    "FIELD2": "Convictus facilis, sine arte mensa;",
+    "FIELD3": "Ein gefälliges Mahl, die Tafel kunstlos;"
+  },
+  {
+    "FIELD1": "9",
+    "FIELD2": "Nox non ebria, sed soluta curis;",
+    "FIELD3": "Keine trunknen, doch sorgenfreie Nächte,"
+  },
+  {
+    "FIELD1": "10",
+    "FIELD2": "Non tristis torus,                    et tamen pudicus;",
+    "FIELD3": "Ein Lust spendendes und doch keuches Ehebett;"
+  },
+  {
+    "FIELD1": "11",
+    "FIELD2": "Somnus, qui faciat breves tenebras:",
+    "FIELD3": "Schlaf, der kurz uns die Nächte lässt erscheinen:"
+  },
+  {
+    "FIELD1": "12",
+    "FIELD2": "Quod sis, esse velis nihilque malis;",
+    "FIELD3": "Gern sei das, was du bist, und wolle mehr nicht;"
+  },
+  {
+    "FIELD1": "13",
+    "FIELD2": "Summum nec metuas diem nec optes.",
+    "FIELD3": "Und nicht fürchte den letzten Tag, noch wünsch' ihn!"
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "10,84",
+    "FIELD2": "LXXXIV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Miraris, quare dormitum non eat Afer?",
+    "FIELD3": "Dass er zum Schlafen nicht kommt, das                    kann bei Afer dich wundern?"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Accumbat cum qua, Caediciane,                      vides.",
+    "FIELD3": "Cädicianus, du siehst,                      wer mit ihm teilet das Bett."
+  },
+  {
+    "FIELD1": "11,14",
+    "FIELD2": "XIV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Heredes, nolite brevem sepelire colonum:",
+    "FIELD3": "Wollet, ihr Erben, nicht den winzigen Pächter                    begraben:"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Nam terra est illi quantulacumque                      gravis.",
+    "FIELD3": "Denn, wie leicht sie auch,                      ihm wäre die Erde zu schwer."
+  },
+  {
+    "FIELD1": "11,17",
+    "FIELD2": "XVII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Non omnis nostri nocturna est pagina libri:",
+    "FIELD3": "Nicht ist jegliches Blatt ein nächtliches                    hier in dem Buche."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Invenies et, quod mane, Sabine,                      legas.",
+    "FIELD3": "Finden wirst du, Sabin, auch                      was des Morgens sich liest."
+  },
+  {
+    "FIELD1": "11,18",
+    "FIELD2": "XVIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Donasti, Lupe, rus sub urbe nobis;",
+    "FIELD3": "Du gabst, Lupus, mir vor der Stadt ein Landgut;"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Sed rus est mihi maius in fenestra.",
+    "FIELD3": "Doch ein größeres hab' ich in dem Fenster."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Rus hoc dicere, rus potes vocare?",
+    "FIELD3": "Landgut kannst du das nennen, das ein Landgut?"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "In quo ruta facit nemus Dianae,",
+    "FIELD3": "Worin Raute den Hain Dianas vorstellt;"
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Argutae tegit ala quod cicadae,",
+    "FIELD3": "Was der zirpenden Grille Flügel decket,"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Quod formica die comedit uno,",
+    "FIELD3": "Ein Ameischen in einem Tage wegfrisst,"
+  },
+  {
+    "FIELD1": "7",
+    "FIELD2": "Clusae cui folium rosae corona est;",
+    "FIELD3": "Dem ein Blättchen der Rosenknosp' ein Kranz ist,"
+  },
+  {
+    "FIELD1": "8",
+    "FIELD2": "In quo non magis invenitur herba,",
+    "FIELD3": "Wo nicht mehr man entdecken kann von Halmen,"
+  },
+  {
+    "FIELD1": "9",
+    "FIELD2": "Quam Cosmi folium piperve crudum;",
+    "FIELD3": "Als von Cosmischer Nard' und grünem Pfeffer;"
+  },
+  {
+    "FIELD1": "10",
+    "FIELD2": "In quo nec cucumis iacere rectus",
+    "FIELD3": "Worin keine gerade Gurke liegen,"
+  },
+  {
+    "FIELD1": "11",
+    "FIELD2": "Nec serpens habitare tota possit.",
+    "FIELD3": "Keine Schlange sich ganz verstecken könnte,"
+  },
+  {
+    "FIELD1": "12",
+    "FIELD2": "Urucam male pascit hortus unam,",
+    "FIELD3": "Eine Raupe der Garten schlecht ernähret,"
+  },
+  {
+    "FIELD1": "13",
+    "FIELD2": "Consumpto moritur culex salicto,",
+    "FIELD3": "Nach verzehreter Weide stirbt die Mücke,"
+  },
+  {
+    "FIELD1": "14",
+    "FIELD2": "Et talpa est mihi fossor atque arator.",
+    "FIELD3": "Und mir Gräber und Pflüger ist der Maulwurf."
+  },
+  {
+    "FIELD1": "15",
+    "FIELD2": "Non boletus hiare, non mariscae",
+    "FIELD3": "Öffnen können der Pilz sich nicht, Violen"
+  },
+  {
+    "FIELD1": "16",
+    "FIELD2": "Ridere aut violae patere possunt.",
+    "FIELD3": "Nicht aufblühen, Marisken nicht gedeihen."
+  },
+  {
+    "FIELD1": "17",
+    "FIELD2": "Finis mus populatur et colono",
+    "FIELD3": "Seine Grenzen verheert die Maus und schrecket"
+  },
+  {
+    "FIELD1": "18",
+    "FIELD2": "Tamquam sus Calydonius timetur,",
+    "FIELD3": "Gleich dem Eber von Kalydon den Meier,"
+  },
+  {
+    "FIELD1": "19",
+    "FIELD2": "Et sublata volantis ungue Procnes",
+    "FIELD3": "Und die Klaue der Prokne trägt im Fluge"
+  },
+  {
+    "FIELD1": "20",
+    "FIELD2": "In nido seges est hirundinino;",
+    "FIELD3": "Meine sämtliche Saat zum Schwalbenneste;"
+  },
+  {
+    "FIELD1": "21",
+    "FIELD2": "Et cum stet sine falce mentulaque,",
+    "FIELD3": "Und, mag stehen er ohne Glied und Sichel,"
+  },
+  {
+    "FIELD1": "22",
+    "FIELD2": "Non est dimidio locus Priapo.",
+    "FIELD3": "Für den halben Priapus fehlt's an Raume."
+  },
+  {
+    "FIELD1": "23",
+    "FIELD2": "Vix implet cocleam peracta messis,",
+    "FIELD3": "Voll wird kaum von der Ernt' ein Schneckenhäuschen,"
+  },
+  {
+    "FIELD1": "24",
+    "FIELD2": "Et mustum nuce condimus picata.",
+    "FIELD3": "Während eine verpischte Nuss den Most birgt."
+  },
+  {
+    "FIELD1": "25",
+    "FIELD2": "Errasti, Lupe, littera sed una:",
+    "FIELD3": "Du hast, Lupus, geirrt in einer Silbe."
+  },
+  {
+    "FIELD1": "26",
+    "FIELD2": "Nam quo tempore praedium dedisti,",
+    "FIELD3": "Denn an Stelle des mir geschenkten Grundstücks"
+  },
+  {
+    "FIELD1": "27",
+    "FIELD2": "Mallem tu mihi prandium dedisses.",
+    "FIELD3": "Hätt' ich leiber gesehn, es wär ein Frühstück."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "11,34",
+    "FIELD2": "XXXIV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Aedes emit Aper, sed quas nec noctua vellet",
+    "FIELD3": "Aper erstand ein Haus, das selbst nicht die                    Eule zur Wohnung"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Esse suas: adeo nigra vetusque                      casa est.",
+    "FIELD3": "Wollte besitzen, so schwarz                      ist diese Hütte, so alt!"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Vicinos illi nitidus Maro possidet hortos.",
+    "FIELD3": "Ihm in der Nachbarschaft hat Gärten der prächtige                    Maro"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Cenabit belle, non habitabit                      Aper.",
+    "FIELD3": "Aper wohnet nun nicht, aber                      er speiset nun fein."
+  },
+  {
+    "FIELD1": "11,35",
+    "FIELD2": "XXXV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Ignotos mihi cum voces trecentos,",
+    "FIELD3": "Wenn dreihundert mir Fremde du zu Tisch lädst,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Quare non veniam vocatus ad te,",
+    "FIELD3": "Mich darunter, und ich dann nicht erscheine,"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Miraris quererisque litigasque.",
+    "FIELD3": "Nimmt's dich Wunder, du klagest dann und keifest."
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Solus ceno, Fabulle, non libenter.",
+    "FIELD3": "Ungern, lieber Fabullus, speis' ich einsam."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "11,38",
+    "FIELD2": "XXXVIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Mulio viginti venit modo milibus, Aule.",
+    "FIELD3": "Zwanzig Sestertien kostet'  ein Maultiertreiber                    soeben."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Miraris pretium tam grave?                      surdus erat.",
+    "FIELD3": "Wundert dich solch hoher Preis, Aulus? Ihm fehlt das Gehör."
+  },
+  {
+    "FIELD1": "11,42",
+    "FIELD2": "XLII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Vivida cum poscas epigrammata, mortua ponis",
+    "FIELD3": "Caecilian, du verlangst Epigramme frisch und lebendig,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Lemmata. Quid fieri, Caeciliane,                      potest?",
+    "FIELD3": "Tote Stoffe jedoch jedoch                      gibst du. Was macht man daraus?"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Mella iubes Hyblaea tibi vel Hymettia nasci,",
+    "FIELD3": "Willst du hyblischen und hymettischen Honig gewinnen,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Et thyma Cecropiae Corsica                      ponis api!",
+    "FIELD3": "Wenn du den Bienen Athens                      korsischen Thymian gibst?"
+  },
+  {
+    "FIELD1": "11,59",
+    "FIELD2": "LIX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Senos Charinus omnibus digitis gerit,",
+    "FIELD3": "Sechs Ring' an jedem Finger trägt Charinus                    stets"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Nec nocte ponit anulos,",
+    "FIELD3": "Und legt auch nicht des Nachts                      sie ab."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Nec cum lavatur. Causa quae sit, quaeritis?",
+    "FIELD3": "Noch wenn er badet. Wissen wollet ihr den Grund?"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Dactyliothecam non habet.",
+    "FIELD3": "Ein Ringbehälter fehlet                      ihm."
+  },
+  {
+    "FIELD1": "Versmaß:  1.                    Epodensystem: Verbindung von Iambischem                    Trimeter (Senar)  und Iambischem                    Dimeter (Archilochium)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "11,64",
+    "FIELD2": "LXIV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Nescio, tam multis quid scribas, Fauste, puellis:",
+    "FIELD3": "Faustus, ich weiß nicht, was an so viele                    Mädchen du schreibest:"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Hoc scio, quod scribit nulla                      puella tibi.",
+    "FIELD3": "Dass kein Mädchen an dich                      schreibet, das weiß ich gewiss."
+  },
+  {
+    "FIELD1": "11,67",
+    "FIELD2": "LXVII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Nil mihi das vivus; dicis post fata daturum.",
+    "FIELD3": "Lebend gibst du mir nichts; du willst nach dem                    Tode mir geben."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Si non es stultus, scis, Maro,                      quid cupiam.",
+    "FIELD3": "Bist nicht; Maro, du dumm,                      weißt du, wonach mich verlangt?"
+  },
+  {
+    "FIELD1": "11,77",
+    "FIELD2": "LXXVII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "In omnibus Vacerra quod conclavibus",
+    "FIELD3": "Warum, Vacerra, überall auf dem Abort"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Consumit horas et die toto sedet,",
+    "FIELD3": "Die Stunden zubringt und den ganzen Tag durch sitzt?"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Cenaturit Vacerra, non cacaturit.",
+    "FIELD3": "Zu Tische will Vacerra, nicht zu Stuhle gehn."
+  },
+  {
+    "FIELD1": "Versmaß: Senar",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "11,83",
+    "FIELD2": "LXXXIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Nemo habitat gratis nisi dives et orbus apud te.",
+    "FIELD3": "Bei dir wohnt nur umsonst, wer erbenlos und wer                    reich ist."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Nemo domum pluris, Sosibiane,                      locat.",
+    "FIELD3": "Keiner vermietet sein Haus                      teuerer, Sosibian."
+  },
+  {
+    "FIELD1": "11,84",
+    "FIELD2": "LXIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Qui nondum Stygias descendere quaerit ad umbras,",
+    "FIELD3": "Fliehe, wer noch nicht gern zu den Stygischen                    Schatten hinabsteigt,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Tonsorem fugiat, si sapit,                      Antiochum.",
+    "FIELD3": "Ist er klug, den Barbier, der                      sich Antiochus nennt!"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Alba minus saevis lacerantur bracchia cultris,",
+    "FIELD3": "Weniger wird sein Arm von den wütenden Messern                    zerfleischet,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Cum furit ad Phrygios enthea                      turba modos;",
+    "FIELD3": "Wenn die begeisterte Schar                      raset bei phrygischem Klang."
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Mitior inplicitas Alcon secat enterocelas",
+    "FIELD3": "Sanfter schneidet den Bruch, der sich eingeklemm hat,                    des Alkon"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Fractaque fabrili dedolat ossa                      manu.",
+    "FIELD3": "Zimmererhand und nimmt Splitter                      der Knochen heraus."
+  },
+  {
+    "FIELD1": "7",
+    "FIELD2": "Tondeat hic inopes Cynicos et Stoica menta",
+    "FIELD3": "Stoische Kinne mög' und kynische Bettler er scheren"
+  },
+  {
+    "FIELD1": "8",
+    "FIELD2": "Collaque pulverea nudet equina                      iuba.",
+    "FIELD3": "Und Rosshälse vom Wust                      staubiger Mähnen befrein."
+  },
+  {
+    "FIELD1": "9",
+    "FIELD2": "Hic miserum Scythica sub rupe Promethea radat,",
+    "FIELD3": "Wenn er am skytischen Fels den Prometheus schöre, der                    arme"
+  },
+  {
+    "FIELD1": "10",
+    "FIELD2": "Carnificem duro pectore poscet                      avem;",
+    "FIELD3": "Wünscht als Henker den                      Aar für die entblößete Brust."
+  },
+  {
+    "FIELD1": "11",
+    "FIELD2": "Ad matrem fugiet Pentheus, ad Maenadas Orpheus,",
+    "FIELD3": "Orpheus flüchtete sich zu Mänaden, Pentheus zur                    Mutter,"
+  },
+  {
+    "FIELD1": "12",
+    "FIELD2": "Antiochi tantum barbara tela                      sonent.",
+    "FIELD3": "In vetuli pyctae qualia fronte                      sedent,"
+  },
+  {
+    "FIELD1": "13",
+    "FIELD2": "Haec quaecumque meo numeratis stigmata mento,",
+    "FIELD3": "Diese Narben, was auch für welche zählen mein Kinn                    mag,"
+  },
+  {
+    "FIELD1": "14",
+    "FIELD2": "In vetuli pyctae qualia fronte                      sedent,",
+    "FIELD3": "Wie sie ein alter Athlet sehen                      uns lässt an der Stirn,"
+  },
+  {
+    "FIELD1": "15",
+    "FIELD2": "Non iracundis fecit gravis unguibus uxor:",
+    "FIELD3": "Machte mir nicht im Groll mit zornigen Nägeln die Gattin,"
+  },
+  {
+    "FIELD1": "16",
+    "FIELD2": "Antiochi ferrum est et scelerata                      manus.",
+    "FIELD3": "Sondern Antiochus' Stahl, seine                      verwünschete Hand."
+  },
+  {
+    "FIELD1": "17",
+    "FIELD2": "Unus de cunctis animalibus hircus habet cor:",
+    "FIELD3": "Unter den Tieren gesamt hat eines Verstand nur, der Geisbock:"
+  },
+  {
+    "FIELD1": "18",
+    "FIELD2": "Barbatus vivit, ne ferat Antiochum.",
+    "FIELD3": "Dass ihn Antiochus nicht martere,                      trägt er den Bart."
+  },
+  {
+    "FIELD1": "11,92",
+    "FIELD2": "XCII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Mentitur qui te vitiosum, Zoile, dicit.",
+    "FIELD3": "Wer dich als lasterhaft zeichnet, Zoilus, lüget."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Non vitiosus homo es, Zoile,                      sed vitium.",
+    "FIELD3": "Denn nicht lasterhaft bist                      du, das Laster vielmehr."
+  },
+  {
+    "FIELD1": "11,93",
+    "FIELD2": "XCIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Pierios vatis Theodori flamma penates",
+    "FIELD3": "Flammen erlag das Pierische Haus Theodorus' des                    Dichters,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Abstulit. Hoc Musis et tibi,                      Phoebe, placet?",
+    "FIELD3": "Billigt ihr, Musen, und du,                      Phöbus, es, dass es geschah?"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "O scelus, o magnum facinus crimenque deorum,",
+    "FIELD3": "O Verbrechen, o Schuld, o großer Frevel der Götter,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Non arsit pariter quod domus                      et dominus!",
+    "FIELD3": "Dass mit dem Hause zugleich                      nicht auch verbrannte der Herr!"
+  },
+  {
+    "FIELD1": "11,101",
+    "FIELD2": "CI",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Thaida tam tenuem potuisti, Flacce, videre?",
+    "FIELD3": "Sehen hast du gekonnt die so hagere Thais, mein                    Flaccus?"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Tu, puto, quod non est, Flacce,                      videre potes.",
+    "FIELD3": "Flaccus, was gar nicht ist,                      glaub' ich, vermagst du zu sehn."
+  },
+  {
+    "FIELD1": "11,107",
+    "FIELD2": "CVII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Explicitum nobis usque ad sua cornua librum",
+    "FIELD3": "Bis zu den Hörnern entrollt, als wenn du's                    hättest durchlesen,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Et quasi perlectum, Septiciane,                      refers.",
+    "FIELD3": "Bringest du mir mein Buch,                      Septicianus, zurück."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Omnia legisti. Credo, scio, gaudeo, verum est.",
+    "FIELD3": "Alles lasest du durch. Ich glaub's, micht freut es, wahr ist's."
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Perlegi libros sic ego quinque                      tuos.",
+    "FIELD3": "Ebenso hab' ich die fünf                      Bücher durchlesen von dir."
+  },
+  {
+    "FIELD1": "12,10",
+    "FIELD2": "X",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Habet Africanus miliens, tamen captat.",
+    "FIELD3": "Trotz seiner hundert Millionen ist Erbschleicher"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Fortuna multis dat nimis, satis nulli.",
+    "FIELD3": "Africanus. Mancher hat zu viel, genug keiner."
+  },
+  {
+    "FIELD1": "Versmaß:   Hipponacteus (Hinkiambus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "12,12",
+    "FIELD2": "XII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Omnia promittis, cum tota nocte bibisti;",
+    "FIELD3": "Hast du die Nacht durchzecht, so versprichst du,                    Pollio, alles;"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Mane nihil praestas. Pollio,                      mane bibe.",
+    "FIELD3": "Morgens erfüllst du nichts.                      Zeche des Morgens mein Freund!"
+  },
+  {
+    "FIELD1": "12,23",
+    "FIELD2": "XXIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Dentibus atque comis - nec te pudet - uteris emptis.",
+    "FIELD3": "Offen schmückest du dich mit gekauftem                    Gebiss und auch Haarschopf."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Quid facies oculo, Laelia?                      non emitur.",
+    "FIELD3": "Laelia, wie steht's mit                      dem Aug'? - Das gibt es nicht im Geschäft!"
+  },
+  {
+    "FIELD1": "12,25",
+    "FIELD2": "XXV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Cum rogo te nummos sine pignore, 'non habeo' inquis;",
+    "FIELD3": "Bitt' ich dich ohne Pfand um Geld, so sagst du:                    \"Ich hab's nicht.\""
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Idem, si pro me spondet agellus,                      habes:",
+    "FIELD3": "Wenn mein Acker für mich                      bürget, so hast du es gleich."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Quod mihi non credis veteri, Telesine, sodali,",
+    "FIELD3": "Was, Telesinus, du mir nicht borgst, dem alten Genossen,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Credis coliculis arboribusque                      meis.",
+    "FIELD3": "Meinen Bäumen und Kohlstängelchen                      wird es geborgt."
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Ecce, reum Carus te detulit: adsit agellus.",
+    "FIELD3": "Carus klagte dich an: da mag mein Acker dir beistehn."
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Exilii comitem quaeris: agellus                      eat.",
+    "FIELD3": "Suchst du Geleit ins Exil?                      Gebe mein Acker es dir!"
+  },
+  {
+    "FIELD1": "12,29",
+    "FIELD2": "XXIX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Sexagena teras cum limina mane senator,",
+    "FIELD3": "Da als Senator du früh an sechzig Schwellen                    beschreitest,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Esse tibi videor desidiosus                      eques,",
+    "FIELD3": "Siehst du für einen im                      Dienst lässigen Ritter mich an."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Quod non a prima discurram luce per urbem",
+    "FIELD3": "Dass ich die Stadt nicht schon bei Tagesanbruch durchlaufe,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Et referam lassus basia mille                      domum.",
+    "FIELD3": "Und ermüdet zurück                      kehre, von tausend geküsst."
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Sed tu, purpureis ut des nova nomina fastis",
+    "FIELD3": "Du tust's aber, dass neu man dich schreib' in's purpurne Jahrbuch,"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Aut Numidum gentes Cappadocumve                      petas:",
+    "FIELD3": "Oder dass Numider du und Kappadoker                      regierst:"
+  },
+  {
+    "FIELD1": "7",
+    "FIELD2": "At mihi, quem cogis medios abrumpere somnos",
+    "FIELD3": "Doch ich, welchen du zwingst, aus dem besten Schlaf zu erwachen,"
+  },
+  {
+    "FIELD1": "8",
+    "FIELD2": "Et matutinum ferre patique                      lutum,",
+    "FIELD3": "Und den Kot zu bestehn, der                      mich des Morgens bespritzt,"
+  },
+  {
+    "FIELD1": "9",
+    "FIELD2": "Quid petitur? Rupta cum pes vagus exit aluta",
+    "FIELD3": "Was erreich' ich? Wenn mir durch geborstenes Leder der Fuß                    dringt,"
+  },
+  {
+    "FIELD1": "10",
+    "FIELD2": "Et subitus crassae decidit                      imber aquae",
+    "FIELD3": "Und sich in dichter Flut plötzlicher                      Regen ergießt,"
+  },
+  {
+    "FIELD1": "11",
+    "FIELD2": "Nec venit ablatis clamatus verna lacernis,",
+    "FIELD3": "Kommt kein Knabe zu mir auf den Ruf und bringet Lacernen,"
+  },
+  {
+    "FIELD1": "12",
+    "FIELD2": "Accedit gelidam servus ad auriculam",
+    "FIELD3": "Meinem erfrorenen Ohr nahet                      ein Sklave sich dann,"
+  },
+  {
+    "FIELD1": "13",
+    "FIELD2": "Et 'Rogat ut secum cenes Laetorius' inquit.",
+    "FIELD3": "Und bestellt mir: \"Es lässt dich zum Mahl Lätorius                    bitten.\""
+  },
+  {
+    "FIELD1": "14",
+    "FIELD2": "Viginti nummis? non ego: malo                      famem,",
+    "FIELD3": "Für der Denarien fünf?                      Nimmer: den Hunger noch eh'r,"
+  },
+  {
+    "FIELD1": "15",
+    "FIELD2": "Quam sit cena mihi, tibi sit provincia merces,",
+    "FIELD3": "Als dass die Mahlzeit mir, dass dir der Lohn die Provinz sei,"
+  },
+  {
+    "FIELD1": "16",
+    "FIELD2": "Et faciamus idem nec mereamur                      idem.",
+    "FIELD3": "Und wir das Selbige tun ohne den selben Gewinn."
+  },
+  {
+    "FIELD1": "12,30",
+    "FIELD2": "XXX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Siccus, sobrius est Aper; quid ad me?",
+    "FIELD3": "Nüchtern, mäßig ist Aper stets;                    was schiert's mich?"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Servum sic ego laudo, non amicum.",
+    "FIELD3": "Sklaven lob' ich mir so doch nicht die Freunde."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "12,39",
+    "FIELD2": "XXXIX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Odi te, quia bellus es, Sabelle.",
+    "FIELD3": "Weil du 'bellus' bist, hass' ich dich Sabellus."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Res est putida bellus et Sabellus.",
+    "FIELD3": "O wie widerlich 'bellus' und Sabellus!"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Bellum denique malo, quam Sabellum.",
+    "FIELD3": "Lieber endlich noch 'bellum' als Sabellus."
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Tabescas utinam, Sabelle belle!",
+    "FIELD3": "O vergingest du doch, Sabellus 'bellus'!"
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "12,45",
+    "FIELD2": "XLV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Haedina tibi pelle contegenti",
+    "FIELD3": "Da mit Fellen des Bocks die nackten Schläfen"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Nudae tempora verticemque calvae,",
+    "FIELD3": "Und den Scheitel der Glatze du bedeckest,"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Festive tibi, Phoebe, dixit ille,",
+    "FIELD3": "Sagte, Phöbus, dir neulich einer artig,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Qui dixit caput esse calceatum.",
+    "FIELD3": "Schuhe habest du angelegt dem Haupte!"
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "12,51",
+    "FIELD2": "LI",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Tam saepe nostrum decipi Fabullinum,",
+    "FIELD3": "Dich wundert's Aulus, dass so oft Fabullinus"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Miraris, Aule? semper homo bonus tiro est.",
+    "FIELD3": "Betrogen wird? - Ein guter Mensch bleibt stets Lehrling."
+  },
+  {
+    "FIELD1": "Versmaß:  Hipponacteus (Hinkiambus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "12,56",
+    "FIELD2": "LVI",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Aegrotas uno decies aut saepius anno,",
+    "FIELD3": "Zehnmal sieht man dich krank in einem Jahr' auch                    noch öfter,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Nec tibi, sed nobis hoc, Polycharme,                      nocet:",
+    "FIELD3": "Und nicht dir, Polycharm, schadet                      es, sondern nur uns."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Nam quotiens surgis, soteria poscis amicos.",
+    "FIELD3": "Denn du verlangst, wenn genesen du bist, von den Freunden                    Geschenke"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Sit pudor: aegrota iam, Polycharme,                      semel.",
+    "FIELD3": "Schäme dich: Einmal nur                      werde noch krank, Polycharm!"
+  },
+  {
+    "FIELD1": "12,73",
+    "FIELD2": "LXXIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Heredem tibi me, Catulle, dicis.",
+    "FIELD3": "Ich soll, sagst du, Catullus, dich beerben?"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Non credam, nisi legero, Catulle.",
+    "FIELD3": "Nimmer glaub' ich's, Catullus, bis ich's lese."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "12,88",
+    "FIELD2": "LXXXVIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Tongilianus habet nasum: scio, non nego. Sed iam",
+    "FIELD3": "Tongilianus besitzt ein feines Näschen, ich                    weiß es."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Nil praeter nasum Tongilianus                      habet.",
+    "FIELD3": "Aber die Nas' ist jetzt alles,                      was noch er besitzt."
+  },
+  {
+    "FIELD1": "12,92",
+    "FIELD2": "XCII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Saepe rogare soles, qualis sim, Prisce, futurus,",
+    "FIELD3": "Priscus, du fragest mich oft, wie ich dann mich                    würde benehmen,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Si fiam locuples simque repente                      potens.",
+    "FIELD3": "Wenn auf einmal ich reich würd'                      und ein mächtiger Mann."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Quemquam posse putas mores narrare futuros?",
+    "FIELD3": "Glaubst du, es könnt' ein Mensch die künftigen Sitten                    dir sagen?"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Dic mihi, si fias tu leo, qualis                      eris?",
+    "FIELD3": "Sage, wie du sein wirst, würd'st                      du zum Löwen gemacht!"
+  },
+  {
+    "FIELD1": "14,194",
+    "FIELD2": "CXCIV Lucanus",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Sunt quidam, qui me dicant non esse poetam:",
+    "FIELD3": "Einige sagen von mir, ich sei kein Dichter gewesen:"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Sed qui me vendit bybliopola                      putat.",
+    "FIELD3": "Mein Buchhändler jedoch                      glaubet es, der mich verkauft."
+  },
+  {
+    "FIELD1": "14,195",
+    "FIELD2": "CXCV Catullus",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Tantum magna suo debet Verona Catullo,",
+    "FIELD3": "Was die so große Stadt Verona ihrem Catull                    dankt,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Quantum parva suo Mantua Vergilio.",
+    "FIELD3": "Das die so kleine Stadt Mantua                      ihrem Vergil"
+  },
+  {
+    "FIELD1": "5,13",
+    "FIELD2": "XIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Sum, fateor, semperque fui, Callistrate, pauper,",
+    "FIELD3": "Ich bin arm, ich gsteh's, und war's, Callistratus,                    immer,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Sed non obscurus nec male notus                      eques,",
+    "FIELD3": "Aber ein Ritter von nicht fremdem,                      noch übelem Ruf,"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Sed toto legor orbe frequens et dicitur 'Hic est',",
+    "FIELD3": "Aber es lieset die Welt mich viel und saget: \"Das ist                    er.\""
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Quodque cinis paucis, hoc mihi                      vita dedit.",
+    "FIELD3": "Lebend genieß ich, was                      nicht vielen die Asche gewährt."
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "At tua centenis incumbunt tecta columnis",
+    "FIELD3": "Dein Dach freilich, es wird von hundert Säulen getragen,"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Et libertinas arca flagellat                      opes,",
+    "FIELD3": "Freigelassener Schätz'                      engen den Kasten dir ein,"
+  },
+  {
+    "FIELD1": "7",
+    "FIELD2": "Magnaque Niliacae servit tibi glaeba Syenes,",
+    "FIELD3": "Und dir zinsen am Nil Syenes reiche Gefilde,"
+  },
+  {
+    "FIELD1": "8",
+    "FIELD2": "Tondet et innumeros Gallica                      Parma greges.",
+    "FIELD3": "Herden in Unzahl schiert Galliens                      Parma für dich."
+  },
+  {
+    "FIELD1": "9",
+    "FIELD2": "Hoc ego tuque sumus: sed quod sum, non potes esse:",
+    "FIELD3": "Dies bin ich, dies du: doch du kannst nicht werden, was ich                    bin:"
+  },
+  {
+    "FIELD1": "10",
+    "FIELD2": "Tu quod es, e populo quilibet                      esse potest.",
+    "FIELD3": "Was du bist, das vermag jeder                      zu sein aus dem Volk"
+  },
+  {
+    "FIELD1": "5,15",
+    "FIELD2": "XV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Quintus nostrorum liber est, Auguste, iocorum,",
+    "FIELD3": "Fürstlicher Herr, dies Buch ist meiner Scherze                    das fünfte,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Et queritur laesus carmine                      nemo meo,",
+    "FIELD3": "Aber durch kein Gedicht fühlet                      sich einer verletzt,"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Gaudet honorato sed multus nomine lector,",
+    "FIELD3": "Doch erfreuen darin geehrten Namens sich viele,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Cui victura meo munere fama                      datur.",
+    "FIELD3": "Welchen lebendigen Ruhm durch mein Geschenk ich erwarb."
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "'Quid tamen haec prosunt quamvis venerantia multos?'",
+    "FIELD3": "\"Wozu nützt es jedoch, wenn auch es viele verehret?\""
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Non prosint sane, me tamen                      ista iuvant.",
+    "FIELD3": "Wohl, nicht nützt es,                      doch ich habe Vergnügen daran."
+  },
+  {
+    "FIELD1": "5,20",
+    "FIELD2": "XX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Si tecum mihi, care Martialis,",
+    "FIELD3": "Wenn mit dir ich, mein teurer Martialis,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Securis liceat frui diebus,",
+    "FIELD3": "Unbekümmerter Tage mich erfreuen,"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Si disponere tempus otiosum",
+    "FIELD3": "Wenn ich schalten mit meiner Muß' und mit dir"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Et verae pariter vacare vitae:",
+    "FIELD3": "Mich hingeben dem wahren Leben könnte:"
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Nec nos atria, nec domos potentum,",
+    "FIELD3": "Wollten Atrien und Häuser Großer"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Nec litis tetricas forumque triste",
+    "FIELD3": "Und verdrießliche Händel nimmer kennen,"
+  },
+  {
+    "FIELD1": "7",
+    "FIELD2": "Nossemus, nec imagines superbas;",
+    "FIELD3": "Noch den traurigen Markt, noch stolze Bilder;"
+  },
+  {
+    "FIELD1": "8",
+    "FIELD2": "Sed gestatio, fabulae, libelli,",
+    "FIELD3": "Sondern tragen uns lassen, Plaudern, Bücher,"
+  },
+  {
+    "FIELD1": "9",
+    "FIELD2": "Campus, porticus, umbra, Virgo, thermae,",
+    "FIELD3": "Felder, Porticus, Schatten, Virgo, Thermen,"
+  },
+  {
+    "FIELD1": "10",
+    "FIELD2": "Haec essent loca semper, hi labores.",
+    "FIELD3": "Dieses wären die Orte, dies die Arbeit."
+  },
+  {
+    "FIELD1": "11",
+    "FIELD2": "Nunc vivit necuter sibi, bonosque",
+    "FIELD3": "Jetzt lebt keiner von unssich selbst und merket,"
+  },
+  {
+    "FIELD1": "12",
+    "FIELD2": "Soles effugere atque abire sentit,",
+    "FIELD3": "Dass verschwinden und fliehn die guten Tage,"
+  },
+  {
+    "FIELD1": "13",
+    "FIELD2": "Qui nobis pereunt et inputantur.",
+    "FIELD3": "Die, verloren auch, uns gerechnet werden."
+  },
+  {
+    "FIELD1": "14",
+    "FIELD2": "Quisquam vivere cum sciat, moratur?",
+    "FIELD3": "Wird, wenn einer zu leben weiß, er säumen?"
+  },
+  {
+    "FIELD1": "5,29",
+    "FIELD2": "XXIX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Si quando leporem mittis mihi, Gellia, dicis:",
+    "FIELD3": "Wenn mir ein Hase von dir geschickt wird, Gellia,                    sagst du:"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "'Formosus septem, Marce, diebus                      eris.'",
+    "FIELD3": "\"Sieben Tage hindurch                      machet er, Marcus, dich schön.\""
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Si non derides, si verum, lux mea, narras,",
+    "FIELD3": "Spottest du meiner nun nicht, mein Schatz, und sagst du die                    Wahrheit,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Edisti numquam, Gellia, tu                      leporem.",
+    "FIELD3": "Gellia, nimmermehr hast du                      dann Hasen gespeist."
+  },
+  {
+    "FIELD1": "5,43",
+    "FIELD2": "XLIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Thais habet nigros, niveos Laecania dentes.",
+    "FIELD3": "Weiße Zähne besitzt Läcania, schwarze                    die Thais."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Quae ratio est? Emptos haec                      habet, illa suos.",
+    "FIELD3": "Woher kommt es? Sie trägt                      ihre, gekaufte die."
+  },
+  {
+    "FIELD1": "5,45",
+    "FIELD2": "XLV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Dicis formosam, dicis te, Bassa, puellam.",
+    "FIELD3": "Bassa, du nennst dich schön, nennst junges                    Mädchen dich immer."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Istud quae non est dicere,                      Bassa, solet.",
+    "FIELD3": "Eine, die das nicht ist, Bassa,                      die saget es gern."
+  },
+  {
+    "FIELD1": "5,47",
+    "FIELD2": "XLVII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Numquam se cenasse domi Philo iurat, et hoc est:",
+    "FIELD3": "Niemals hab' ich zu Hause gespeist, schwört                    Philo; so ist's auch:"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Non cenat, quotiens nemo vocavit                      eum.",
+    "FIELD3": "Wenn ihn keiner zum Mahl ladet,                      so speiset er nicht."
+  },
+  {
+    "FIELD1": "5,54",
+    "FIELD2": "LIV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1\n                     2",
+    "FIELD2": "Extemporalis factus est meus rhetor: \n                   Calpurnium non scripsit, et salutavit.",
+    "FIELD3": "Es redet jetzt mein Redner aus den Stehgreife:\n                   Er grüßt Calpurnius, ohne dass er's abliest."
+  },
+  {
+    "FIELD1": "Versmaß:   Hipponacteus (Hinkiambus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "5,58",
+    "FIELD2": "LVIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Cras te victurum, cras dicis, Postume, semper.",
+    "FIELD3": "Morgen, versprichst du stets, zu leben, Postumus,                    morgen."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Dic mihi, cras istud, Postume,                      quando venit?",
+    "FIELD3": "Sage mir, Postumus, wann kommet                      das Morgen einmal?"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Quam longe cras istud, ubi est? aut unde petendum?",
+    "FIELD3": "Wie weit ist's zu dem Morgen? wo ist's? von wannen zu holen?"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Numquid apud Parthos Armeniosque                      latet?",
+    "FIELD3": "Birgt's bei den Parthern vielleicht und den Armeniern sich?"
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Iam cras istud habet Priami vel Nestoris annos.",
+    "FIELD3": "Priamus' Jahre bereits und Nestors zählet das Morgen."
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Cras istud quanti, dic mihi,                      possit emi?",
+    "FIELD3": "Sage mir, für wie viel                      kann man das Morgen erstehn?"
+  },
+  {
+    "FIELD1": "7",
+    "FIELD2": "Cras vives? hodie iam vivere, Postume, serum est:",
+    "FIELD3": "Morgen willst du's, es ist zu spät schon, heute zu leben:"
+  },
+  {
+    "FIELD1": "8",
+    "FIELD2": "Ille sapit, quisquis, Postume,                      vixit heri.",
+    "FIELD3": "Der nur, Postumus, ist weise,                      der gestern gelebt."
+  },
+  {
+    "FIELD1": "5,59",
+    "FIELD2": "LIX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Quod non argentum, quod non tibi mittimus aurum,",
+    "FIELD3": "Dass nicht Silbergerät, dass goldenes nicht                    ich dir schicke,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Hoc facimus causa, Stella                      diserte, tua.",
+    "FIELD3": "Deinetwegen allein, Stella,                      Beredter, geschieht's."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Quisquis magna dedit, voluit sibi magna remitti;",
+    "FIELD3": "Jeder, der Großes geschenkt, will Großes wieder                    empfangen;"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Fictilibus nostris exoneratus                      eris.",
+    "FIELD3": "Durch mein irdnes Geschirr                      bist du entlediget des."
+  },
+  {
+    "FIELD1": "5,73",
+    "FIELD2": "LXXIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Non donem tibi cur meos libellos",
+    "FIELD3": "Theodorus, du wunderst dich, warum ich"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Oranti totiens et exigenti,",
+    "FIELD3": "Meine Bücher, soviel du bitt'st und drängest,"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Miraris, Theodore? Magna causa est:",
+    "FIELD3": "Dir nicht schenke? Ich habe gute Gründe:"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Dones tu mihi ne tuos libellos.",
+    "FIELD3": "Dass nicht du auch mir deine Bücher schenkest."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "5,81",
+    "FIELD2": "LXXXI",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Semper pauper eris, si pauper es, Aemiliane.",
+    "FIELD3": "Aemilianus, du wirst, wenn du arm bist, immer                    es bleiben."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Dantur opes nullis nunc nisi                      divitibus.",
+    "FIELD3": "Heute werden allein Reiche                      mit Schätzen beschenkt."
+  },
+  {
+    "FIELD1": "5,83",
+    "FIELD2": "LXXXIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Insequeris, fugio; fugis, insequor; haec mihi                    mens est:",
+    "FIELD3": "Folgst du, so flieh ich; du fliehst, und ich folge                    dir; weil, dass du wollest,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Velle tuum nolo, Dindyme,                      nolle volo.",
+    "FIELD3": "Ich nicht will, dass du nicht                      wollest, mein Dindymus, will."
+  },
+  {
+    "FIELD1": "6,17",
+    "FIELD2": "XVII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Cinnam, Cinname, te iubes vocari.",
+    "FIELD3": "Cinna, Cinnamus, lässest du dich nennen."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Non est hic, rogo, Cinna, barbarismus?",
+    "FIELD3": "Ist nicht, Cinna, das, sprich, ein Barbarismus?"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Tu si Furius ante dictus esses,",
+    "FIELD3": "Wenn du Furius erst geheißen hättest,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Fur ista ratione dicereris.",
+    "FIELD3": "Würdest Fur du auf die Art heißen müssen."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "6,34",
+    "FIELD2": "XXXIV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Basia da nobis, Diadumene, pressa. 'Quot?' inquis.",
+    "FIELD3": "Gib, Diadumenus, mir sich drängende Küsse.                    \"Wie viele?\""
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Oceani fluctus me numerare                      iubes",
+    "FIELD3": "Fragst du. So heißest                      du mich, zählen die Wellen der See"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Et maris Aegaei sparsas per litora conchas",
+    "FIELD3": "Und die Muscheln, zerstreut am Strand des Ägaischen Meeres,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Et quae Cecropio monte vagantur                      apes,",
+    "FIELD3": "Und die Bienen, die ziehn                      um den Kekropischen Berg,"
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Quaeque sonant pleno vocesque manusque theatro,",
+    "FIELD3": "Und die Stimmen und Händ', im Raum des Theaters erschallend,"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Cum populus subiti Caesaris                      ora videt.",
+    "FIELD3": "Wenn dort plötzlich das                      Volk siehet des Kaisers Gesicht."
+  },
+  {
+    "FIELD1": "7",
+    "FIELD2": "Nolo quot arguto dedit exorata Catullo",
+    "FIELD3": "Die der beredte Catull von Lesbia heischte, genügen"
+  },
+  {
+    "FIELD1": "8",
+    "FIELD2": "Lesbia: pauca cupit, qui numerare                      potest.",
+    "FIELD3": "Mir nicht: wenig begehrt,                      wer sie zu zählen vermag."
+  },
+  {
+    "FIELD1": "6,55",
+    "FIELD2": "LV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Quod semper casiaque cinnamoque",
+    "FIELD3": "Weil von Casia und von Zimt du immer"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Et nido niger alitis superbae",
+    "FIELD3": "Und vom Neste des stolzen Vogels triefest"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Fragras plumbea Nicerotiana,",
+    "FIELD3": "Und nach Niceros' Bleigefäßen duftest,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Rides nos, Coracine, nil olentis:",
+    "FIELD3": "Lachst du mich, Coracinus,aus, der nicht riecht,"
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Malo, quam bene olere, nil olere.",
+    "FIELD3": "Lieber will ich nach nichts, als lieblich riechen."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "6,60",
+    "FIELD2": "LX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Laudat, amat, cantat nostros mea Roma libellos,",
+    "FIELD3": "Meine Gedichte lobt und liebt und singet mein                    Roma,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Meque sinus omnes, me manus                      omnis habet.",
+    "FIELD3": "Mich hält jegliche Hand,                      jeglicher Busen mich gern."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Ecce rubet quidam, pallet, stupet, oscitat, odit.",
+    "FIELD3": "Rot wird einer und blaß und still und gähnet und                    hasst mich."
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Hoc volo: nunc nobis carmina                      nostra placent.",
+    "FIELD3": "So ist's recht: es gefällt                      mir auch mein Büchelchen jetzt."
+  },
+  {
+    "FIELD1": "6,73",
+    "FIELD2": "LXXIII\n                     Eine hölzerne Priapusstatue",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Non rudis indocta fecit me falce colonus:",
+    "FIELD3": "Nicht hat roh mich ein Ackrer gemacht                    mit bäurischer Sichel,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Dispensatoris nobile cernis                      opus.",
+    "FIELD3": "Sondern vom Hauswart selbst siehst du ein rühmliches Werk."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Nam Caeretani cultor ditissimus agri",
+    "FIELD3": "Denn es hat der Caeretischen Flur begütetster Pfleger,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Hos Hilarus colles et iuga                      laeta tenet.",
+    "FIELD3": "Hilarus, hier in Hut Hügel                      und lachendes Feld."
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Aspice, quam certo videar non ligneus ore",
+    "FIELD3": "Sieh, mit wie sichrem Gesicht ich nicht als hölzern                    erscheine"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Nec devota focis inguinis arma geram,",
+    "FIELD3": "Und, nicht dem Herde geweiht,                      trage des Schoßes Geschoss,"
+  },
+  {
+    "FIELD1": "7",
+    "FIELD2": "Sed mihi perpetua numquam moritura cupresso",
+    "FIELD3": "Sondern mir, trotzend dem Tod, aus ewigem Holz der Zypresse,"
+  },
+  {
+    "FIELD1": "8",
+    "FIELD2": "Phidiaca rigeat mentula digna                      manu.",
+    "FIELD3": "Würdig des Phidias Hand,                      starret das männliche Glied."
+  },
+  {
+    "FIELD1": "9",
+    "FIELD2": "Vicini, moneo, sanctum celebrate Priapum",
+    "FIELD3": "Haltet, ich geb' euch den Rat, den Priapus heilig, ihr Nachbarn,"
+  },
+  {
+    "FIELD1": "10",
+    "FIELD2": "Et bis septenis parcite iugeribus.",
+    "FIELD3": "Und dass der vierzehn Joch                      Ackers ihr schonet, gedenkt!"
+  },
+  {
+    "FIELD1": "6,77",
+    "FIELD2": "LXXVII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Cum sis tam pauper, quam nec miserabilis Iros,",
+    "FIELD3": "Da so dürftig du bist, wie nicht der klägliche                    Iros,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Tam iuvenis, quam nec Parthenopaeus                      erat,",
+    "FIELD3": "Und noch so jung, wie nicht                      Parthenopäus es war,"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Tam fortis, quam nec, cum vinceret, Artemidorus,",
+    "FIELD3": "Und so kräftig, wie nicht, als er siegete, Artemidorus,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Quid te Cappadocum sex onus                      esse iuvat?",
+    "FIELD3": "Weshalb ladest du dich sechs                      Kappadokiern auf?"
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Rideris multoque magis traduceris, Afer,",
+    "FIELD3": "Viel mehr wirst du verlacht und machst zum Gespötte dich,                    Afer,"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Quam nudus medio si spatiere                      foro.",
+    "FIELD3": "Als, lustwandeltest du nackt                      in der Mitte des Marktes."
+  },
+  {
+    "FIELD1": "7",
+    "FIELD2": "Non aliter monstratur Atlans cum compare ginno",
+    "FIELD3": "So wird auf Atlas gezeigt mit dem gleich ihm zwergigen Maultier"
+  },
+  {
+    "FIELD1": "8",
+    "FIELD2": "Quaeque vehit similem belua                      nigra Libyn.",
+    "FIELD3": "Und auf den Libyer, schwarz,                      gleichwie das Tier, das ihn trägt."
+  },
+  {
+    "FIELD1": "9",
+    "FIELD2": "Invidiosa tibi quam sit lectica, requiris?",
+    "FIELD3": "Willst du wissen, wie sehr missgönnt dir werde die Sänfte?"
+  },
+  {
+    "FIELD1": "10",
+    "FIELD2": "Non debes ferri mortuus hexaphoro.",
+    "FIELD3": "Tragen dich lassen von sechs                      darfst auch als Toter du nicht."
+  },
+  {
+    "FIELD1": "6,82",
+    "FIELD2": "LXXXII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Quidam me modo, Rufe, diligenter",
+    "FIELD3": "Jüngst besah so genau mich einer, Rufus,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Inspectum, velut emptor aut lanista,",
+    "FIELD3": "Wie Fechtmeister es machen, oder Käufer,"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Cum vultu digitoque subnotasset,",
+    "FIELD3": "Und nachdem er geprüft Aug' und Finger,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "'Tune es, tune' ait 'ille Martialis,",
+    "FIELD3": "Sprach er: \"Bist du nicht jener Martialis,"
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Cuius nequitias iocosque novit,",
+    "FIELD3": "Dessen Possen und Scherze voller Schallkheit"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Aurem qui modo non habet Batavam?'",
+    "FIELD3": "Jeder kennet, der kein böotisch Ohr hat?\""
+  },
+  {
+    "FIELD1": "7",
+    "FIELD2": "Subrisi modice, levique nutu",
+    "FIELD3": "Und ich leugnete nicht, bescheiden lächelnd"
+  },
+  {
+    "FIELD1": "8",
+    "FIELD2": "Me quem dixerat esse non negavi.",
+    "FIELD3": "Und leicht nickend, er habe Recht, ich sei es."
+  },
+  {
+    "FIELD1": "9",
+    "FIELD2": "'Cur ergo' inquit 'habes malas lacernas?'",
+    "FIELD3": "\"Und                    so schlechte Lacernen trägst du?\" fragt' er."
+  },
+  {
+    "FIELD1": "10",
+    "FIELD2": "Respondi: 'quia sum malus poeta'.",
+    "FIELD3": "\"Ich bin\", sagt' ich, \"auch nur ein schlechter                    Dichter.\""
+  },
+  {
+    "FIELD1": "11",
+    "FIELD2": "Hoc ne saepius accidat poetae,",
+    "FIELD3": "Dass nicht öfter dem Dichter das begegne,"
+  },
+  {
+    "FIELD1": "12",
+    "FIELD2": "Mittas, Rufe, mihi bonas lacernas.",
+    "FIELD3": "Schicke gute Lacernen mir, mein Rufus"
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "6,87",
+    "FIELD2": "LXXXVII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Di tibi dent et tu, Caesar, quaecumque mereris:",
+    "FIELD3": "Geben dir Götter und du, o Kaiser, was du                    verdienest,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Di mihi dent et tu, quae volo,                      si merui.",
+    "FIELD3": "Geben mir Götter und du,                      hab' ich's verdient, was ich will."
+  },
+  {
+    "FIELD1": "7,3",
+    "FIELD2": "III",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Cur non mitto meos tibi, Pontiliane, libellos?",
+    "FIELD3": "Weshalb schick ich dir nicht mein Büchlein,                    Pontilianus?"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Ne mihi tu mittas, Pontiliane,                      tuos.",
+    "FIELD3": "Dass nicht, Pontilian, du mir                      die deinigen schickst."
+  },
+  {
+    "FIELD1": "7,16",
+    "FIELD2": "XVI",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Aera domi non sunt, superest hoc, Regule, solum,",
+    "FIELD3": "Kein Geld hab' ich im Haus, und mir bleibt nur,                    Regulus, übrig"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Ut tua vendamus munera: numquid                      emis?",
+    "FIELD3": "Deiner Geschenke Verkauf: willst                      du sie kaufen vielleicht?"
+  },
+  {
+    "FIELD1": "7,73",
+    "FIELD2": "LXXIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Esquiliis domus est, domus est tibi colle Dianae,",
+    "FIELD3": "Auf den Esquilien steht dein Haus und am Hügel                    Dianas,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Et tua patricius culmina vicus                      habet;",
+    "FIELD3": "In der Patrizierstraß'                      eines auch, das dir gehört."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Hinc viduae Cybeles, illinc sacraria Vestae,",
+    "FIELD3": "Vestas Tempel ist hier, der der ledigen Cybele dorten,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Inde novum, veterem prospicis                      inde Iovem.",
+    "FIELD3": "Iupiters älterer hier,                      dorten der neue zu sehn."
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Dic, ubi conveniam, dic, qua te parte requiram:",
+    "FIELD3": "Sage, wo findet man dich, sag an, wo soll ich dich suchen?"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Quisquis ubique habitat, Maxime,                      nusquam habitat.",
+    "FIELD3": "Maximus, überall wohnen                      und nirgends ist gleich."
+  },
+  {
+    "FIELD1": "7,77",
+    "FIELD2": "LXXVII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Exigis, ut nostros donem tibi, Tucca, libellos.",
+    "FIELD3": "Meine Bücher verlangst du geschenkt. Das,                    Tucca, geschieht nicht."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Non faciam: nam vis vendere,                      non legere.",
+    "FIELD3": "Lesen willst du sie nicht,                      sondern verkauftest sie gern."
+  },
+  {
+    "FIELD1": "7,81",
+    "FIELD2": "LXXXI",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "'Triginta toto mala sunt epigrammata libro.'",
+    "FIELD3": "Dreißig im ganzen Buch Epigramme sind                    schlecht, wie du äußerst:"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Si totidem bona sunt, Lause,                      bonus liber est.",
+    "FIELD3": "Lausus, das Buch ist gut,                      hat es der guten so viel."
+  },
+  {
+    "FIELD1": "8,12",
+    "FIELD2": "XII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Uxorem quare locupletem ducere nolim,",
+    "FIELD3": "Ihr wollt wissen, warum kein reiches Weib ich                    zur Frau mag?"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Quaeritis? Uxori nubere nolo                      meae.",
+    "FIELD3": "Nicht behagt's mir, die Frau                      meiner Gemahlin zu sein."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Inferior matrona suo sit, Prisce, marito:",
+    "FIELD3": "Untergeordnet sei die Hausfrau, Priscus, dem Manne:"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Non aliter fiunt femina virque                      pares.",
+    "FIELD3": "Anders stehen sich nicht Gatten                      und Gattinnen gleich."
+  },
+  {
+    "FIELD1": "8,13",
+    "FIELD2": "XIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Morio dictus erat: viginti milibus emi.",
+    "FIELD3": "Narr sein solt' er; ich hab ihn für zwanzig                    tausend gekaufet."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "redde mihi nummos, Gargiliane: sapit.",
+    "FIELD3": "Zahl' mir mein Geld zurück,                      Gargilian, er hat Geist."
+  },
+  {
+    "FIELD1": "8,16",
+    "FIELD2": "XVI",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Pistor qui fueras diu, Cypere,",
+    "FIELD3": "Du, der lange du Bäcker warst, Cyperus,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Causas nunc agis et ducena quaeris:",
+    "FIELD3": "führst jetzt Sachen und nimmst dafür zweihundert;"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Sed consumis et usque mutuaris.",
+    "FIELD3": "Doch verzehrest du nur und borgest immer."
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "A pistore, Cypere, non recedis:",
+    "FIELD3": "Niemals kommst du vom Bäcker los, Cyperus:"
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Et panem facis et facis farinam.",
+    "FIELD3": "Du machst Brot und du machst zu Mehl es wieder."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "8,20",
+    "FIELD2": "XX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Cum facias versus nulla non luce ducenos,",
+    "FIELD3": "Varus, du machst des Tags zwei hundert Verse;                    doch keine"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Vare, nihil recitas. Non sapis,                      atque sapis.",
+    "FIELD3": "Liesest du vor. Nicht klug                      bist du, und wieder auch klug."
+  },
+  {
+    "FIELD1": "8,23",
+    "FIELD2": "XXIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Esse tibi videor saevus nimiumque gulosus,",
+    "FIELD3": "Grausam komm' ich dir vor und von allzu leckerer                    Zunge,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Qui propter cenam, Rustice,                      caedo cocum.",
+    "FIELD3": "Rusticus, weil um des Mahls                      willen ich schlage den Koch."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Si levis ista tibi flagrorum causa videtur,",
+    "FIELD3": "Wenn zu geringe der Grund der Geißelhiebe dir scheinet,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Ex qua vis causa vapulet ergo                      cocus?",
+    "FIELD3": "Weshalb sollte denn sonstSchläge                      bekommen der Koch?"
+  },
+  {
+    "FIELD1": "8,27",
+    "FIELD2": "XXVII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Munera qui tibi dat locupleti, Gaure, senique,",
+    "FIELD3": "Wer Geschenke dir schickt, der ein Greis du, Gaurus,                    und reich bist,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Si sapis et sentis, hoc tibi                      ait 'Morere.'",
+    "FIELD3": "Sagt dir damit, wenn du klug                      wärst und es merktest: \"Stirb!\"."
+  },
+  {
+    "FIELD1": "8,29",
+    "FIELD2": "XXIX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Disticha qui scribit, puto, vult brevitate placere.",
+    "FIELD3": "Einer, der Distichen schreibt, will traun durch                    Kürze gefallen."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Quid prodest brevitas, dic                      mihi, si liber est?",
+    "FIELD3": "Sage, was Kürze frommt,                      füllest damit du ein Buch."
+  },
+  {
+    "FIELD1": "8,35",
+    "FIELD2": "XXXV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Cum sitis similes paresque vita,",
+    "FIELD3": "Da ihr ähnlich, ja gleich euch seid im Leben,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Uxor pessima, pessimus maritus,",
+    "FIELD3": "Du die schlechteste Frau, der schlechteste Mann du,"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Miror, non bene convenire vobis.",
+    "FIELD3": "Nimmt mich's Wunder, dass nichtihr euch vertraget."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "8,74",
+    "FIELD2": "LXXIV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Oplomachus nunc es, fueras opthalmicus ante.",
+    "FIELD3": "Früher ein Augenarzt, bist jetzt du Fechter                    geworden."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Fecisti medicus, quod facis                      oplomachus.",
+    "FIELD3": "Was als Fechter du tust, hast                      auch als Arzt du getan."
+  },
+  {
+    "FIELD1": "8,69",
+    "FIELD2": "LXIX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Miraris veteres, Vacerra, solos,",
+    "FIELD3": "Nur die Alten bewunderst du, Vacerra,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Nec laudas nisi mortuos poetas.",
+    "FIELD3": "Und nicht andre, denn tote Dichter lobst du."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Ignoscas, petimus, Vacerra: tanti",
+    "FIELD3": "Nimm's nicht übel, ich bitte dich, Vacerra,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Non est, ut placeam tibi, perire.",
+    "FIELD3": "Dir zu Liebe verlohnt sich's nicht zu sterben."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "8,79",
+    "FIELD2": "LXXIX",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Omnes aut vetulas habes amicas",
+    "FIELD3": "Deine Freundinnen sind entweder Alte,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Aut turpes vetulisque foediores.",
+    "FIELD3": "Oder hässlich und ärger noch als Alte."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Has ducis comites trahisque tecum",
+    "FIELD3": "Diese führest und ziehst du immer mit dir"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Per convivia, porticus, theatra.",
+    "FIELD3": "Zu den Portiken, Schmäusen une Theatern."
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Sic formosa, Fabulla, sic puella es.",
+    "FIELD3": "So erscheinest du schön, so jung, Fabulla."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "9,10",
+    "FIELD2": "X",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Nubere vis Prisco: non miror, Paula: sapisti.",
+    "FIELD3": "Priscus möchtest du frein? Nicht wundert's,                    Paula, mich: klug ist's."
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Ducere te non vult Priscus:                      et ille sapit.",
+    "FIELD3": "Nehmen will er dich nicht?                      Priscus ist ebenso klug."
+  },
+  {
+    "FIELD1": "9,14",
+    "FIELD2": "XIV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Hunc, quem mensa tibi, quem cena paravit amicum,",
+    "FIELD3": "Glaubst du, er, den der Tisch, den das Mahl dir                    zum Freunde gemacht hat,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Esse putas fidae pectus amicitiae?",
+    "FIELD3": "Trage der Freundschaft Herz                      redlich für dich in der Brust?"
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Aprum amat et mullos et sumen et ostrea, non te.",
+    "FIELD3": "Rotbart, Eber und Austern und Saubrust liebet er, dich nicht."
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Tam bene si cenem, noster                      amicus erit.",
+    "FIELD3": "Mein Freund würd' er                      sogleich, speiste ich ebenso gut."
+  },
+  {
+    "FIELD1": "9,15",
+    "FIELD2": "XV",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Inscripsit tumulis septem scelerata virorum",
+    "FIELD3": "Chloe, die schändliche, schrieb auf das Grab                    der sieben Gemahle:"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "'Se fecisse' Chloe. Quid pote                      simplicius?",
+    "FIELD3": "\"Chloe hat es gemacht.\"                      Konnte sie ehrlicher sein?"
+  },
+  {
+    "FIELD1": "9,78",
+    "FIELD2": "LXXVIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Funera post septem nupsit tibi Galla virorum,",
+    "FIELD3": "Galla vermählte sich dir, als sie sieben                    Männer begraben,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Picentine: sequi vult, puto,                      Galla viros.",
+    "FIELD3": "Picentinus, sie will folgen                      den Männern, scheint's."
+  },
+  {
+    "FIELD1": "9,88",
+    "FIELD2": "LXXXVIII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Cum me captares, mittebas munera nobis:",
+    "FIELD3": "Als du fangen mich wollt'st, erhielt ich immer                    Geschenke:"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Postquam cepisti, das mihi,                      Rufe, nihil.",
+    "FIELD3": "Nun ich gefangen bin, sendest                      du, Rufus, mir nichts."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Ut captum teneas, capto quoque munera mitte,",
+    "FIELD3": "Dass der Gefangne dir bleibt, schick auch dem Gefangnen Geschenke!"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "De cavea fugiat ne male pastus                      aper.",
+    "FIELD3": "Oder der Eber entflieht, übel                      gefüttert, dem Stall."
+  },
+  {
+    "FIELD1": "9,97",
+    "FIELD2": "XCVII",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1",
+    "FIELD2": "Rumpitur invidia quidam, carissime Iuli,",
+    "FIELD3": "Jemand berstet vor Neid, mein teuerster Iulius,                    berstet,"
+  },
+  {
+    "FIELD1": "2",
+    "FIELD2": "Quod me Roma legit, rumpitur                      invidia.",
+    "FIELD3": "Weil ganz Roma mich gern lieset,                      er berstet vor Neid."
+  },
+  {
+    "FIELD1": "3",
+    "FIELD2": "Rumpitur invidia, quod turba semper in omni",
+    "FIELD3": "Berstet vor Neid, weil stets, wo ein Haufe Volkes versammelt,"
+  },
+  {
+    "FIELD1": "4",
+    "FIELD2": "Monstramur digito, rumpitur                      invidia.",
+    "FIELD3": "Jeder mit Fingern auf mich                      zeiget, er berstet vor Neid."
+  },
+  {
+    "FIELD1": "5",
+    "FIELD2": "Rumpitur invidia, tribuit quod Caesar uterque",
+    "FIELD3": "Berstet vor Neid, weil mir durch die Huld der beiden Caesaren"
+  },
+  {
+    "FIELD1": "6",
+    "FIELD2": "Ius mihi natorum, rumpitur                      invidia.",
+    "FIELD3": "Vaterrechte verliehn wurden,                      er berstet vor Neid."
+  },
+  {
+    "FIELD1": "7",
+    "FIELD2": "Rumpitur invidia, quod rus mihi dulce sub urbe est",
+    "FIELD3": "Berstet vor Neid, weil mir vor der Stadt ein freundliches                    Gütchen"
+  },
+  {
+    "FIELD1": "8",
+    "FIELD2": "Parvaque in urbe domus, rumpitur                      invidia.",
+    "FIELD3": "Und ein Häuschen in Rom                      eigen, er berstet vor Neid."
+  },
+  {
+    "FIELD1": "9",
+    "FIELD2": "Rumpitur invidia, quod sum iucundus amicis,",
+    "FIELD3": "Berstet vor Neid, weil gern ich gesehen werde von Freunden,"
+  },
+  {
+    "FIELD1": "10",
+    "FIELD2": "Quod conviva frequens, rumpitur                      invidia.",
+    "FIELD3": "Weil man zu Tische mich oft                      ladet, er berstet vor Neid."
+  },
+  {
+    "FIELD1": "11",
+    "FIELD2": "Rumpitur invidia, quod amamur quodque probamur:",
+    "FIELD3": "Berstet vor Neid, weil jeder mich liebt und jeder mich lobet:"
+  },
+  {
+    "FIELD1": "12",
+    "FIELD2": "Rumpatur, quisquis rumpitur                      invidia.",
+    "FIELD3": "Berste denn immerhin jeder,                      der berstet vor Neid."
+  },
+  {
+    "FIELD1": "1,1",
+    "FIELD2": "I",
+    "FIELD3": ""
+  },
+  {
+    "FIELD1": "1\n                     2\n                     3\n                     4\n                     5\n                     6",
+    "FIELD2": "Hic est quem legis ille, quem requiris, \n                   Toto notus in orbe Martialis \n                   Argutis epigrammaton libellis: \n                   Cui, lector studiose, quod dedisti \n                   Viventi decus atque sentienti, \n                   Rari post cineres habent poetae.",
+    "FIELD3": "Hier ist er, den du liesest, den du suchest,\n                   Martialis, bekannt im ganzen Erdkreis\n                   Durch scharf treffender Epigramme Bücher:\n                   Und was, eifriger Leser, du ihm Ruhmes,\n                   Als er lebete, gabst, und als er fühlte,\n                   Haben wenige Dichter nach dem Tode."
+  },
+  {
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
+    "FIELD2": "",
+    "FIELD3": ""
+  },
+  {
     "FIELD1": "1,10",
     "FIELD2": "X",
     "FIELD3": ""
@@ -25,7 +2410,7 @@
     "FIELD3": "Was sucht an ihr und liebt er denn? Sie muss husten."
   },
   {
-    "FIELD1": "Versmaß: Hipponacteus (Hinkiambus)",
+    "FIELD1": "Versmaß:   Hipponacteus (Hinkiambus)",
     "FIELD2": "",
     "FIELD3": ""
   },
@@ -37,12 +2422,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Sunt bona, sunt quaedam mediocria, sunt mala plura,",
-    "FIELD3": "Mittelmäßig, auch gut ist einiges, schlecht nur das meiste,"
+    "FIELD3": "Mittelmäßig, auch gut ist einiges,                    schlecht nur das meiste,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Quae legis hic: aliter non fit, Avite, liber.",
-    "FIELD3": "Was du hier liest: nicht wird anders, Avitus, ein Buch."
+    "FIELD2": "Quae legis hic: aliter non                      fit, Avite, liber.",
+    "FIELD3": "Was du hier liest:                    nicht wird anders, Avitus, ein Buch."
   },
   {
     "FIELD1": "1,19",
@@ -52,12 +2437,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Si memini, fuerant tibi quattuor, Aelia, dentes:",
-    "FIELD3": "Täuscht mein Gedächtnis mich nicht, vier Zähne; Aelia, hatt'st du,"
+    "FIELD3": "Täuscht mein Gedächtnis mich nicht,                    vier Zähne; Aelia, hatt'st du,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Expulit una duos tussis et una duos.",
-    "FIELD3": "Als ein Husten dir zwei, zwei dir ein andrer entriss."
+    "FIELD2": "Expulit una duos tussis et                      una duos.",
+    "FIELD3": "Als ein Husten dir zwei, zwei                      dir ein andrer entriss."
   },
   {
     "FIELD1": "3",
@@ -66,8 +2451,8 @@
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Nil istic quod agat tertia tussis habet.",
-    "FIELD3": "Nichts bleibt dorten hinfort fernerem Husten zu tun."
+    "FIELD2": "Nil istic quod agat tertia                      tussis habet.",
+    "FIELD3": "Nichts bleibt dorten hinfort                      fernerem Husten zu tun."
   },
   {
     "FIELD1": "1,24",
@@ -77,12 +2462,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Aspicis incomptis illum, Deciane, capillis,",
-    "FIELD3": "Siehest du ihn, Decian, mit ungekämmetem Haupthaar,"
+    "FIELD3": "Siehest du ihn, Decian, mit ungekämmetem                    Haupthaar,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Cuius et ipse times triste supercilium,",
-    "FIELD3": "Vor des finsteren Brau'n du auch dich fürchtest sogar,"
+    "FIELD2": "Cuius et ipse times triste                      supercilium,",
+    "FIELD3": "Vor des finsteren Brau'n du                      auch dich fürchtest sogar,"
   },
   {
     "FIELD1": "3",
@@ -91,8 +2476,8 @@
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Nolito fronti credere: nupsit heri.",
-    "FIELD3": "Traue der Stirn nicht: Jüngst nahm er sich einen Gemahl."
+    "FIELD2": "Nolito fronti credere: nupsit                      heri.",
+    "FIELD3": "Traue der Stirn nicht: Jüngst                      nahm er sich einen Gemahl."
   },
   {
     "FIELD1": "1,28",
@@ -102,12 +2487,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Hesterno fetere mero qui credit Acerram,",
-    "FIELD3": "Wer von Acerra glaubt, er riecht nach gestrigem Weine,"
+    "FIELD3": "Wer von Acerra glaubt, er riecht nach gestrigem                    Weine,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Fallitur: in lucem semper Acerra bibit.",
-    "FIELD3": "Irret sich: stets in den Tag trinket Acerra hinein."
+    "FIELD2": "Fallitur: in lucem semper Acerra                      bibit.",
+    "FIELD3": "Irret sich: stets in den Tag                      trinket Acerra hinein."
   },
   {
     "FIELD1": "1,29",
@@ -121,18 +2506,18 @@
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Non aliter populo quam recitare tuos.",
-    "FIELD3": "Du nicht anders dem Volk liesest, als wären sie dein."
+    "FIELD2": "Non aliter populo quam recitare                      tuos.",
+    "FIELD3": "Du nicht anders dem Volk liesest,                      als wären sie dein."
   },
   {
     "FIELD1": "3",
     "FIELD2": "Si mea vis dici, gratis tibi carmina mittam:",
-    "FIELD3": "Schenken will ich sie dir, wenn du mein willst nennen die Verse:"
+    "FIELD3": "Schenken will ich sie dir, wenn du mein willst nennen die                    Verse:"
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Si dici tua vis, hoc eme, ne mea sint.",
-    "FIELD3": "Sollen sie mein nicht sein, kaufe sie, deine dann sind's."
+    "FIELD2": "Si dici tua vis, hoc eme, ne                      mea sint.",
+    "FIELD3": "Sollen sie mein nicht sein,                      kaufe sie, deine dann sind's."
   },
   {
     "FIELD1": "1,33",
@@ -142,12 +2527,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Amissum non flet cum sola est Gellia patrem,",
-    "FIELD3": "Gellia weint um des Vaters Verlust nicht, wenn sie allein ist,"
+    "FIELD3": "Gellia weint um des Vaters Verlust nicht, wenn                    sie allein ist,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Si quis adest, iussae prosiliunt lacrimae.",
-    "FIELD3": "Siehet sie einer, sogleich stürzen die Tränen hervor."
+    "FIELD2": "Si quis adest, iussae prosiliunt                      lacrimae.",
+    "FIELD3": "Siehet sie einer, sogleich                      stürzen die Tränen hervor."
   },
   {
     "FIELD1": "3",
@@ -156,8 +2541,8 @@
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Ille dolet vere, qui sine teste dolet.",
-    "FIELD3": "Der fühlt wirklichen Schmerz, der ihn vor Zeugen verbirgt."
+    "FIELD2": "Ille dolet vere, qui sine teste                      dolet.",
+    "FIELD3": "Der fühlt wirklichen Schmerz,                      der ihn vor Zeugen verbirgt."
   },
   {
     "FIELD1": "1,38",
@@ -171,8 +2556,8 @@
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Sed male cum recitas, incipit esse tuus.",
-    "FIELD3": "Aber es wird, da du schlecht liesest, das deinige jetzt."
+    "FIELD2": "Sed male cum recitas, incipit                      esse tuus.",
+    "FIELD3": "Aber es wird, da du schlecht                      liesest, das deinige jetzt."
   },
   {
     "FIELD1": "1,47",
@@ -186,8 +2571,8 @@
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Quod vispillo facit, fecerat et medicus.",
-    "FIELD3": "Leichenbestatter, wie jetzt, war er auch früher als Arzt."
+    "FIELD2": "Quod vispillo facit, fecerat                      et medicus.",
+    "FIELD3": "Leichenbestatter, wie jetzt,                      war er auch früher als Arzt."
   },
   {
     "FIELD1": "1,57",
@@ -197,22 +2582,22 @@
   {
     "FIELD1": "1",
     "FIELD2": "Qualem, Flacce, velim quaeris nolimve puellam?",
-    "FIELD3": "Was für ein Mädchen ich will und nicht will, fragest du, Flaccus?"
+    "FIELD3": "Was für ein Mädchen ich will und nicht                    will, fragest du, Flaccus?"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Nolo nimis facilem difficilemque nimis.",
-    "FIELD3": "Nicht die zu willige zieht, noch die zu spröde mich an."
+    "FIELD2": "Nolo nimis facilem difficilemque                      nimis.",
+    "FIELD3": "Nicht die zu willige zieht,                      noch die zu spröde mich an."
   },
   {
     "FIELD1": "3",
     "FIELD2": "Illud quod medium est atque inter utrumque probamus:",
-    "FIELD3": "Das, was die Mitte hält und dazwischen lieget, gefällt mir:"
+    "FIELD3": "Das, was die Mitte hält und dazwischen lieget, gefällt                    mir:"
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Nec volo quod cruciat, nec volo quod satiat.",
-    "FIELD3": "Weder hab' ich, was quält, weder, was sättiget, gern."
+    "FIELD2": "Nec volo quod cruciat, nec                      volo quod satiat.",
+    "FIELD3": "Weder hab' ich, was quält,                      weder, was sättiget, gern."
   },
   {
     "FIELD1": "1,63",
@@ -222,11 +2607,11 @@
   {
     "FIELD1": "1",
     "FIELD2": "Ut recitem tibi nostra rogas epigrammata. Nolo.",
-    "FIELD3": "Celer, du bitt'st mich, mein Buch dir vorzulesen. Ich will nicht."
+    "FIELD3": "Celer, du bitt'st mich, mein Buch dir vorzulesen.                    Ich will nicht."
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Non audire, Celer, sed recitare cupis.",
+    "FIELD2": "Non audire, Celer, sed recitare                      cupis.",
     "FIELD3": "Nicht, dass du hörst, wünschst du, gerne nur läsest du vor."
   },
   {
@@ -237,22 +2622,22 @@
   {
     "FIELD1": "1",
     "FIELD2": "Quidquid agit Rufus, nihil est nisi Naevia Rufo.",
-    "FIELD3": "Was auch Rufus beginnt, nur Naevia gibt es für RUfus."
+    "FIELD3": "Was auch Rufus beginnt, nur Naevia gibt es für                    RUfus."
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Si gaudet, si flet, si tacet, hanc loquitur.",
-    "FIELD3": "Weinet er, freuet er sich, schweigt er, so spricht er von ihr."
+    "FIELD2": "Si gaudet, si flet, si tacet,                      hanc loquitur.",
+    "FIELD3": "Weinet er, freuet er sich,                      schweigt er, so spricht er von ihr."
   },
   {
     "FIELD1": "3",
     "FIELD2": "Cenat, propinat, poscit, negat, innuit: una est",
-    "FIELD3": "Speiset er, trinkt er uns zu, verlangt, verneinet, bejaht er:"
+    "FIELD3": "Speiset er, trinkt er uns zu, verlangt, verneinet, bejaht                    er:"
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Naevia; si non sit Naevia, mutus erit.",
-    "FIELD3": "Alles ist Naevia; stumm wird er, wenn Naevia fehlt."
+    "FIELD2": "Naevia; si non sit Naevia,                      mutus erit.",
+    "FIELD3": "Alles ist Naevia; stumm wird                      er, wenn Naevia fehlt."
   },
   {
     "FIELD1": "5",
@@ -261,8 +2646,8 @@
   },
   {
     "FIELD1": "6",
-    "FIELD2": "'Naevia lux' inquit 'Naevia lumen, have.'",
-    "FIELD3": "Hieß es: \"Dir Naevia, Stern, Naevia, Sonne, dir Gruß.\""
+    "FIELD2": "'Naevia lux' inquit 'Naevia                      lumen, have.'",
+    "FIELD3": "Hieß es: \"Dir Naevia,                      Stern, Naevia, Sonne, dir Gruß.\""
   },
   {
     "FIELD1": "7",
@@ -271,8 +2656,8 @@
   },
   {
     "FIELD1": "8",
-    "FIELD2": "Naevia non una est: quid, vir inepte, furis?",
-    "FIELD3": "Du bist Naevien nicht alles: was rasest du, Narr?"
+    "FIELD2": "Naevia non una est: quid, vir                      inepte, furis?",
+    "FIELD3": "Du bist Naevien nicht alles:                      was rasest du, Narr?"
   },
   {
     "FIELD1": "1,75",
@@ -282,12 +2667,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Dimidium donare Lino quam credere totum",
-    "FIELD3": "Wer dir lieber, als dass er das Ganze dir leiht, die Hälfte"
+    "FIELD3": "Wer dir lieber, als dass er das Ganze dir                    leiht, die Hälfte"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Qui mavolt, mavolt perdere dimidium.",
-    "FIELD3": "Schenkt, Linus der büßt lieber die Hälfte nur ein."
+    "FIELD2": "Qui mavolt, mavolt perdere                      dimidium.",
+    "FIELD3": "Schenkt, Linus der büßt                      lieber die Hälfte nur ein."
   },
   {
     "FIELD1": "1,79",
@@ -301,17 +2686,17 @@
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Est, non est, quod agas, Attale, semper agis.",
-    "FIELD3": "Gibt's, gibt's nicht, was du treibst, einiges treibest du stets."
+    "FIELD2": "Est, non est, quod agas, Attale,                      semper agis.",
+    "FIELD3": "Gibt's, gibt's nicht, was                      du treibst, einiges treibest du stets."
   },
   {
     "FIELD1": "3",
     "FIELD2": "Si res et causae desunt, agis, Attale, mulas.",
-    "FIELD3": "Fehlen Prozess' und Geschäfte, so treibst du, Attalus, Esel."
+    "FIELD3": "Fehlen Prozess' und Geschäfte, so treibst du, Attalus,                    Esel."
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Attale, ne, quod agas, desit, agas animam.",
+    "FIELD2": "Attale, ne, quod agas, desit,                      agas animam.",
     "FIELD3": "Dass du ja nie nichts treibst, treibe die Seele dir aus!"
   },
   {
@@ -322,12 +2707,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Cum tua non edas, carpis mea carmina, Laeli.",
-    "FIELD3": "Während du nie ein Gedicht herausgibst, tadelst du meine."
+    "FIELD3": "Während du nie ein Gedicht herausgibst, tadelst                    du meine."
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Carpere vel noli nostra vel ede tua.",
-    "FIELD3": "Willst du sie tadeln, so gib, Lälius, deine heraus."
+    "FIELD2": "Carpere vel noli nostra vel                      ede tua.",
+    "FIELD3": "Willst du sie tadeln, so gib,                      Lälius, deine heraus."
   },
   {
     "FIELD1": "1,95",
@@ -336,13 +2721,13 @@
   },
   {
     "FIELD1": "1",
-    "FIELD2": "Quod clamas semper, quod agentibus obstrepis, Aeli,",
-    "FIELD3": "Aelius, dass du so schreist, dass du überbrüllst die Parteien,"
+    "FIELD2": "Quod clamas semper, quod agentibus obstrepis,                    Aeli,",
+    "FIELD3": "Aelius, dass du so schreist, dass du überbrüllst                    die Parteien,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Non facis hoc gratis: accipis, ut taceas.",
-    "FIELD3": "Nicht geschieht es umsonst: denn man bezahlt, dass du schweigst."
+    "FIELD2": "Non facis hoc gratis: accipis,                      ut taceas.",
+    "FIELD3": "Nicht geschieht es umsonst:                      denn man bezahlt, dass du schweigst."
   },
   {
     "FIELD1": "1,110",
@@ -352,12 +2737,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Scribere me quereris, Velox, epigrammata longa.",
-    "FIELD3": "Dass Epigramme zu lang ich schreibe, klagest du, Velox,"
+    "FIELD3": "Dass Epigramme zu lang ich schreibe, klagest du,                    Velox,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Ipse nihil scribis: tu breviora facis.",
-    "FIELD3": "Selber schreibest du nichts: kürzere machst du's in der Tat."
+    "FIELD2": "Ipse nihil scribis: tu breviora                      facis.",
+    "FIELD3": "Selber schreibest du nichts:                      kürzere machst du's in der Tat."
   },
   {
     "FIELD1": "1,118",
@@ -371,8 +2756,8 @@
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Nil illi satis est, Caediciane, mali.",
-    "FIELD3": "Cädicanus, der hat nimmer des Schlechten genug."
+    "FIELD2": "Nil illi satis est, Caediciane,                      mali.",
+    "FIELD3": "Cädicanus, der hat nimmer                      des Schlechten genug."
   },
   {
     "FIELD1": "2,3",
@@ -382,12 +2767,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Sexte, nihil debes, nil debes, Sexte, fatemur.",
-    "FIELD3": "Sextus, du bist nichts schuldig, du bist nichts schuldig, gesteh' ich."
+    "FIELD3": "Sextus, du bist nichts schuldig, du bist nichts                    schuldig, gesteh' ich."
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Debet enim, si quis solvere, Sexte, potest.",
-    "FIELD3": "Schuldig ist, Sextus, ja nur, wer zu bezahlen vermag."
+    "FIELD2": "Debet enim, si quis solvere,                      Sexte, potest.",
+    "FIELD3": "Schuldig ist, Sextus, ja nur,                      wer zu bezahlen vermag."
   },
   {
     "FIELD1": "2,7",
@@ -397,12 +2782,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Declamas belle, causas agis, Attice, belle,",
-    "FIELD3": "Du sprichst, Atticus, schön, du führest schön die Prozesse,"
+    "FIELD3": "Du sprichst, Atticus, schön, du führest                    schön die Prozesse,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Historias bellas, carmina bella facis,",
-    "FIELD3": "Schreibest Geschichte schön, machest ein schönes Gedicht."
+    "FIELD2": "Historias bellas, carmina bella                      facis,",
+    "FIELD3": "Schreibest Geschichte schön,                      machest ein schönes Gedicht."
   },
   {
     "FIELD1": "3",
@@ -411,28 +2796,28 @@
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Bellus grammaticus, bellus es astrologus,",
-    "FIELD3": "Bist als Grammatiker schön, schön in der Astrologie,"
+    "FIELD2": "Bellus grammaticus, bellus                      es astrologus,",
+    "FIELD3": "Bist als Grammatiker schön,                      schön in der Astrologie,"
   },
   {
     "FIELD1": "5",
     "FIELD2": "Et belle cantas et saltas, Attice, belle,",
-    "FIELD3": "Nicht nur singest du schön, du tanzest, Atticus, schön auch,"
+    "FIELD3": "Nicht nur singest du schön, du tanzest, Atticus, schön                    auch,"
   },
   {
     "FIELD1": "6",
-    "FIELD2": "Bellus es arte lyrae, bellus es arte pilae.",
-    "FIELD3": "Spielest die Lyra schöln, spielest auch schön mit dem Ball."
+    "FIELD2": "Bellus es arte lyrae, bellus                      es arte pilae.",
+    "FIELD3": "Spielest die Lyra schöln,                      spielest auch schön mit dem Ball."
   },
   {
     "FIELD1": "7",
     "FIELD2": "Nil bene cum facias, facias tamen omnia belle,",
-    "FIELD3": "Willst du, da jegliches schön, da gar nichts aber du gut machst,"
+    "FIELD3": "Willst du, da jegliches schön, da gar nichts aber du                    gut machst,"
   },
   {
     "FIELD1": "8",
-    "FIELD2": "Vis dicam, quid sis? magnus es ardalio.",
-    "FIELD3": "Wissen von mir, was du bist? Nur ein geschäftiger Narr."
+    "FIELD2": "Vis dicam, quid sis? magnus                      es ardalio.",
+    "FIELD3": "Wissen von mir, was du bist?                      Nur ein geschäftiger Narr."
   },
   {
     "FIELD1": "2,10",
@@ -442,22 +2827,22 @@
   {
     "FIELD1": "1",
     "FIELD2": "Basia dimidio quod das mihi, Postume, labro,",
-    "FIELD3": "Dass du mit halbem Mund, o Postumus, Küsse mir reichest,"
+    "FIELD3": "Dass du mit halbem Mund, o Postumus, Küsse                    mir reichest,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Laudo: licet demas hinc quoque dimidium.",
-    "FIELD3": "Lob' ich: auch davon nimm immer die Hälfte noch ab."
+    "FIELD2": "Laudo: licet demas hinc quoque                      dimidium.",
+    "FIELD3": "Lob' ich: auch davon nimm immer                      die Hälfte noch ab."
   },
   {
     "FIELD1": "3",
     "FIELD2": "Vis dare maius adhuc et inenarrabile munus?",
-    "FIELD3": "Willst du ein größres Geschenk und ein unaussprechliches geben,"
+    "FIELD3": "Willst du ein größres Geschenk und ein unaussprechliches                    geben,"
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Hoc tibi habe totum, Postume, dimidium.",
-    "FIELD3": "O, so bahalt' auch die Hälfte noch, Postumus, ganz!"
+    "FIELD2": "Hoc tibi habe totum, Postume,                      dimidium.",
+    "FIELD3": "O, so bahalt' auch die Hälfte                      noch, Postumus, ganz!"
   },
   {
     "FIELD1": "2,12",
@@ -467,12 +2852,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Esse quid hoc dicam, quod olent tua basia murram",
-    "FIELD3": "Wie erklär ich es mir, dass stets nach Myrrhe dein Kuss riecht?"
+    "FIELD3": "Wie erklär ich es mir, dass stets nach Myrrhe                    dein Kuss riecht?"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Quodque tibi est numquam non alienus odor?",
-    "FIELD3": "Und dass ein fremder Geruch nimmer dir, Postumus, fehlt?"
+    "FIELD2": "Quodque tibi est numquam non                      alienus odor?",
+    "FIELD3": "Und dass ein fremder Geruch                      nimmer dir, Postumus, fehlt?"
   },
   {
     "FIELD1": "3",
@@ -481,8 +2866,8 @@
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Postume, non bene olet qui bene semper olet.",
-    "FIELD3": "Wohl riecht keiner, wenn wohl, Postumus, immer er riecht."
+    "FIELD2": "Postume, non bene olet qui                      bene semper olet.",
+    "FIELD3": "Wohl riecht keiner, wenn wohl,                    Postumus, immer er riecht."
   },
   {
     "FIELD1": "2,13",
@@ -500,7 +2885,7 @@
     "FIELD3": "Deinem Gläubiger zahl' es, rat' ich, Sextus!"
   },
   {
-    "FIELD1": "Versmaß: Phalaeceus (Hendekasyllabus)",
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
     "FIELD2": "",
     "FIELD3": ""
   },
@@ -512,12 +2897,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Carmina Paulus emit, recitat sua carmina Paulus.",
-    "FIELD3": "Paulus kauft sicht Gedicht' und liest sie vor als die Seinen."
+    "FIELD3": "Paulus kauft sicht Gedicht' und liest sie vor                    als die Seinen."
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Nam quod emas, possis iure vocare tuum.",
-    "FIELD3": "Denn das, was man sich kauft, nennt man das Seine mit Recht"
+    "FIELD2": "Nam quod emas, possis iure                      vocare tuum.",
+    "FIELD3": "Denn das, was man sich kauft,                      nennt man das Seine mit Recht"
   },
   {
     "FIELD1": "2,21",
@@ -527,12 +2912,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Basia das aliis, aliis das, Postume, dextram.",
-    "FIELD3": "Einigen gibst du die Hand, gibst andern, Postumus, Küsse."
+    "FIELD3": "Einigen gibst du die Hand, gibst andern, Postumus,                    Küsse."
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Dicis 'Utrum mavis? elige.' Malo manum",
-    "FIELD3": "\"Wähle, was ziehest du vor?\" sagst du. Ich wähle die Hand."
+    "FIELD2": "Dicis 'Utrum mavis? elige.'                      Malo manum",
+    "FIELD3": "\"Wähle, was ziehest                      du vor?\" sagst du. Ich wähle die Hand."
   },
   {
     "FIELD1": "2,25",
@@ -542,12 +2927,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Das numquam, semper promittis, Galla, roganti.",
-    "FIELD3": "Nie gewährest du, stets, wenn ich bitte, Galla, versprichst du."
+    "FIELD3": "Nie gewährest du, stets, wenn ich bitte,                    Galla, versprichst du."
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Si semper fallis, iam rogo, Galla, nega.",
-    "FIELD3": "Täuschest du, Galla, mich stets, bitt' ich nun, schlage mir ab!"
+    "FIELD2": "Si semper fallis, iam rogo,                      Galla, nega.",
+    "FIELD3": "Täuschest du, Galla, mich                      stets, bitt' ich nun, schlage mir ab!"
   },
   {
     "FIELD1": "2,35",
@@ -557,12 +2942,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Cum sint crura tibi similent quae cornua lunae,",
-    "FIELD3": "Da dir, Phöbus, die Schenkel gekrümmt, wie die Hörner des Monds sind,"
+    "FIELD3": "Da dir, Phöbus, die Schenkel gekrümmt,                    wie die Hörner des Monds sind,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "In rhytio poteras, Phoebe, lavare pedes.",
-    "FIELD3": "Hättest im Trinkhorn du baden die Füße gekonnt."
+    "FIELD2": "In rhytio poteras, Phoebe,                      lavare pedes.",
+    "FIELD3": "Hättest im Trinkhorn du                      baden die Füße gekonnt."
   },
   {
     "FIELD1": "2,38",
@@ -592,7 +2977,7 @@
   {
     "FIELD1": "2",
     "FIELD2": "Immodicae foedo crimine avaritiae.",
-    "FIELD3": "Dass sie der Habsucht fröhn', ohne zu kennen ein Maß."
+    "FIELD3": "Dass sie der Habsucht fröhn',                      ohne zu kennen ein Maß."
   },
   {
     "FIELD1": "3",
@@ -601,8 +2986,8 @@
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Accipere omnino. Quid solet ergo? Dare.",
-    "FIELD3": "Pfleget sie nicht. Was denn pfleget sie? Gallus, sie gibt!"
+    "FIELD2": "Accipere omnino. Quid solet                      ergo? Dare.",
+    "FIELD3": "Pfleget sie nicht. Was denn                      pfleget sie? Gallus, sie gibt!"
   },
   {
     "FIELD1": "2,58",
@@ -612,12 +2997,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Pexatus pulchre rides mea, Zoile, trita.",
-    "FIELD3": "Wollreich, Zoilus, ist dein Kleid, mein kahles verlachst du."
+    "FIELD3": "Wollreich, Zoilus, ist dein Kleid, mein kahles                    verlachst du."
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Sunt haec trita quidem, Zoile, sed mea sunt.",
-    "FIELD3": "Kahl ist's, Zoilus, zwar, aber mein eigenes ist's."
+    "FIELD2": "Sunt haec trita quidem, Zoile,                      sed mea sunt.",
+    "FIELD3": "Kahl ist's, Zoilus, zwar, aber                      mein eigenes ist's."
   },
   {
     "FIELD1": "2,66",
@@ -631,8 +3016,8 @@
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Anulus, incerta non bene fixus acu.",
-    "FIELD3": "Welcher der Nadel entglitt, da sie zu locker gesteckt."
+    "FIELD2": "Anulus, incerta non bene fixus                      acu.",
+    "FIELD3": "Welcher der Nadel entglitt,                      da sie zu locker gesteckt."
   },
   {
     "FIELD1": "3",
@@ -641,8 +3026,8 @@
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Et cecidit saevis icta Plecusa comis.",
-    "FIELD3": "Und Plecusa, entseelt, fiel dem ergrimmeten Haar."
+    "FIELD2": "Et cecidit saevis icta Plecusa                      comis.",
+    "FIELD3": "Und Plecusa, entseelt, fiel                      dem ergrimmeten Haar."
   },
   {
     "FIELD1": "5",
@@ -651,18 +3036,18 @@
   },
   {
     "FIELD1": "6",
-    "FIELD2": "Tangat et insanum nulla puella caput.",
-    "FIELD3": "Leg' an das rasende Haupt nimmer ein Mädchen die Hand!"
+    "FIELD2": "Tangat et insanum nulla puella                      caput.",
+    "FIELD3": "Leg' an das rasende Haupt nimmer                      ein Mädchen die Hand!"
   },
   {
     "FIELD1": "7",
     "FIELD2": "Hoc salamandra notet vel saeva novacula nudet,",
-    "FIELD3": "Zeichnen mög' es ein Molch, das ergrimmete Messer entblöß' es,"
+    "FIELD3": "Zeichnen mög' es ein Molch, das ergrimmete Messer entblöß'                    es,"
   },
   {
     "FIELD1": "8",
-    "FIELD2": "Ut digna speculo fiat imago tua.",
-    "FIELD3": "Dass dein Spiegel von dir hab' ein gebührendes Bild!"
+    "FIELD2": "Ut digna speculo fiat imago                      tua.",
+    "FIELD3": "Dass dein Spiegel von dir hab'                      ein gebührendes Bild!"
   },
   {
     "FIELD1": "2,67",
@@ -672,22 +3057,22 @@
   {
     "FIELD1": "1",
     "FIELD2": "Occurris quocumque loco mihi, Postume, clamas",
-    "FIELD3": "Überall, wo du mir begegnest, Postumus rufst du"
+    "FIELD3": "Überall, wo du mir begegnest, Postumus rufst                    du"
   },
   {
     "FIELD1": "2",
     "FIELD2": "Protinus et prima est haec tua vox 'Quid agis?'",
-    "FIELD3": "Stets, und dein erstes Wort ist es: \"Was treibst du denn?\""
+    "FIELD3": "Stets, und dein erstes Wort                      ist es: \"Was treibst du denn?\""
   },
   {
     "FIELD1": "3",
     "FIELD2": "Hoc, si me decies una conveneris hora,",
-    "FIELD3": "Träfst du mich zehnmal auch in einer Stunde, so sagst du's:"
+    "FIELD3": "Träfst du mich zehnmal auch in einer Stunde, so sagst                    du's:"
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Dicis: habes puto tu, Postume, nil quod agas.",
-    "FIELD3": "Du hast, wie es mir scheint, Postumus, nichts, was du treibst."
+    "FIELD2": "Dicis: habes puto tu, Postume,                      nil quod agas.",
+    "FIELD3": "Du hast, wie es mir scheint,                      Postumus, nichts, was du treibst."
   },
   {
     "FIELD1": "2,78",
@@ -697,12 +3082,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Aestivo serves ubi piscem tempore, quaeris?",
-    "FIELD3": "Wo in der Sommerzeit du den Fisch bewahrest, so fragst du?"
+    "FIELD3": "Wo in der Sommerzeit du den Fisch bewahrest, so                    fragst du?"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "In thermis serva, Caeciliane, tuis.",
-    "FIELD3": "Deinen Thermen vertrau, Cäcilianus, ihn an!"
+    "FIELD2": "In thermis serva, Caeciliane,                      tuis.",
+    "FIELD3": "Deinen Thermen vertrau, Cäcilianus,                      ihn an!"
   },
   {
     "FIELD1": "2,80",
@@ -712,12 +3097,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Hostem cum fugeret, se Fannius ipse peremit.",
-    "FIELD3": "Als vor dem Feind er floh, hat Fannius selbst sich getötet."
+    "FIELD3": "Als vor dem Feind er floh, hat Fannius selbst                    sich getötet."
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Hic, rogo, non furor est, ne moriare, mori?",
-    "FIELD3": "Ist es nicht toll, dass, um nicht sterben zu müssen, man stirbt?"
+    "FIELD2": "Hic, rogo, non furor est, ne                      moriare, mori?",
+    "FIELD3": "Ist es nicht toll, dass,                      um nicht sterben zu müssen, man stirbt?"
   },
   {
     "FIELD1": "2,87",
@@ -727,27 +3112,27 @@
   {
     "FIELD1": "1",
     "FIELD2": "Dicis amore tui bellas ardere puellas,",
-    "FIELD3": "Reizende Mädchen glühn für dich in Liebe, so sagst du,"
+    "FIELD3": "Reizende Mädchen glühn für dich                    in Liebe, so sagst du,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Qui faciem sub aqua, Sexte, natantis habes.",
-    "FIELD3": "Sextus, und hast das Gesicht dessen, der quaket im Sumpf."
+    "FIELD2": "Qui faciem sub aqua, Sexte,                      natantis habes.",
+    "FIELD3": "Sextus, und hast das Gesicht                      dessen, der quaket im Sumpf."
   },
   {
     "FIELD1": "2,93",
-    "FIELD2": "XCIII\n Das letzte Epigramm des I(I). Buches",
+    "FIELD2": "XCIII\n                     Das letzte Epigramm des I(I).                      Buches",
     "FIELD3": ""
   },
   {
     "FIELD1": "1",
     "FIELD2": "'Primus ubi est' inquis 'cum sit liber iste secundus?'",
-    "FIELD3": "'\"Wo ist\", sagst du, \"das erste? es ist dies Buch ja das zweite\","
+    "FIELD3": "'\"Wo ist\", sagst du, \"das erste?                    es ist dies Buch ja das zweite\","
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Quid faciam, si plus ille pudoris habet?",
-    "FIELD3": "Aber was soll ich tun, wenn sich das erste mehr schämt?"
+    "FIELD2": "Quid faciam, si plus ille pudoris                      habet?",
+    "FIELD3": "Aber was soll ich tun, wenn                      sich das erste mehr schämt?"
   },
   {
     "FIELD1": "3",
@@ -756,8 +3141,8 @@
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Unum de titulo tollere iota potes.",
-    "FIELD3": "Nimm von der Aufschrift dann nur ein Jota hinweg!"
+    "FIELD2": "Unum de titulo tollere iota                      potes.",
+    "FIELD3": "Nimm von der Aufschrift dann                      nur ein Jota hinweg!"
   },
   {
     "FIELD1": "3,8",
@@ -767,12 +3152,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "'Thaida Quintus amat.' Quam Thaida? 'Thaida luscam.'",
-    "FIELD3": "Thais ist Quintus' Schatz. Die mit einem Auge? die Thais?"
+    "FIELD3": "Thais ist Quintus' Schatz. Die mit einem Auge?                    die Thais?"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Unum oculum Thais non habet, ille duos.",
-    "FIELD3": "Thais ist eines Aug's, beider ihr Buhle beraubt."
+    "FIELD2": "Unum oculum Thais non habet,                      ille duos.",
+    "FIELD3": "Thais ist eines Aug's, beider                      ihr Buhle beraubt."
   },
   {
     "FIELD1": "3,9",
@@ -782,12 +3167,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Versiculos in me narratur scribere Cinna.",
-    "FIELD3": "Cinna, so wird mir erzählt, soll Verslein gegen mich schreiben."
+    "FIELD3": "Cinna, so wird mir erzählt, soll Verslein                    gegen mich schreiben."
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Non scribit, cuius carmina nemo legit.",
-    "FIELD3": "Wessen Gedicht man nicht lieset, der schreibet auch keins."
+    "FIELD2": "Non scribit, cuius carmina                      nemo legit.",
+    "FIELD3": "Wessen Gedicht man nicht lieset,                      der schreibet auch keins."
   },
   {
     "FIELD1": "3,11",
@@ -797,22 +3182,22 @@
   {
     "FIELD1": "1",
     "FIELD2": "Si tua nec Thais nec lusca est, Quinte, puella,",
-    "FIELD3": "Wenn dein Mädchen nicht Thais, Quintus, und auch nicht einäugig,"
+    "FIELD3": "Wenn dein Mädchen nicht Thais, Quintus,                    und auch nicht einäugig,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Cur in te factum distichon esse putas?",
-    "FIELD3": "Weshalb glaubst du, dass dir gelten das Distichon soll?"
+    "FIELD2": "Cur in te factum distichon                      esse putas?",
+    "FIELD3": "Weshalb glaubst du, dass dir                      gelten das Distichon soll?"
   },
   {
     "FIELD1": "3",
     "FIELD2": "Sed similest aliquid? pro Laide Thaida dixi?",
-    "FIELD3": "Ähnlich wäre es wohl, wenn ich Thais sagte für Lais."
+    "FIELD3": "Ähnlich wäre es wohl, wenn ich Thais sagte                    für Lais."
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Dic mihi, quid simile est Thais et Hermione?",
-    "FIELD3": "Sage, worin Thais ähnlich Hermione ist!"
+    "FIELD2": "Dic mihi, quid simile est Thais                      et Hermione?",
+    "FIELD3": "Sage, worin Thais ähnlich                      Hermione ist!"
   },
   {
     "FIELD1": "5",
@@ -821,8 +3206,8 @@
   },
   {
     "FIELD1": "6",
-    "FIELD2": "Si non vult Quintus, Thaida Sextus amet.",
-    "FIELD3": "Will nicht Quintus, so hab' Sextus die Thais denn lieb!"
+    "FIELD2": "Si non vult Quintus, Thaida                      Sextus amet.",
+    "FIELD3": "Will nicht Quintus, so hab'                      Sextus die Thais denn lieb!"
   },
   {
     "FIELD1": "3,12",
@@ -855,7 +3240,7 @@
     "FIELD3": "Der erscheint mir wie eine wahre Leiche."
   },
   {
-    "FIELD1": "Versmaß: Phalaeceus (Hendekasyllabus) \n Vgl. Catull 13",
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus) \n                   Vgl. Catull 13",
     "FIELD2": "",
     "FIELD3": ""
   },
@@ -867,12 +3252,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Circumlata diu mensis scribilita secundis",
-    "FIELD3": "Als bei dem Nachtisch jüngst ein Gebäck man lange herumtrug,"
+    "FIELD3": "Als bei dem Nachtisch jüngst ein Gebäck                    man lange herumtrug,"
   },
   {
     "FIELD1": "2",
     "FIELD2": "Urebat nimio saeva calore manus;",
-    "FIELD3": "War es so heiß, dass daran arg sich verbrannte die Hand;"
+    "FIELD3": "War es so heiß, dass                      daran arg sich verbrannte die Hand;"
   },
   {
     "FIELD1": "3",
@@ -881,18 +3266,18 @@
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Sufflavit buccis terque quaterque suis.",
-    "FIELD3": "Drei-, viermal mit dem Mund, ohne zu zaudern hinein."
+    "FIELD2": "Sufflavit buccis terque quaterque                      suis.",
+    "FIELD3": "Drei-, viermal mit dem Mund,                      ohne zu zaudern hinein."
   },
   {
     "FIELD1": "5",
     "FIELD2": "Illa quidem tepuit digitosque admittere visa est,",
-    "FIELD3": "Kühl ward's freilich dadurch und schien die Finger zu dulden,"
+    "FIELD3": "Kühl ward's freilich dadurch und schien die Finger zu                    dulden,"
   },
   {
     "FIELD1": "6",
-    "FIELD2": "Sed nemo potuit tangere: merda fuit.",
-    "FIELD3": "Aber berühren konnt's keiner: es wurde zu Kot."
+    "FIELD2": "Sed nemo potuit tangere: merda                      fuit.",
+    "FIELD3": "Aber berühren konnt's                      keiner: es wurde zu Kot."
   },
   {
     "FIELD1": "3,38",
@@ -902,12 +3287,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Quae te causa trahit vel quae fiducia Romam,",
-    "FIELD3": "Sextus, was für ein Grund, für Vertrauen zieht dich nach Rom hin?"
+    "FIELD3": "Sextus, was für ein Grund, für Vertrauen                    zieht dich nach Rom hin?"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Sexte? quid aut speras aut petis inde? refer.",
-    "FIELD3": "Sage heraus, was hoffst oder begehrest du dort?"
+    "FIELD2": "Sexte? quid aut speras aut                      petis inde? refer.",
+    "FIELD3": "Sage heraus, was hoffst oder                      begehrest du dort?"
   },
   {
     "FIELD1": "3",
@@ -916,8 +3301,8 @@
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Atque erit in triplici par mihi nemo foro.'",
-    "FIELD3": "Sprichst du, \"es tut auf den drei Foren mir keiner es gleich.\""
+    "FIELD2": "Atque erit in triplici par                      mihi nemo foro.'",
+    "FIELD3": "Sprichst du, \"es tut auf                      den drei Foren mir keiner es gleich.\""
   },
   {
     "FIELD1": "5",
@@ -926,8 +3311,8 @@
   },
   {
     "FIELD1": "6",
-    "FIELD2": "Noras - ; sed neutri pensio tota fuit.",
-    "FIELD3": "Beide kennst du - ; doch bracht's keinem die Miete für's Jahr."
+    "FIELD2": "Noras - ; sed neutri pensio                      tota fuit.",
+    "FIELD3": "Beide kennst du - ; doch bracht's                      keinem die Miete für's Jahr."
   },
   {
     "FIELD1": "7",
@@ -936,8 +3321,8 @@
   },
   {
     "FIELD1": "8",
-    "FIELD2": "Audieris, dices esse Maronis opus.'",
-    "FIELD3": "Die du für Maros Werk, wenn du sie hörest, erklärst.\""
+    "FIELD2": "Audieris, dices esse Maronis                      opus.'",
+    "FIELD3": "Die du für Maros Werk,                      wenn du sie hörest, erklärst.\""
   },
   {
     "FIELD1": "9",
@@ -946,28 +3331,28 @@
   },
   {
     "FIELD1": "10",
-    "FIELD2": "Sunt ibi, Nasones Vergiliosque vides.",
-    "FIELD3": "Frieren, ein Naso ist jeglicher und ein Vergil."
+    "FIELD2": "Sunt ibi, Nasones Vergiliosque                      vides.",
+    "FIELD3": "Frieren, ein Naso ist jeglicher                      und ein Vergil."
   },
   {
     "FIELD1": "11",
     "FIELD2": "'Atria magna colam.' Vix tres aut quattuor ista",
-    "FIELD3": "\"Großen will ich mich weihn\". Es ernährt kaum Dreie bis Viere"
+    "FIELD3": "\"Großen will ich mich weihn\". Es ernährt                    kaum Dreie bis Viere"
   },
   {
     "FIELD1": "12",
-    "FIELD2": "Res aluit, pallet cetera turba fame.",
-    "FIELD3": "Dieses Geschäft, und es bleicht Hunger die übrige Schar."
+    "FIELD2": "Res aluit, pallet cetera turba                      fame.",
+    "FIELD3": "Dieses Geschäft, und es                      bleicht Hunger die übrige Schar."
   },
   {
     "FIELD1": "13",
     "FIELD2": "'Quid faciam? suade: nam certum est vivere Romae.'",
-    "FIELD3": "\"Rate! Was soll ich tun? denn in Rom zu bleiben beschloss ich\"."
+    "FIELD3": "\"Rate! Was soll ich tun? denn in Rom zu bleiben beschloss                    ich\"."
   },
   {
     "FIELD1": "14",
-    "FIELD2": "Si bonus es, casu vivere, Sexte, potes.",
-    "FIELD3": "Sextus, ein Zufall ist's, wenn du's als redlicher kannst."
+    "FIELD2": "Si bonus es, casu vivere, Sexte,                      potes.",
+    "FIELD3": "Sextus, ein Zufall ist's, wenn                      du's als redlicher kannst."
   },
   {
     "FIELD1": "3,43",
@@ -977,22 +3362,22 @@
   {
     "FIELD1": "1",
     "FIELD2": "Mentiris iuvenem tinctis, Laetine, capillis,",
-    "FIELD3": "Durch gefärbtes Haar, Lätin, erlügst du den Jüngling,"
+    "FIELD3": "Durch gefärbtes Haar, Lätin, erlügst                    du den Jüngling,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Tam subito corvus, qui modo cycnus eras.",
-    "FIELD3": "Du, der ein Schwan einst war, wurdest ein Rabe so schnell."
+    "FIELD2": "Tam subito corvus, qui modo                      cycnus eras.",
+    "FIELD3": "Du, der ein Schwan einst war,                      wurdest ein Rabe so schnell."
   },
   {
     "FIELD1": "3",
     "FIELD2": "Non omnes fallis; scit te Proserpina canum:",
-    "FIELD3": "Alle täuschest du nicht; Proserpina weiß, dass du grau bist:"
+    "FIELD3": "Alle täuschest du nicht; Proserpina weiß, dass                    du grau bist:"
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Personam capiti detrahet illa tuo.",
-    "FIELD3": "Und bald wird von dem Haupt diese die Maske dir ziehn."
+    "FIELD2": "Personam capiti detrahet illa                      tuo.",
+    "FIELD3": "Und bald wird von dem Haupt                      diese die Maske dir ziehn."
   },
   {
     "FIELD1": "3,56",
@@ -1002,12 +3387,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Sit cisterna mihi, quam vinea, malo Ravennae,",
-    "FIELD3": "Mehr als ein Weinberg gilt in Ravenna mir ein Zisternlein;"
+    "FIELD3": "Mehr als ein Weinberg gilt in Ravenna mir ein                    Zisternlein;"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Cum possim multo vendere pluris aquam.",
-    "FIELD3": "Denn viel höheren Preis zahlt man für Wasser mir dort."
+    "FIELD2": "Cum possim multo vendere pluris                      aquam.",
+    "FIELD3": "Denn viel höheren Preis                      zahlt man für Wasser mir dort."
   },
   {
     "FIELD1": "3,61",
@@ -1017,12 +3402,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Esse nihil dicis quidquid petis, inprobe Cinna:",
-    "FIELD3": "Frecher Cinna, du nennst das nichts, um was du auch bittest:"
+    "FIELD3": "Frecher Cinna, du nennst das nichts, um was du                    auch bittest:"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Si nil, Cinna, petis, nil tibi, Cinna, nego.",
-    "FIELD3": "Bittest du, Cinna, um nichts, weiger' ich, Cinna, dir nichts."
+    "FIELD2": "Si nil, Cinna, petis, nil tibi,                      Cinna, nego.",
+    "FIELD3": "Bittest du, Cinna, um nichts,                      weiger' ich, Cinna, dir nichts."
   },
   {
     "FIELD1": "3,63",
@@ -1032,22 +3417,22 @@
   {
     "FIELD1": "1",
     "FIELD2": "Cotile, bellus homo es: dicunt hoc, Cotile, multi.",
-    "FIELD3": "Dass du ein artiger Mann, das sagen, Cotilus, viele,"
+    "FIELD3": "Dass du ein artiger Mann, das sagen, Cotilus,                    viele,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Audio: sed quid sit, dic mihi, bellus homo.",
-    "FIELD3": "Hör' ich: Aber was ist, sag's mir, ein artiger Mann?"
+    "FIELD2": "Audio: sed quid sit, dic mihi,                      bellus homo.",
+    "FIELD3": "Hör' ich: Aber was ist,                      sag's mir, ein artiger Mann?"
   },
   {
     "FIELD1": "3",
     "FIELD2": "''Bellus homo est, flexos qui digerit ordine crines,",
-    "FIELD3": "\"Artig heißet ein Mann, der in zierliche Locken das Haar legt,"
+    "FIELD3": "\"Artig heißet ein Mann, der in zierliche Locken                    das Haar legt,"
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Balsama qui semper, cinnama semper olet;",
-    "FIELD3": "Welcher nach Balsam stets duftet, beständig nach Zimt;"
+    "FIELD2": "Balsama qui semper, cinnama                      semper olet;",
+    "FIELD3": "Welcher nach Balsam stets duftet,                      beständig nach Zimt;"
   },
   {
     "FIELD1": "5",
@@ -1056,18 +3441,18 @@
   },
   {
     "FIELD1": "6",
-    "FIELD2": "Qui movet in varios bracchia volsa modos;",
+    "FIELD2": "Qui movet in varios bracchia                      volsa modos;",
     "FIELD3": "Der mit enthaartem Arm gaukelnde Wendungen macht;"
   },
   {
     "FIELD1": "7",
     "FIELD2": "Inter femineas tota qui luce cathedras",
-    "FIELD3": "Der zu den Füßen der Frau'n sich setzt und den Tag da verbringet,"
+    "FIELD3": "Der zu den Füßen der Frau'n sich setzt                    und den Tag da verbringet,"
   },
   {
     "FIELD1": "8",
-    "FIELD2": "Desidet atque aliqua semper in aure sonat,",
-    "FIELD3": "Und in irgend ein Ohr immer zu flüstern was hat,"
+    "FIELD2": "Desidet atque aliqua semper                      in aure sonat,",
+    "FIELD3": "Und in irgend ein Ohr immer                      zu flüstern was hat,"
   },
   {
     "FIELD1": "9",
@@ -1077,7 +3462,7 @@
   {
     "FIELD1": "10",
     "FIELD2": "Pallia vicini qui refugit cubiti;",
-    "FIELD3": "Der vor des Nachbararms Mantel zu schützen sich sucht,"
+    "FIELD3": "Der vor des Nachbararms Mantel                      zu schützen sich sucht,"
   },
   {
     "FIELD1": "11",
@@ -1086,8 +3471,8 @@
   },
   {
     "FIELD1": "12",
-    "FIELD2": "Hirpini veteres qui bene novit avos.'",
-    "FIELD3": "Welcher die Ahnen Hirpins sämtlich zu nennen vermag.\""
+    "FIELD2": "Hirpini veteres qui bene novit                      avos.'",
+    "FIELD3": "Welcher die Ahnen Hirpins sämtlich                      zu nennen vermag.\""
   },
   {
     "FIELD1": "13",
@@ -1096,8 +3481,8 @@
   },
   {
     "FIELD1": "14",
-    "FIELD2": "Res pertricosa est, Cotile, bellus homo.",
-    "FIELD3": "Ein gar närrisches Ding ist doch ein artiger Mann."
+    "FIELD2": "Res pertricosa est, Cotile,                      bellus homo.",
+    "FIELD3": "Ein gar närrisches Ding                      ist doch ein artiger Mann."
   },
   {
     "FIELD1": "4,12",
@@ -1107,12 +3492,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Nulli, Thai, negas, sed si te non pudet istud,",
-    "FIELD3": "Keinem versagest du dich; doch schämst du, Thais, dich des nicht,"
+    "FIELD3": "Keinem versagest du dich; doch schämst du,                    Thais, dich des nicht,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Hoc saltem pudeat, Thai, negare nihil.",
-    "FIELD3": "Schäme dich wenigstens des, Thais, dass nichts du versagst!"
+    "FIELD2": "Hoc saltem pudeat, Thai, negare                      nihil.",
+    "FIELD3": "Schäme dich wenigstens                      des, Thais, dass nichts du versagst!"
   },
   {
     "FIELD1": "4,21",
@@ -1126,7 +3511,7 @@
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Adfirmat Segius: probatque, quod se",
+    "FIELD2": "Adfirmat Segius: probatque,                    quod se",
     "FIELD3": "Zeigt uns Segius und beweist's, er sieht ja"
   },
   {
@@ -1135,7 +3520,7 @@
     "FIELD3": "Sich, indem er sie leugnet, reich geworden."
   },
   {
-    "FIELD1": "Versmaß: Phalaeceus (Hendekasyllabus)",
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
     "FIELD2": "",
     "FIELD3": ""
   },
@@ -1147,12 +3532,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Omnes quas habuit, Fabiane, Lycoris amicas",
-    "FIELD3": "Sämtliche Freundinnen hat, Fabian, Lykoris bestattet,"
+    "FIELD3": "Sämtliche Freundinnen hat, Fabian, Lykoris                    bestattet,"
   },
   {
     "FIELD1": "2",
     "FIELD2": "Extulit: uxori fiat amica meae.",
-    "FIELD3": "Möchte die Freundin auch meiner Gemahlin sie sein."
+    "FIELD3": "Möchte die Freundin auch                      meiner Gemahlin sie sein."
   },
   {
     "FIELD1": "4,36",
@@ -1161,13 +3546,13 @@
   },
   {
     "FIELD1": "1",
-    "FIELD2": "Cana est barba tibi, nigra est coma: tinguere barbam",
-    "FIELD3": "Grau ist, Olus, dein Bart, dein Haupthaar schwarz: und der Grund ist,"
+    "FIELD2": "Cana est barba tibi, nigra est coma: tinguere                    barbam",
+    "FIELD3": "Grau ist, Olus, dein Bart, dein Haupthaar schwarz:                    und der Grund ist,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Non potes - haec causa est - et potes, Ole, comam.",
-    "FIELD3": "Färben kannst du dir nicht, Olus, den Bart, doch das Haar."
+    "FIELD2": "Non potes - haec causa est                      - et potes, Ole, comam.",
+    "FIELD3": "Färben kannst du dir nicht,                      Olus, den Bart, doch das Haar."
   },
   {
     "FIELD1": "4,41",
@@ -1177,12 +3562,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Quid recitaturus circumdas vellera collo?",
-    "FIELD3": "Was umgibst du den Hals, um uns vorzulesen, mit Wolle?"
+    "FIELD3": "Was umgibst du den Hals, um uns vorzulesen, mit                    Wolle?"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Conveniunt nostris auribus ista magis.",
-    "FIELD3": "Viel willkommener würd' unseren Ohren das sein."
+    "FIELD2": "Conveniunt nostris auribus                      ista magis.",
+    "FIELD3": "Viel willkommener würd'                      unseren Ohren das sein."
   },
   {
     "FIELD1": "4,56",
@@ -1192,12 +3577,12 @@
   {
     "FIELD1": "1",
     "FIELD2": "Munera quod senibus viduisque ingentia mittis,",
-    "FIELD3": "Weil du gewaltig viel verschenkst an Witwen und Greise,"
+    "FIELD3": "Weil du gewaltig viel verschenkst an Witwen und                    Greise,"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Vis te munificum, Gargiliane, vocem?",
-    "FIELD3": "Soll freigebig ich dich nennen, o Gargilian?"
+    "FIELD2": "Vis te munificum, Gargiliane,                      vocem?",
+    "FIELD3": "Soll freigebig ich dich nennen,                      o Gargilian?"
   },
   {
     "FIELD1": "3",
@@ -1206,18 +3591,18 @@
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Qui potes insidias dona vocare tuas:",
-    "FIELD3": "Der du Geschenk frech nennst deine bestrickende List."
+    "FIELD2": "Qui potes insidias dona vocare                      tuas:",
+    "FIELD3": "Der du Geschenk frech nennst                      deine bestrickende List."
   },
   {
     "FIELD1": "5",
     "FIELD2": "Sic avidis fallax indulget piscibus hamus,",
-    "FIELD3": "So wird gierigen Fischen geschenkt von der rückischen Angel,"
+    "FIELD3": "So wird gierigen Fischen geschenkt von der rückischen                    Angel,"
   },
   {
     "FIELD1": "6",
     "FIELD2": "callida sic stultas decipit esca feras.",
-    "FIELD3": "So das törichte Wild listig vom Köder getäuscht."
+    "FIELD3": "So das törichte Wild listig                      vom Köder getäuscht."
   },
   {
     "FIELD1": "7",
@@ -1226,8 +3611,8 @@
   },
   {
     "FIELD1": "8",
-    "FIELD2": "Si nescis: dona, Gargiliane, mihi.",
-    "FIELD3": "Wenn du es noch nicht weißt, lehren: beschenke du mich!"
+    "FIELD2": "Si nescis: dona, Gargiliane,                      mihi.",
+    "FIELD3": "Wenn du es noch nicht weißt,                      lehren: beschenke du mich!"
   },
   {
     "FIELD1": "4,72",
@@ -1237,22 +3622,22 @@
   {
     "FIELD1": "1",
     "FIELD2": "Exigis, ut donem nostros tibi, Quinte, libellos.",
-    "FIELD3": "Quintus, du forderst mich auf, dir meine Bücher zu schenken."
+    "FIELD3": "Quintus, du forderst mich auf, dir meine Bücher                    zu schenken."
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Non habeo, sed habet bibliopola Tryphon.",
-    "FIELD3": "Quintus, ich habe sie nicht, Tryphon verkauft sie jedoch."
+    "FIELD2": "Non habeo, sed habet bibliopola                      Tryphon.",
+    "FIELD3": "Quintus, ich habe sie nicht,                      Tryphon verkauft sie jedoch."
   },
   {
     "FIELD1": "3",
     "FIELD2": "'Aes dabo pro nugis et emam tua carmina sanus?",
-    "FIELD3": "\"Geld gäb' ich für den Tand, bei Vernunft kauft' ich die Gedichte?"
+    "FIELD3": "\"Geld gäb' ich für den Tand, bei Vernunft kauft'                    ich die Gedichte?"
   },
   {
     "FIELD1": "4",
-    "FIELD2": "Non' inquis 'faciam tam fatue.' Nec ego.",
-    "FIELD3": "Nimmer werd' ich so dumm handeln\", so sagst du. Noch ich."
+    "FIELD2": "Non' inquis 'faciam tam fatue.'                      Nec ego.",
+    "FIELD3": "Nimmer werd' ich so dumm handeln\",                      so sagst du. Noch ich."
   },
   {
     "FIELD1": "4,85",
@@ -1262,16 +3647,16 @@
   {
     "FIELD1": "1",
     "FIELD2": "Nos bibimus vitro, tu murra, Pontice. Quare?",
-    "FIELD3": "Ponticus, weshalb trinken aus Glas wir, du aus Murrinen?"
+    "FIELD3": "Ponticus, weshalb trinken aus Glas wir, du aus                    Murrinen?"
   },
   {
     "FIELD1": "2",
-    "FIELD2": "Prodat perspicuus ne duo vina calix.",
-    "FIELD3": "Der durchsichtige Kelch zeigte sonst anderen Wein."
+    "FIELD2": "Prodat perspicuus ne duo vina                      calix.",
+    "FIELD3": "Der durchsichtige Kelch zeigte                      sonst anderen Wein."
   },
   {
     "FIELD1": "4,89",
-    "FIELD2": "LXXXIX\n Abschlussgedicht des 4. Buches",
+    "FIELD2": "LXXXIX\n                     Abschlussgedicht des 4. Buches",
     "FIELD3": ""
   },
   {
@@ -1317,7 +3702,7 @@
   {
     "FIELD1": "9",
     "FIELD2": "'Ohe, iam satis est, ohe, libelle.'",
-    "FIELD3": "\"Halt, jetzt ist's zur Genüge, halt, o Büchlein!\""
+    "FIELD3": "\"Halt,                    jetzt ist's zur Genüge, halt, o Büchlein!\""
   },
   {
     "FIELD1": "",
@@ -1325,7 +3710,7 @@
     "FIELD3": ""
   },
   {
-    "FIELD1": "Versmaß: Phalaeceus (Hendekasyllabus)",
+    "FIELD1": "Versmaß:  Phalaeceus (Hendekasyllabus)",
     "FIELD2": "",
     "FIELD3": ""
   }
