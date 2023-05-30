@@ -113,9 +113,9 @@
     <ul>
       {{#each sorted}}
       <li>
-        Text {{this.name}}: {{this.erkannteWords}}% erkannte wörter | total
-        words: {{this.totalWordCount}} {{#ifCond this.totalWordCount '>' '50'}}
-        | <mark>Kann der text sein</mark>
+        Text {{this.name}}: {{this.erkannteWords}}% erkannte wörter | anzahl von
+        wörtern: {{this.totalWordCount}} {{#ifCond this.totalWordCount '>'
+        '50'}} | <mark>Kann der text sein</mark>
         {{/ifCond}}
       </li>
       {{/each}}
