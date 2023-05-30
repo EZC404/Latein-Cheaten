@@ -25,7 +25,7 @@ function countWordsInArray(array) {
   return result;
 }
 
-var html = fs.readFileSync("template.html", "utf-8");
+var html = fs.readFileSync("./pdfGen/template.html", "utf-8");
 var options = {
   format: "A3",
   orientation: "portrait",
@@ -36,21 +36,27 @@ var options = {
     },
   },
 };
-var texts = require("./test.json").texts;
+var texts = require("../test.json").texts;
 
 texts.forEach((text, i) => {
   texts[i].words = countWordsInArray(text.words);
+  texts[i].erkannteWords = text.erkannteWords.toString().substring(0, 5);
+  texts[i].totalWordCount = text.text.split(" ").length;
 });
+
+let sorted = texts
+  .slice()
+  .sort((a, b) => (a.erkannteWords < b.erkannteWords ? 1 : -1));
 
 var document = {
   html: html,
   data: {
     text: texts,
+    sorted: sorted,
   },
   path: "./output.pdf",
   type: "",
 };
-console.log(texts);
 
 pdf
   .create(document, options)

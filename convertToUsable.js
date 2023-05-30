@@ -4,6 +4,8 @@ let total = [];
 
 let cur = {};
 
+// Converts the texts from https://www.gottwein.de/Lat/mart/ausw01.php to a valid json the tabel is converted to a json using https://www.convertjson.com/html-table-to-json.htm
+
 const romanNumeralRegex =
   /^(M{0,3})(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/;
 

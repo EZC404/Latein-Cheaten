@@ -60,7 +60,7 @@ type outJson struct {
 }
 
 func main() {
-	db, err := sql.Open("mysql", "root:root@(127.0.0.1:3308)/TestDb?parseTime=true")
+	db, err := sql.Open("mysql", "root:root@(127.0.0.1:3308)/TestDb?parseTime=true") // if you clone the repo and use the docker compose file change TestDb to test_db
 
 	if err != nil {
 		log.Fatal(err)

@@ -95,10 +95,13 @@
   <body>
     <h1>Latein Texte</h1>
     <span
-      >Sortier basirend auf wie viele wörter erkannt worden von den stammformen
+      >Sortier basirend auf wie viele wörter erkannt worden von den stammformen,
       viele wörter werden nicht erkennt weil die form von den stammformen zu
-      sehr abweicht</span
-    >
+      sehr abweicht. wenn "Kann der text sein" hinter dem text steht heißt das
+      das der text über 40 wörter hat aber sie kann auch einfach mehrere texte
+      nehmen und uns die übersetzen lassen also kann man sich auf diese liste
+      trotzdem nicht verlassen.
+    </span>
     <h3>Muster wie das die vocs erkennt:</h3>
     <div class="pcode">
       <div style="color: blue">Stammform(bsp.: oriri, ori, ora)</div>
@@ -106,6 +109,18 @@
       <div style="color: red">endung</div>
     </div>
     <h2>Texte:</h2>
+
+    <ul>
+      {{#each sorted}}
+      <li>
+        Text {{this.name}}: {{this.erkannteWords}}% erkannte wörter | total
+        words: {{this.totalWordCount}} {{#ifCond this.totalWordCount '>' '50'}}
+        | <mark>Kann der text sein</mark>
+        {{/ifCond}}
+      </li>
+      {{/each}}
+    </ul>
+
     <div class="container">
       {{#each text}}
       <div class="text">
